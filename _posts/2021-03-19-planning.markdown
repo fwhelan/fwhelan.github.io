@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "On Planning, Patience, and Perseverance in applying for Fellowships & Funding"
+date:   2021-03-19 08:08:27 +0100
+categories: jekyll update
+---
+We all know that Fellowships and various other funding opportunities can help progress our research goals and careers. But how we come to obtain funding isn’t always a straight-forward path. Although I can only speak from my own experience, I’ve put together a few thoughts on what has been helpful for me to keep in mind during the process.
+
+Planning. It’s cliché, but it’s true that there is no such thing as starting too early. Some of the ideas that I have submitted as part of Fellowship applications I started thinking of 3 years prior. It takes time to develop ideas, and practice to be able to communicate those ideas well to a general scientific audience. What I’ve found helpful is to carry around a small notebook where I can jot down random thoughts and ideas that come to mind while reading, brainstorming, or conversing with colleagues. Later, I block out time to return to some of those thoughts and develop the ones that I think might have merit. Later, once I’ve drafted the idea into something closer to an application, I ask colleagues for feedback. This feedback is vital and it’s really helpful to go through rounds of edits and really hone the application. However, this is only possible if you start early enough to be able to give your colleagues enough time to provide this feedback. I remember the first application that I submitted as a post-graduate went through at least 20 rounds of edits with colleagues before it was submitted (it wasn’t successful!).
+
+Patience. I’m sure some people are successful with their first application, but success is often something that takes time. I think it’s also important not to get too attached to a specific concept/idea or our communication of it. I’ve often had colleagues suggest very large edits, complete re-writes, or comment that I am not explaining a concept clearly. It’s often easy to overlook these comments when we become too married to our own words. It’s also helpful to give yourself enough time to write a draft, leave it alone for a while, and then return to it with fresh eyes.
+
+Perseverance. These things take time. I applied for at least 8 different funding opportunities before I was successful in obtaining a Marie Sklodowska-Curie Independent Fellowship. Sometimes, we mistakenly look at individuals with Fellowships and assume that it came easily or quickly. As a community, we need to be more open about our failures in parallel with celebrating our successes. It is, of course, challenging to face the rejection of an application that you put so much time and effort into crafting; but it’s the perseverance through this rejection, and the ability to not view it as a personal attack on our ideas, research ability, or creditability that will allow us to persevere in academia.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/fwhelan-microsoc.jpeg){:width="600px" }
+{: refdef}

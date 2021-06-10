@@ -1,0 +1,33 @@
+---
+layout: page
+title: Lab Members
+permalink: /members/
+---
+
+<div id="content">
+<img align = "right" src="/assets/images/members/Fiona-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Fiona Whelan, Anne McLaren Fellow</b></h3>
+
+Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previously, Fiona was a <a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">MSCA Postdoctoral Fellow</a> in <a href="http://mcinerneylab.com/">James McInerney's</a> research group investigating gene co-occurrence patterns in microbial pangenomes. Fiona conducted her Ph.D. research on the human microbiome and cystic fibrosis in the laboratory of <a href="http://surettelab.ca/">Dr. Michael G. Surette</a> at <a href="http://mcmaster.ca/">McMaster University</a>, and a MSc with <a href="http://bowdish.ca/">Dr. Dawn Bowdish</a>, also at McMaster University, investigating the evolutionary history of a family of immune cell receptors.
+</div>
+
+<div id="content">
+<img align="right" src="/assets/images/members/Arooj-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Arooj Qamar, MSc Student</b></h3>
+
+Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of Toronto</a> in molecular biology, immunology and disease. Before deciding to pursue a Masters, Arooj worked as a Data Analyst for investment companies, and as a lab technician at UofT where she looked at disease resistance phenotypes in greenhouse crops. Arooj is now interested in combining the two experiences of wet lab biology and data analytics to pursue scientific questions in her Msc at <a href="https://www.ryerson.ca/">Ryerson University</a>. Arooj is co-supervised between Dr. Whelan and <a href="http://www.mcpheelab.ca/lab/">Professor McPhee</a>, investigating the molecular evolution of virulence in Shigella by exploring gene co-occurrence patterns in Shigella subgroups.
+</div>
+
+<div class="separator">Alumni</div>
+
+<div id="content">
+<h3><b>Gabriela Herrero, NSURP Undergraduate</b></h3>
+
+Gabriela joined the lab as a senior at <a href="https://www.uprm.edu/portada/">the University of Puerto Rico at Mayagüez</a> studying Industrial Microbiology. Before joining the Whelan lab, Gabriela worked in the microbiology laboratory on research which focuses on describing the fungi present on the skin of Boa constrictors in Puerto Rico. Sadly, due to the pandemic, that project is on hold. In the Whelan lab, Gabriela was an <a href="https://nsurp.org/">NSURP mentee</a> conducting a virtual bioinformatic project investigating species co-occurrence patterns in the lung microbiome of individuals with cystic fibrosis.
+</div>
+
+<div id="content">
+<h3><b>Robert Alston, NSURP Undergraduate</b></h3>
+
+Robert joined the lab as a senior at <a href="https://www.nccu.edu/">North Carolina Central University</a> studying Pharmaceutical Sciences.  Robert's interests include looking at how the immune systems function can be improved upon naturally, with the use of plants and/or plant derived pharmaceuticals.  With the current COVID 19 pandemic, his on-campus summer internship was canceled.  As <a href="https://nsurp.org/">a NSURP mentee</a>, Robert was investigating whether there are quantitative differences in the microbiota found in the lower respiratory tract of cystic fibrosis patients when they are in an exacerbated vs. stable state.  He is also investigating whether these differences are universal or patient specific.
+</div>

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Arooj wins research award & passes her thesis proposal!"
+date:   2021-05-12 08:08:27 +0100
+categories: jekyll update
+---
+Congratulations are in order for Arooj who has had an eventful few weeks. In April, Arooj won an internal award from Ryerson University entitled “Research Contribution of the Term” for her contribution to our research group's poster at the Microbiology Society Annual Conference.  Arooj followed up the success of this award by passing her thesis proposal, entitled Pathoadaptation in Shigella spp. last week. Congratulations, Arooj!
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/microbiology-society-logo.jpeg){:width="400px" }
+![image](/assets/images/posts/ryerson-university-logo.jpeg){:width="400px" }
+{: refdef}
+
+Poster details: Whelan FJ, Qamar A, McPhee JB, & McInerney JO. "Using gene-gene co-occurrence and avoidance relationships to understand pangenomes via the publicly available Coinfinder software." Poster presentation, Microbiology Society Annual Conference.

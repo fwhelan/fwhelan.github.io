@@ -1,0 +1,64 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default # home
+classes: wide
+
+circlewidth: 190
+---
+
+[//]:![image](/assets/images/whelanlab-logo.png)
+<img src="/assets/images/whelanlab-logo.png" alt="drawing" width="300"/> <img src="/assets/images/header.jpg" alt="drawing" width="600"/>
+
+<div class="row">
+  <div class="figure">
+   <img class="image-main" src="/assets/images/network.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </div>
+  <div class="figure">
+    <img src="/assets/images/cASR-phylo.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </div>
+  <div class="figure">
+    <a href="/members">
+      <img class="image-main" src="/assets/images/circle_lab_members.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+      <img class="image-hover" src="/assets/images/circle_lab_members-hover.svg" alt="drawing" width="{{ page.circlewidth }}">
+    </a>
+  </div>
+  <div class="figure">
+    <img src="/assets/images/elderly-taxa.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </div>
+  <div class="figure">
+    <img src="/assets/images/elderly-pcoa.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </div>
+</div>
+<br></br>
+<div class = "row">
+  <img src="/assets/images/fwhelan-pippetting.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  <a href="/manual">
+    <img src="/assets/images/circle_lab_manual.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+  <img src="/assets/images/longitudinal_events.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  <a href="/software">
+    <img src="/assets/images/circle_software.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+  <a href="publications">
+    <img src="/assets/images/circle_publications.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+</div>
+<div class = "row">
+  <a href="/news">
+    <img src="/assets/images/circle_news.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+  <a href="/research">
+    <img src="/assets/images/circle_research.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+  <img src="/assets/images/cemg-phylo.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  <img src="/assets/images/mbe-triangle.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  <a href="/contact">
+    <img src="/assets/images/circle_contact_us.svg" alt="drawing" width="{{ page.circlewidth  }}"/>
+  </a>
+</div>
+<div class="figure">
+  <img class="image-main" src="/assets/images/circle_lab_members.svg" alt="Demo image 1" width="{{ page.circlewidth }}">
+  <img class="image-hover" src="/assets/images/circle_lab_members-hover.svg" alt="Demo image 2" width="{{ page.circlewidth }}">
+</div>

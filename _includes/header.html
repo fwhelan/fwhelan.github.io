@@ -1,0 +1,54 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
+
+ <div align=“right”>
+<div id="container" style="text-align: right;">
+  <div class="figure">
+    <a href="/">
+      <img class="image-main" src="/assets/images/circle_home.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_home-hover.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/members">
+      <img class="image-main" src="/assets/images/circle_lab_members-white.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_lab_members-hover-black.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/manual">
+      <img class="image-main" src="/assets/images/circle_lab_manual-white.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_lab_manual-hover-black.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/research">
+      <img class="image-main" src="/assets/images/circle_research.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_research-hover.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/news">
+      <img class="image-main" src="/assets/images/circle_news.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_news-hover.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/software">
+      <img class="image-main" src="/assets/images/circle_software-white.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_software-hover-black.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/publications">
+      <img class="image-main" src="/assets/images/circle_publications.svg" alt="drawing" width="120"/>
+      <img class="image-hover" src="/assets/images/circle_publications-hover.svg" alt="drawing" width="120"/>
+    </a>
+  </div>
+</div>
+</div>
+  </div>
+</header>

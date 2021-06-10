@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<style>
+    /*
+      Rollover Image
+     */
+    .figure {
+        /*float: left;
+	horizontal-align: bottom;*/
+        position: relative;
+        /*width: 360px; /* can be omitted for a regular non-lazy image */
+        max-width: 100%;
+    }
+    .figure img.image-hover {
+      /*float: left;*/
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .2s;
+    }
+    .figure:hover img.image-hover {
+      opacity: 1;
+    }
+    #container {
+      /*float: right;*/
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-end;
+      align-items: flex-end;
+      width: 100%;
+      overflow: hidden;
+      margin:auto 0 auto auto;
+      background-image: url("/assets/images/header-with-labtext.svg");
+      background-repeat: no-repeat;
+      background-size:cover;
+      /*height: 180px;
+      /*background-color: lightyellow;
+      border-style: dotted;*/
+    }
+    #content {
+      /*border-style: dotted;*/
+      overflow:auto;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      white-space: normal; 
+    }
+    .separator { /*https://stackoverflow.com/questions/2812770/add-centered-text-to-the-middle-of-a-hr-like-line*/
+      display: flex;
+      align-items: center;
+      text-align: center;
+    }
+
+    .separator::before,
+    .separator::after {
+      content: '';
+      flex: 1;
+      border-bottom: 1px solid #000;
+    }
+
+    .separator:not(:empty)::before {
+      margin-right: .25em;
+    }
+
+    .separator:not(:empty)::after {
+      margin-left: .25em;
+    }
+</style>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Research | The Whelan lab</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Research" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Whelan lab is a research group at the University of Nottingham studying the human microbiome and microbial pangenomes using bioinformatics and microbiology." />
+<meta property="og:description" content="The Whelan lab is a research group at the University of Nottingham studying the human microbiome and microbial pangenomes using bioinformatics and microbiology." />
+<link rel="canonical" href="/research/" />
+<meta property="og:url" content="/research/" />
+<meta property="og:site_name" content="The Whelan lab" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Research" />
+<script type="application/ld+json">
+{"url":"/research/","headline":"Research","description":"The Whelan lab is a research group at the University of Nottingham studying the human microbiome and microbial pangenomes using bioinformatics and microbiology.","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="The Whelan lab" /></head>
+<body><header class="site-header" role="banner">
+  <div class="wrapper"><!--<a class="site-title" rel="author" href="/">The Whelan lab</a>-->
+
+ <div align=“right”>
+<div id="container" style="text-align: right;">
+  <div class="figure">
+    <a href="/">
+      <img class="image-main" src="/assets/images/circle_home.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_home-hover.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/members">
+      <img class="image-main" src="/assets/images/circle_lab_members-white.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_lab_members-hover-black.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/manual">
+      <img class="image-main" src="/assets/images/circle_lab_manual-white.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_lab_manual-hover-black.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/research">
+      <img class="image-main" src="/assets/images/circle_research.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_research-hover.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/news">
+      <img class="image-main" src="/assets/images/circle_news.svg" alt="drawing" width="80"/>
+      <img class="image-hover" src="/assets/images/circle_news-hover.svg" alt="drawing" width="80"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/software">
+      <img class="image-main" src="/assets/images/circle_software-white.svg" alt="drawing" width="100"/>
+      <img class="image-hover" src="/assets/images/circle_software-hover-black.svg" alt="drawing" width="100"/>
+    </a>
+  </div>
+  <div class="figure">
+    <a href="/publications">
+      <img class="image-main" src="/assets/images/circle_publications.svg" alt="drawing" width="120"/>
+      <img class="image-hover" src="/assets/images/circle_publications-hover.svg" alt="drawing" width="120"/>
+    </a>
+  </div>
+</div>
+</div>
+  </div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!DOCTYPE html>
+<style>
+    #contentsoft {
+      /*border-style: dotted;*/
+      width: 25%;
+      float: left;
+      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: flex-end;
+      overflow:auto;
+    }
+    #contentbox {
+      padding: 20px;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+      align-items: flex-start;
+      /*border-style: dotted;*/
+      overflow: auto;
+    }
+</style>
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Research</h1>
+  </header>
+
+  <div class="post-content">
+    <p id="losinfo"><span style="font-size:30px;">The human microbiome</span><span style="font-size:17px;"> – the microbes that live on and in our bodies – has been implicated in a myriad of diseases. The human microbiome generally consists of commensal organisms with beneficial behaviours (e.g. gastrointestinal digestion, immune maturation). However, dysbiosis of the human microbiota has been implicated in many diseases/disorders (IBD, IBS, obesity, cancers) with some evidence for a role in others (autism, depression). Often, dysbiosis is described as a difference in the overall community structure; however, to mitigate these diseases, we must understand the key microbial drivers. However, because this field is still relatively new, we don’t have the algorithms and software to properly understand these communities. The focus of the lab is to develop, test, and use a new computational methodology to better understand the role of human microbiomes in disease.</span></p>
+
+<p id="losinfo"><span style="font-size:30px;">Gene-gene associations</span><span style="font-size:17px;"> – genes rarely exist in isolation but instead together form multi-protein complexes and are part of functional pathways. However, we still have only annotated a fraction of the diversity of genes present across bacterial life. We think that one way to help better characterize this genetic diversity is by interrogating gene-gene association/co-occurrence patterns across large sets of genomes and/or metagenomes.</span></p>
+
+<p id="losinfo"><span style="font-size:30px;">Microbial pangenomics</span><span style="font-size:17px;"> – describe the genetic diversity within a given set of organisms (for e.g., strains of a species). The genes within a pangenome can either be "core" - present in all or most strains - or "accessory" - present in some strains. Accessory genes can include genes which as those involved in anti-microbial resistance (AMR). In the lab, we are interested in understanding gene-gene association patterns that exist across groups of strains.</span></p>
+
+<p>Research interests in the lab include: 1) to identify associations between genetic elements (i.e. strains, operons, genes) that occur during dysbiosis; 2) to study ecological patterns in microbial communities; 3) to study the human microbiome in the context of microbial pangenomics.</p>
+
+<p>The longterm goal of our research is to better understand the human microbiome such that we can better understand the diseases associated with these communities. We conduct this research in a lab that aims to be inclusive, diverse, and innovative.</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">The Whelan lab</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">The Whelan lab</li><li><a class="u-email" href="mailto:fiona.whelan-at-nottingham.ac.uk">fiona.whelan-at-nottingham.ac.uk</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/fwhelan"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">fwhelan</span></a></li><li><a href="https://www.twitter.com/whelanfj"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">whelanfj</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>The Whelan lab is a research group at the University of Nottingham studying the human microbiome and microbial pangenomes using bioinformatics and microbiology.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

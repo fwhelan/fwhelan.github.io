@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New research published in MBE"
+date:   2021-05-12 08:08:27 +0100
+categories: jekyll update
+---
+
+New research, previously submitted as a [pre-print][biorxiv], on the extensive structure of gene-gene associations within the accessory pangenome has now been published in [Molecular Biology and Evolution (MBE)][mbehome]. This is the first project to be published that uses Coinfinder, our recently published software that identifies gene-gene associations and dissociations within microbial pangenomes. In this paper, we use Pseudomonas spp. as a case study of an open pangenome to show that we observe structure in the "noise" of the accessory gene content. There is an ongoing debate in the literature as to whether the accessory gene content of pangenomes arises due to random drift within horizontally transferred genes or due to some level of selection on this gene content. In this work, we provide evidence that there appears to be selective pressures acting on these genes. Fiona started this work while she was a [Marie Skłodowska-Curie Fellow][msca] in [the McInerney research group][mcinerney].
+
+The manuscript is freely available [here][mbehome] from the publishers webpage.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/mbe.png){:width="400px" }
+{: refdef}
+
+[biorxiv]: https://www.biorxiv.org/content/10.1101/2020.10.28.359307v1
+[mbehome]: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab139/6272232
+[msca]: https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en
+[mcinerney]: http://mcinerneylab.com/

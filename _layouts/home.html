@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<style>
+    /*
+      Rollover Image
+     */
+    .figure {
+	float: left;
+        position: relative;
+        /*width: 360px; /* can be omitted for a regular non-lazy image */
+        max-width: 100%;
+    }
+    .figure img.image-hover {
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .2s;
+    }
+    .figure:hover img.image-hover {
+      opacity: 1;
+    }
+    #container1 {
+      background-color: #E8E8E8;
+      /*float: right;*/
+      display: flex;
+      /*flex-direction: row;*/
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: flex-end;
+      width: 1000px;
+      /*overflow: hidden;
+      margin:auto 0 auto auto;*/
+      /*background-color: lightyellow;*/
+      /*border-style: dotted;*/
+
+    }
+</style>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

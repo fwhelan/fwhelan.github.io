@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On defending, cycling, and moving."
+date:   2017-10-19 08:08:27 +0100
+categories: jekyll update
+---
+Coming soon... view content [here][here].
+
+[here]: https://fionajanewhelan.wixsite.com/home/single-post/2017/10/19/on-defending-cycling-and-moving

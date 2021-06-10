@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<style>
+    #contentsoft {
+      /*border-style: dotted;*/
+      width: 25%;
+      float: left;
+      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: flex-end;
+      overflow:auto;
+    }
+    #contentbox {
+      padding: 20px;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+      align-items: flex-start;
+      /*border-style: dotted;*/
+      overflow: auto;
+    }
+</style>
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New publication: research on how the microbiom of the nost and throat change as we age"
+date:   2014-04-30 08:08:27 +0100
+categories: jekyll update
+---
+Coming soon... view content [here][here].
+
+[here]: https://fionajanewhelan.wixsite.com/home/single-post/2014/04/30/new-publication-research-on-how-the-microbiome-of-the-nose-and-throat-change-as-we-age

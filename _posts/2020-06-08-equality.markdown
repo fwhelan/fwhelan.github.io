@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I believe in equality."
+date:   2020-06-08 08:08:27 +0100
+categories: jekyll update
+---
+Coming soon... view content [here][here].
+
+[here]: https://fionajanewhelan.wixsite.com/home/single-post/2020/06/08/i-believe-in-equality

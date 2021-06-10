@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Engaging with the cystic fibrosis community."
+date:   2016-12-02 08:08:27 +0100
+categories: jekyll update
+---
+Coming soon... view content [here][here].
+
+[here]: https://fionajanewhelan.wixsite.com/home/single-post/2016/12/02/engaging-with-the-cystic-fibrosis-community

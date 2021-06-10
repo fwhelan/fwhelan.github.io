@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<style>
+    /*
+      Rollover Image
+     */
+    .figure {
+        /*float: left;
+	horizontal-align: bottom;*/
+        position: relative;
+        /*width: 360px; /* can be omitted for a regular non-lazy image */
+        max-width: 100%;
+    }
+    .figure img.image-hover {
+      /*float: left;*/
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .2s;
+    }
+    .figure:hover img.image-hover {
+      opacity: 1;
+    }
+    #container {
+      /*float: right;*/
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-end;
+      align-items: flex-end;
+      width: 100%;
+      overflow: hidden;
+      margin:auto 0 auto auto;
+      background-image: url("/assets/images/header-with-labtext.svg");
+      background-repeat: no-repeat;
+      background-size:cover;
+      /*height: 180px;
+      /*background-color: lightyellow;
+      border-style: dotted;*/
+    }
+    #content {
+      /*border-style: dotted;*/
+      overflow:auto;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      white-space: normal; 
+    }
+    .separator { /*https://stackoverflow.com/questions/2812770/add-centered-text-to-the-middle-of-a-hr-like-line*/
+      display: flex;
+      align-items: center;
+      text-align: center;
+    }
+
+    .separator::before,
+    .separator::after {
+      content: '';
+      flex: 1;
+      border-bottom: 1px solid #000;
+    }
+
+    .separator:not(:empty)::before {
+      margin-right: .25em;
+    }
+
+    .separator:not(:empty)::after {
+      margin-left: .25em;
+    }
+</style>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

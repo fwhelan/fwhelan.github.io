@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "NSURP Summer project presentations go live"
+date:   2020-09-28 08:08:27 +0100
+categories: jekyll update
+---
+
+Coming soon... view content [here][here].
+
+[here]: https://fionajanewhelan.wixsite.com/home/single-post/nsurp-summer-project-presentations-go-live
