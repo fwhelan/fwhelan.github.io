@@ -12,7 +12,7 @@ The Whelan lab is located in the Life Sciences building on the University of Not
 
 If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
 
---Open Positions--
+<!-----Open Positions--
 Currently, there are no open positions in the lab. However, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
 Postdoctoral Fellowships:
 Marie Sklodowska-Cure Individual Fellowships
@@ -35,4 +35,4 @@ NIHR Doctoral Fellowship https://www.nihr.ac.uk/explore-nihr/academy-programmes/
 Newton PhD Programme https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme
 Commonwealth Scholarships
 Marshall Scholarship https://www.marshallscholarship.org/apply
-Central list of Doctoral opportunities: https://research.jhu.edu/rdt/funding-opportunities/graduate/
+Central list of Doctoral opportunities: https://research.jhu.edu/rdt/funding-opportunities/graduate/-->
