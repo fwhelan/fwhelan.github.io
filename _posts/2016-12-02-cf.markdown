@@ -4,6 +4,14 @@ title:  "Engaging with the cystic fibrosis community."
 date:   2016-12-02 08:08:27 +0100
 categories: jekyll update
 ---
-Coming soon... view content [here][here].
 
-[here]: https://fionajanewhelan.wixsite.com/home/single-post/2016/12/02/engaging-with-the-cystic-fibrosis-community
+The majority of the research that I have been conducting as part of my PhD has focussed on the lung microbiota of individuals with cystic fibrosis (CF). Even though the vast majority of my science happens in front of a computer, I have been so fortunate to have had the chance to meet and engage with CF patients in our collaborating lab in Calgary led by [Dr. Michael Parkins][parkins]. These experiences have been so important to me; they are particularly important in helping keep the "big picture" view every time that I get caught down a rabbit hole of software comparisons or code refactoring sessions.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/cf-insights.png){:width="600px" }
+{: refdef}
+
+So when Cystic Fibrosis Canada (CFC) asked if I would [answer a few questions][interview] about the research that they have helped fund, I jumped at the chance. Not only do I enjoy talking about my research - who doesn't! - but I also see it has part of my role as a scientist focussing on human disease to do my part to translate our results out of the strict text of scientific manuscripts, and into something that is more accessible to those who are most impacted by the results.
+
+[parkins]: http://www.ucalgary.ca/bprg/parkinsm
+[interview]: http://www.cysticfibrosis.ca/blog/studying-bacteria-in-cf-lungs/

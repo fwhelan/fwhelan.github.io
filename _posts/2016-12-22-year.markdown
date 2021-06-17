@@ -4,6 +4,16 @@ title:  "Year in review: progress & reflection."
 date:   2016-12-22 08:08:27 +0100
 categories: jekyll update
 ---
-Coming soon... view content [here][here].
 
-[here]: https://fionajanewhelan.wixsite.com/home/single-post/2016/12/22/year-in-review-progress-reflection
+I have this habit, for better or for worse, of sketching out my short- and long-term future plans every year just before the Christmas break.  The short-term usually covers the next year: what conferences I'd like to attend, what professional goals I'd like to accomplish, and my often-overstated research plans to publish all the things. While its often a bit disheartening to look back on these outlines and realize how naive my publishing goals really were, I've found its been a really interesting exercise in self-reflection.
+ 
+Even though I'm happy to see 2016 come to an end for many (political) reasons, this year has actually been a great year of personal and professional growth for me. Many of the stories that I've been involved with were published, including a [culturing study of the gut microbiome][lau] and a [microbiome study of the cystic fibrosis lung][cf]. [Ryan Buensuceso][rb] and I started a science [podcast series][pod]. And the loose ends associated with my main PhD focus are beginning to be tied. It was also an amazing honour to be presented with [The Karl Freeman Prize][kfp] for my closing seminar in the Biochemistry department, and IIDR's [Michael Kamin Hart Memorial Scholarship][Hart] for my PhD research. These awards are particularly important to me because they come internally from within the Department and Institute in which I work; these decisions aren't being made based on a written proposal or application but on myself as a colleague and trainee.
+ 
+Looking ahead, 2017 is going to be terrifyingly awesome. If all goes to plan, I'll be defending my PhD, taking a much deserved break (more on that later), and starting a new adventure (also more on that later). But as overwhelming as this might feel at times, this yearly-exercise of looking ahead allows me to review snapshots into the long-term goals of Fiona's of past. For me, this is a really important way of stepping back from the every day to realize that even though I may feel that goals and deadlines change, or that I'm unsure of my day-to-day research progress, my long-term goals remain the same.
+
+[lau]: http://scholar.google.ca/citations?view_op=view_citation&hl=en&user=QbIwqeUAAAAJ&sortby=pubdate&citation_for_view=QbIwqeUAAAAJ:WF5omc3nYNoC
+[cf]: http://scholar.google.ca/citations?view_op=view_citation&hl=en&user=QbIwqeUAAAAJ&sortby=pubdate&citation_for_view=QbIwqeUAAAAJ:ufrVoPGSRksC
+[rb]: http://twitter.com/rcbuensuceso
+[pod]: http://soundcloud.com/joel-t-165237531/podcast-1-q-a-with-the-iidrs
+[kfp]: http://www.facebook.com/macbiochemrocks/photos/pcb.1146300822122377/1146297405456052/?type=3&theater
+[Hart]: http://dailynews.mcmaster.ca/article/scholarship-honours-late-students-passion-for-scientific-research/
