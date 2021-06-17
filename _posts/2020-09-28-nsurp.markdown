@@ -5,6 +5,13 @@ date:   2020-09-28 08:08:27 +0100
 categories: jekyll update
 ---
 
-Coming soon... view content [here][here].
+The presentations that Gabriela and Robert put together as part of their 4 week NSURP Undergraduate Summer Projects in the Whelan lab have gone live on the [NSURP website][nsurp]. Both students did an excellent job learning the ins and outs of the cystic fibrosis and microbiome literature in such a short amount of time, and applied what they learnt to the interpretation of 16S rRNA gene sequencing data using softwares such as R and phyloseq. They put a lot of work into these short projects and that really shows in their final presentations!
 
-[here]: https://fionajanewhelan.wixsite.com/home/single-post/nsurp-summer-project-presentations-go-live
+Robert and Gabriela were part of a large cohort of great Undergraduate Summer projects focussed in microbiology and there are some amazing presentations posted in a variety of areas, so go check them out [here][nsurp]!
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/nsurp.png){:width="600px" }
+{: refdef}
+
+
+[nsurp]: https://nsurp.org/projects-presentations/
