@@ -5,6 +5,14 @@ date:   2020-09-16 08:08:27 +0100
 categories: jekyll update
 ---
 
-Coming soon... view content [here][here].
+Becoming an Anne McLaren Fellow this past July and opening my own research group gave me the opportunity to invite Undergraduate project students to work with me over the summer. When I announced the AMF, a friend and colleague told me about the NSURP initiative that was being run out of the US. The [National Summer Undergraduate Research Project (NSURP)][nsurp] was put together by Drs. Michael D. L. Johnson, David A. Baltrus, and Jennifer Gardy in order to help mitigate the impact of lab closures in light of the covid19 pandemic on Undergraduate students. Given that Projects would be conducted virtually, it was feasible to apply to be a mentor from the UK. I was paired with 2 Undergraduate students interested in microbiology and how microbes can effect human/host health. Together, we learnt and applied bioinformatic tools to the study of the cystic fibrosis lung microbiome.
 
-[here]:https://fionajanewhelan.wixsite.com/home/single-post/nsurp-students-finish-for-the-summer
+Although welcoming the first members of the Whelan lab via Zoom wasn't exactly what I pictured when I chose this career path, it worked really well. We used slack for sharing code, papers, and troubleshooting ideas (excellent given our different time zones) and video calls for more in-depth discussions. Even though we only had 4 weeks to complete our research goals, both students did an excellent job making use of the time. It was so rewarding to see how much the students took away from the projects, and how much enthusiasm they had for the research.
+
+The NSURP initiative did an amazing job of making the most out of a difficult situation, while also taking into account that a global pandemic would preferentially impact Black, Indigenous, and People of Colour students. I really hope this initiative returns next summer, and I would strongly encourage others (including Postdocs!) to get involved as mentors.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/nsurp.png){:width="600px" }
+{: refdef}
+
+[nsurp]:http://nsurp.org/
