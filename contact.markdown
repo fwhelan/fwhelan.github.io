@@ -8,31 +8,37 @@ circlewidth2: 80
 circlewidth3: 150
 ---
 
-The Whelan lab is located in the Life Sciences building on the University of Nottingham's University Park campus in Nottingham, UK. We are part of the School of Life Sciences and Division of Cells, Organisms, and Molecular Genetics (COMGen).
+<a href="https://www.nottingham.ac.uk/life-sciences/people/fiona.whelan">The Whelan lab</a> is located in the Life Sciences building on the <a href="https://www.nottingham.ac.uk/">University of Nottingham's</a> University Park campus in Nottingham, UK. We are part of the School of Life Sciences and Division of Cells, Organisms, and Molecular Genetics (COMGen).
+
+<h1>Join us!</h1>
 
 If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
 
-<!-----Open Positions--
+<h3>Open Positions</h3>
 Currently, there are no open positions in the lab. However, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
-Postdoctoral Fellowships:
-Marie Sklodowska-Cure Individual Fellowships
-Newton International Fellowships https://royalsociety.org/grants-schemes-awards/grants/newton-international/
-Wellcome Trust Early Career Scheme
-AXA Fellowships https://www.axa-research.org/en/page/AXA-Fellowships
-Commonwealth Postdoctoral Fellowship
-EMBO Long-term Fellowships
-1851 Research Fellowships https://royalcommission1851.org/fellowships/research-fellowships
-HFSP Postdoctoral Fellowships
-NIHR Advanced Fellowship https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#three
-Dorothy Hodgkin Fellowships https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/
-For those returning after a career break: Daphne Jackson Fellowships https://www.ukri.org/opportunity/daphne-jackson-fellowship/
-Central lists of Postdoctoral opportunities: https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
-	https://ecrcentral.org/fundings
 
+<h5>Postdoctoral Fellowships:</h5>
+<ul>
+  <il><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Postdoctoral Fellowships</a></il>
+  <il><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowships</a></il>
+  <il><a href="https://wellcome.org/grant-funding/schemes/early-career-awards">Wellcome Trust Early Career Awards</a></il>
+  <il><a href="https://www.axa-research.org/en/page/AXA-Fellowships">AXA Fellowships</a></il>
+  <il><a href="">Commonwealth Postdoctoral Fellowship</a></il>
+  <il><a href="">EMBO Long-term Fellowships</a></il>
+  <il><a href="https://royalcommission1851.org/fellowships/research-fellowships">1851 Research Fellowships</a></il>
+  <il><a href="">HFSP Postdoctoral Fellowships</a></il>
+  <il><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#three">NIHR Advanced Fellowship</a></il>
+  <il><a href="https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/">Dorothy Hodgkin Fellowships</a></il>
+  <il><a href="https://www.ukri.org/opportunity/daphne-jackson-fellowship/">Daphne Jackson Fellowships.</a> For those returning after a career break.</il>
+  <il>A list of funding opportunities maintained by <a href="https://ecrcentral.org/fundings">ECR Central</a></il>
+  <il>A list of funding opportunities maintained by <a href="https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/">John Hopkins University</a> (may be more US-focussed).</il>
+</ul>
 
-Doctoral Fellowships:
-NIHR Doctoral Fellowship https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#two
-Newton PhD Programme https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme
-Commonwealth Scholarships
-Marshall Scholarship https://www.marshallscholarship.org/apply
-Central list of Doctoral opportunities: https://research.jhu.edu/rdt/funding-opportunities/graduate/-->
+<h5>Doctoral/Postgraduate Fellowships:</h5>
+<ul>
+  <il><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#two">NIHR Doctoral Fellowship</a></il>
+  <il><a href="https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme">Newton PhD Programme</a></il>
+  <il><a href="">Commonwealth Scholarships</a></il>
+  <il><a href="https://www.marshallscholarship.org/apply">Marshall Scholarship</a><il>
+  <il>A list of funding opportunities maintained by <a href="https://research.jhu.edu/rdt/funding-opportunities/graduate/">John Hopkins University</a> (may be more US-focussed).</il>
+</ul>
