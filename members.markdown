@@ -18,6 +18,10 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of Toronto</a> in molecular biology, immunology and disease. Before deciding to pursue a Masters, Arooj worked as a Data Analyst for investment companies, and as a lab technician at UofT where she looked at disease resistance phenotypes in greenhouse crops. Arooj is now interested in combining the two experiences of wet lab biology and data analytics to pursue scientific questions in her Msc at <a href="https://www.ryerson.ca/">Ryerson University</a>. Arooj is co-supervised between Dr. Whelan and <a href="http://www.mcpheelab.ca/lab/">Professor McPhee</a>, investigating the molecular evolution of virulence in Shigella by exploring gene co-occurrence patterns in Shigella subgroups.
 </div>
 
+<h3><b>Alexis Ayuketah, NSURP Undergraduate</b></h3>
+
+Alexis joined the lab as a rising sophomore at the <a href="https://www.umd.edu/">University of Maryland</a>, studying Neuroscience on a pre-medicine track with an aim to achieve her MD/PhD in graduate school. Though her interests currently include molecular neuroscience and medicine, she still has interest in other fields, those of which include microbiology. In the Whelan Lab as an <a href="https://nsurp.org/">NSURP Mentee</a>, she is currently studying species-species interactions in the cystic fibrosis microbiome, working with DNA sequencing data and the R programming language. When she is not in the lab, she loves to bake and play piano, guitar, or sing!
+
 <div class="separator">Alumni</div>
 
 <div id="content">
