@@ -39,6 +39,6 @@ Currently, there are no open positions in the lab. However, we are always intere
   <li><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#two">NIHR Doctoral Fellowship</a></li>
   <li><a href="https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme">Newton PhD Programme</a></li>
   <li><a href="">Commonwealth Scholarships</a></li>
-  <li><a href="https://www.marshallscholarship.org/apply">Marshall Scholarship</a><li>
+  <li><a href="https://www.marshallscholarship.org/apply">Marshall Scholarship</a></li>
   <li>A list of funding opportunities maintained by <a href="https://research.jhu.edu/rdt/funding-opportunities/graduate/">John Hopkins University</a> (may be more US-focussed).</li>
 </ul>
