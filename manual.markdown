@@ -63,20 +63,6 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 <p>Within the lab, code, protocols, and resources will be shared via the lab's private github repository.</p>
 
 
-<h4><b>Funding Opportunities</b></h4>
-
-<h5><b>PhD Students</b></h5>
-<ul>
-  <li><a href="http://cscuk.dfid.gov.uk/apply/phd-scholarships-high-income-countries/">Commonwealth PhD Scholarships</a>.</li>
-  <li>...more coming soon.</li>
-</ul>
-
-<h5><b>Postdoctoral Fellows</b></h5>
-<ul>
-  <li>...more comming soon.</li>
-</ul>
-
-
 <h4><b>Other Resources</b></h4>
 <ul>
   <li>UoN's <a href="https://www.nottingham.ac.uk/qualitymanual/quality-manual.aspx">Quality Manual</a> outlines the teaching and research regulations at the University.</li>
@@ -86,6 +72,7 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
   <li>The University Park campus is gorgeous. It includes ample places to walk, meet, and sit and reflect. The University provides a short list of some of the highlights <a href="https://www.nottingham.ac.uk/sustainability/grounds/friendsofuniversitypark.aspx">here</a>.</li>
   <li>The <a href="http://life.mcmaster.ca/evoldir.html">EvolDir</a> posts jobs/positions, events, and publications in the field of evolutionary biology.</li>
   <li>Nominate yourself or your colleagues to promote diversity in microbiology! <a href="https://diversifymicrobiology.github.io/">DiversifyMicrobiology</a>.</li>
+  <li><a href="https://blackinmicrobiology.org/">#BlackinMicro</a>, a.k.a. the Black Microbiologists Association.</li>
   <li><a href="https://500womenscientists.org/">500 Women Scientists</a>.</li>
   <li><a href="https://500queerscientists.com/">500 Queer Scientists</a>.</li>
 </ul>
