@@ -11,9 +11,9 @@ This presentation follows a really enjoyable summer having Alexis in the Whelan 
 
 We would like to thank NSURP for making this project possible. It is only through the tireless dedication to this Project by it's [founders][founders] that Alexis was able to join the lab this summer. Alexis's presentation will be available on [NSURP's][nsurp] website.
 
-[//]: #{:refdef: style="text-align: center;"}
-[//]: #![image](/assets/images/posts/alexis-presentation.svg){:width="600px" }
-[//]: #{: refdef}
+{:refdef: style="text-align: center;"}
+![image](/assets/images/posts/alexis-presentation.svg){:width="600px" }
+{: refdef}
 
 [founders]: https://nsurp.org/about/
 [nsurp]: https://nsurp.org/projects-presentations/
