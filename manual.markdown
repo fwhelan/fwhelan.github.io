@@ -40,20 +40,23 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
   <li>You will take care of yourself and your colleagues before your science.</li>
   <li>You will ask or make known to me if there is something that you need to conduct your research well. If I'm holding up you in some way (e.g. if we need to meet about the direction of a project) or if you need something from me (e.g. a reference letter) you will make me aware.</li>
   <li>You will give me enough time to read drafts, write reference letters etc. and to the best of your ability not ask me for these outputs at the last minute.</li>
+  <li>You will act as a member of the lab team. This might involve helping out other lab members, helping train new members, and contributing to a tidy, organized lab space.</li>
 </ul>
 
 <h4><b>Communication</b></h4>
 
 <p>For all internal communications, we use slack. We use general channels in order to keep everyone in the lab informed, private channels for specific projects/publications, and private DMs for one-on-one communications. Communications involving collaborators might move to email chains. One-on-one meetings will ideally take place in person, but also by video/voice call at a pre-arranged time/software platform. Phone calls outside of pre-arranged times will be considered emergencies.</p>
 
+<p>A few days per week of virtual working (i.e., working from home) is okay as it doesn't effect any scheduled meetings, experiments etc. You should make other members of the group are made aware via slack status updates.</p>
+
 <p>Lab meetings will begin with any pressing lab issues/business then focus on a particular project based on the schedule on the shared lab calendar. There are no stupid questions; always ask.</p>
 
 <p>All meetings will aim to be within core (10am-3pm) hours in order to be accessible to all lab members independent of caring or other responsibilities. Lab members (including me) might communicate (i.e. post on slack, send email) outside of core hours. This does not mean that an immediate response is expected; flexible working does not mean constant working.</p>
 
 
-<h4><b>Well-being</b></h4>
+<h4><b>Health & Well-being</b></h4>
 
-<p>Your mental health is just as important as your physical health, your ongoing experiment, or your next upcoming deadline. It's important to take care of it, and <a href="https://www.nottingham.ac.uk/counselling/">UoN's Counselling Service</a> (free for students and staff) can help. I've been and would be very happy to share my experience one-on-one with you.</p>
+<p>If you physically do not feel well, please do not come to campus. If you're in the middle of an experiment or some other reason you feel makes it essential for you to come in, consider asking other members of the lab to help out. Your mental health is just as important as your physical health, your ongoing experiment, or your next upcoming deadline. It's important to take care of it, and <a href="https://www.nottingham.ac.uk/counselling/">UoN's Counselling Service</a> (free for students and staff) can help. I've been and would be very happy to share my experience one-on-one with you.</p>
 
 
 <h4><b>Open Science</b></h4>
@@ -67,7 +70,7 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 <ul>
   <li>UoN's <a href="https://www.nottingham.ac.uk/qualitymanual/quality-manual.aspx">Quality Manual</a> outlines the teaching and research regulations at the University.</li>
   <li>Free, <a href="https://researchseminars.org/">online</a> research seminars.</li>
-  <li>i<a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to write an abstract</a> (from Nature).</li>
+  <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to write an abstract</a> (from Nature).</li>
   <li>Simple rules for concise <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165">science writing</a>; <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers</a>.</li>
   <li>The University Park campus is gorgeous. It includes ample places to walk, meet, and sit and reflect. The University provides a short list of some of the highlights <a href="https://www.nottingham.ac.uk/sustainability/grounds/friendsofuniversitypark.aspx">here</a>.</li>
   <li>The <a href="http://life.mcmaster.ca/evoldir.html">EvolDir</a> posts jobs/positions, events, and publications in the field of evolutionary biology.</li>
