@@ -18,20 +18,22 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of Toronto</a> in molecular biology, immunology and disease. Before deciding to pursue a Masters, Arooj worked as a Data Analyst for investment companies, and as a lab technician at UofT where she looked at disease resistance phenotypes in greenhouse crops. Arooj is now interested in combining the two experiences of wet lab biology and data analytics to pursue scientific questions in her Msc at <a href="https://www.ryerson.ca/">Ryerson University</a>. Arooj is co-supervised between Dr. Whelan and <a href="http://www.mcpheelab.ca/lab/">Professor McPhee</a>, investigating the molecular evolution of virulence in Shigella by exploring gene co-occurrence patterns in Shigella subgroups.
 </div>
 
-<h3><b>Alexis Ayuketah, NSURP Undergraduate</b></h3>
-
-Alexis joined the lab as a rising sophomore at the <a href="https://www.umd.edu/">University of Maryland</a>, studying Neuroscience on a pre-medicine track with an aim to achieve her MD/PhD in graduate school. Though her interests currently include molecular neuroscience and medicine, she still has interest in other fields, those of which include microbiology. In the Whelan Lab as an <a href="https://nsurp.org/">NSURP Mentee</a>, she is currently studying species-species interactions in the cystic fibrosis microbiome, working with DNA sequencing data and the R programming language. When she is not in the lab, she loves to bake and play piano, guitar, or sing!
-
 <div class="separator">Alumni</div>
 
 <div id="content">
-<h3><b>Gabriela Herrero, NSURP Undergraduate</b></h3>
+<h3><b>Alexis Ayuketah, NSURP Undergraduate (2021)</b></h3>
+
+Alexis joined the lab as a rising sophomore at the <a href="https://www.umd.edu/">University of Maryland</a>, studying Neuroscience on a pre-medicine track with an aim to achieve her MD/PhD in graduate school. Though her interests currently include molecular neuroscience and medicine, she still has interest in other fields, those of which include microbiology. In the Whelan Lab as an <a href="https://nsurp.org/">NSURP Mentee</a>, she is currently studying species-species interactions in the cystic fibrosis microbiome, working with DNA sequencing data and the R programming language. When she is not in the lab, she loves to bake and play piano, guitar, or sing!
+</div>
+
+<div id="content">
+<h3><b>Gabriela Herrero, NSURP Undergraduate (2020)</b></h3>
 
 Gabriela joined the lab as a senior at <a href="https://www.uprm.edu/portada/">the University of Puerto Rico at Mayagüez</a> studying Industrial Microbiology. Before joining the Whelan lab, Gabriela worked in the microbiology laboratory on research which focuses on describing the fungi present on the skin of Boa constrictors in Puerto Rico. Sadly, due to the pandemic, that project is on hold. In the Whelan lab, Gabriela was an <a href="https://nsurp.org/">NSURP mentee</a> conducting a virtual bioinformatic project investigating species co-occurrence patterns in the lung microbiome of individuals with cystic fibrosis.
 </div>
 
 <div id="content">
-<h3><b>Robert Alston, NSURP Undergraduate</b></h3>
+<h3><b>Robert Alston, NSURP Undergraduate (2020)</b></h3>
 
 Robert joined the lab as a senior at <a href="https://www.nccu.edu/">North Carolina Central University</a> studying Pharmaceutical Sciences.  Robert's interests include looking at how the immune systems function can be improved upon naturally, with the use of plants and/or plant derived pharmaceuticals.  With the current COVID 19 pandemic, his on-campus summer internship was canceled.  As <a href="https://nsurp.org/">a NSURP mentee</a>, Robert was investigating whether there are quantitative differences in the microbiota found in the lower respiratory tract of cystic fibrosis patients when they are in an exacerbated vs. stable state.  He is also investigating whether these differences are universal or patient specific.
 </div>
