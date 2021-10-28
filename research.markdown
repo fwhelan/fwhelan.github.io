@@ -13,6 +13,10 @@ permalink: /research/
 
 <p id="losinfo"><span style="font-size:30px;">Microbial pangenomics</span><span style="font-size:17px;"> – describe the genetic diversity within a given set of organisms (for e.g., strains of a species). The genes within a pangenome can either be "core" - present in all or most strains - or "accessory" - present in some strains. Accessory genes can include genes which as those involved in anti-microbial resistance (AMR). In the lab, we are interested in understanding gene-gene association patterns that exist across groups of strains.</span></p>
 
+<div id="content">
+<img align="center" src="/assets/images/research/network.png" alt="drawing" width="1000" />
+</div>
+
 Research interests in the lab include: 1) to identify associations between genetic elements (i.e. strains, operons, genes) that occur during dysbiosis; 2) to study ecological patterns in microbial communities; 3) to study the human microbiome in the context of microbial pangenomics.
 
 The longterm goal of our research is to better understand the human microbiome such that we can better understand the diseases associated with these communities. We conduct this research in a lab that aims to be inclusive, diverse, and innovative.
