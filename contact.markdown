@@ -15,7 +15,9 @@ circlewidth3: 150
 If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
 
 <h3>Open Positions</h3>
-Currently, there are no open positions in the lab. However, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
+The Whelan lab is currently recruiting MRes students. Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.
+
+Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
 
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
