@@ -21,7 +21,7 @@ Additionally, we are always interested in individuals who would like to apply fo
 
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
-  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Postdoctoral Fellowships</a></li>
+  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Individual Fellowships</a></li>
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowships</a></li>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards">Wellcome Trust Early Career Awards</a></li>
   <li><a href="https://www.axa-research.org/en/page/AXA-Fellowships">AXA Fellowships</a></li>
@@ -30,6 +30,7 @@ Additionally, we are always interested in individuals who would like to apply fo
   <li><a href="https://royalcommission1851.org/fellowships/research-fellowships">1851 Research Fellowships</a></li>
   <li><a href="">HFSP Postdoctoral Fellowships</a></li>
   <li><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#three">NIHR Advanced Fellowship</a></li>
+  <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Trust Early Career Fellowships</a></li>
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/">Dorothy Hodgkin Fellowships</a></li>
   <li><a href="https://www.ukri.org/opportunity/daphne-jackson-fellowship/">Daphne Jackson Fellowships.</a> For those returning after a career break.</li>
   <li>A list of funding opportunities maintained by <a href="https://ecrcentral.org/fundings">ECR Central</a></li>
@@ -38,6 +39,7 @@ Additionally, we are always interested in individuals who would like to apply fo
 
 <h4>Doctoral/Postgraduate Fellowships:</h4>
 <ul>
+  <li><a href="https://www.bifonds.de/fellowships-grants/phd-fellowships/who-can-apply-phd.html">The Boehringer Ingelheim Fonds Studentships</a></li>
   <li><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#two">NIHR Doctoral Fellowship</a></li>
   <li><a href="https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme">Newton PhD Programme</a></li>
   <li><a href="">Commonwealth Scholarships</a></li>
