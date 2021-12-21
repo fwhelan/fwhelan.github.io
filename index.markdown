@@ -80,8 +80,8 @@ circlewidth: 190
   </div>
   <div class="figure">
     <a href="/contact">
-      <img class="image-main" src="/assets/images/circle_contact_us.svg" alt="drawing" width="{{ page.circlewidth  }}" style="vertical-align:middle;margin:5px 5px"/>
-      <img class="image-hover" src="/assets/images/circle_contact_us-hover.svg" alt="drawing" width="{{ page.circlewidth  }}" style="vertical-align:middle;margin:5px 5px"/>
+      <img class="image-main" src="/assets/images/circle_contactjoin_us.svg" alt="drawing" width="{{ page.circlewidth  }}" style="vertical-align:middle;margin:5px 5px"/>
+      <img class="image-hover" src="/assets/images/circle_contactjoin_us-hover.svg" alt="drawing" width="{{ page.circlewidth  }}" style="vertical-align:middle;margin:5px 5px"/>
     </a>
   </div>
 <br><br><br><br><br><br><br><br>
