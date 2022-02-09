@@ -22,6 +22,7 @@ Additionally, we are always interested in individuals who would like to apply fo
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
   <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Individual Fellowships</a></li>
+  <li><a href="https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2022/?utm_medium=email&utm_source=govdelivery">BBSRC Discovery Fellowships</a></li>
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowships</a></li>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards">Wellcome Trust Early Career Awards</a></li>
   <li><a href="https://www.axa-research.org/en/page/AXA-Fellowships">AXA Fellowships</a></li>
