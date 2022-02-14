@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Opportunity to join the Whelan lab for a summer placement"
-date:   2021-12-16 08:08:27 +0100
+date:   2022-02-11 08:08:27 +0100
 categories: jekyll update
 ---
 
