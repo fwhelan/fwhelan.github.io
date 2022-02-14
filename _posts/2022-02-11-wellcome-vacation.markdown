@@ -13,6 +13,7 @@ For more information and to apply, please visit UoN's Biomedical Vacation Schola
 ![image](/assets/images/whelanlab-logo.png){:width="400px" }
 {: refdef}
 
+Title: Understanding the interactions between members of the *Streptococcus anginosus* group and *Prevotella sp.* in the cystic fibrosis lung microbiome.
 
 Background: Cystic fibrosis (CF) affects approximately 12,000 people in the UK and Ireland. Pulmonary exacerbations (PEs) cause most of the morbidity and mortality in this patient population. Because PEs are usually successfully treated with antibiotics, we know that the bacteria that inhabit the lungs play an important role in these events. Previous work from myself and others has determined that the presence of the bacteria in the CF lung do not change before, during, and after PEs, suggesting that interactions between members of the microbiota may be more important in driving PEs than their presence alone.
 
