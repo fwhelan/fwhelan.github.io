@@ -19,7 +19,7 @@ Applications are open via the University of Nottingham for an undergraduate summ
 
 The Whelan lab is currently recruiting MRes students. Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.
 
-The Whelan lab would be honoured to host applications to <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/"><The British Academy''s Fellowships for Researchers at Risk> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.
+The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.
 
 Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
 
