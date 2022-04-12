@@ -15,7 +15,7 @@ circlewidth3: 150
 If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
 
 <h3>Open Positions</h3>
-Applications are open via the University of Nottingham for an undergraduate summer placement via Wellcome Trust's Biomedical Vacation Scholarship programme. More information <a href="https://www.nottingham.ac.uk/Researcher-academy/Wellcome-Biomedical-Vacation-Scholarships/index.aspx#Projects">here</a>.
+Applications for an undergraduate summer placement are now open via the University of Nottingham's BBDTP Magnify 2022 Summer School programme. Applications due 2 May 2022. More information <a href="https://www.nottingham.ac.uk/bbdtp/magnify/magnify-2022.aspx">here</a>.
 
 The Whelan lab is currently recruiting MRes students. Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.
 

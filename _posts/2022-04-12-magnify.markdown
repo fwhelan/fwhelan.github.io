@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Opportunity to join the Whelan lab for a summer placement"
+date:   2022-04-12 08:08:27 +0100
+categories: jekyll update
+---
+
+The Whelan lab is currently recruiting eligible Undergraduate students to apply for a 10 week summer placement via the University of Nottingham's BBDTP Magnify Summer School. The placement will involve using *in vitro* microbiological techniques to investigate the interactions between strains of *Staphylococcus aureus* and other members of the cystic fibrosis microbiome. Full details of the project can be found [here][here].
+
+The Magnify scheme welcomes applications from undergraduate students from underrepresented backgrounds. For more information and to apply, please visit UoN's BBDTP Magnify Summer School [webpage][url].
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/whelanlab-logo.png){:width="400px" }
+{: refdef}
+
+Title: Interactions between *Staphylococcus aureus* and other members of the cystic fibrosis sputum microbiome
+
+Overview: Cystic fibrosis (CF) is a genetic disease that, due to increased mucus production in the lungs, allow communities of microorganisms to inhabit the respiratory tract. Traditionally, the majority of these organisms have been ignored as common “commensal” organisms, and the focus instead has been on principal pathogens such as Pseudomonas aeruginosa, Haemophilus influenzae, and Staphylococcus aureus. Staphylococcus aureus is one of the first pathogenic organisms to occupy the lungs of children with CF. This organism is often hard to irradiate and has been linked with decreased morbidity and mortality in individuals with CF. Recently, research has shown that the interactions between commensals and pathogens can result in increased virulence of the pathogen in the lung. For example, in a Drosophila infection model, P. aeruginosa is more pathogenic when it is co-cultivated with various Streptococcus sp. In this summer research placement, we will use in vitro investigations to determine whether S. aureus is similarly affected by various commensal organisms.
+
+[here]: https://www.nottingham.ac.uk/bbdtp/magnify/projects-2022/interactions-between-staphylococcus-aureus-and-other-members-of-the-cystic-fibrosis-sputum-microbiome.aspx
+[url]: https://www.nottingham.ac.uk/bbdtp/magnify/magnify-2022.aspx
