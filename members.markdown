@@ -19,7 +19,7 @@ Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of
 </div>
 
 <div id="content">
-<h3><b>Luc Davies, MSc in Student</b></h3>
+<h3><b>Luc Davies, MSc Student</b></h3>
 </div>
 
 <div id="content">
