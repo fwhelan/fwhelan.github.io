@@ -19,7 +19,10 @@ Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of
 </div>
 
 <div id="content">
+<img align="right" src="/assets/images/members/Luc-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Luc Davies, MSc Student</b></h3>
+
+Luc is currently undertaking an MSc in Bioinformatics at the University of Nottingham hoping to advance his analytical, statistical and computing skills having previously completed a BSc in Biology where he took a great interest studying genetics, particularly those related to infectious bacteria. Luc is currently working on his thesis which involves analysing large volumes of sequencing data taken from cystic fibrosis lung cultures in the hope of discovering and explaining patterns of co-occurrence in anti-microbial resistance genes in addition to compiling his work into a scalable and reusable Python-based pipeline.
 </div>
 
 <div id="content">
