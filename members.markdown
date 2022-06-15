@@ -42,6 +42,12 @@ Saba is currently studying a BSc in Biomedical Science at the <a href="https://w
 <div class="separator">Alumni</div>
 
 <div id="content">
+<h3><b>Jess O'Shea, BBSRC DTP Rotation student (2021)</b></h3>
+
+Jess joined the lab as a BBSRC DTP rotation student at The University of Nottingham. Before joining the Whelan lab, Jess work in the medical manufacturing industry, specialising in microbiological environmental sampling, quality control and assurance, health and safety and medical device regulation. Jess previously was involved in research into <i>Klebsiella</i> bacteriophage and other alternative antimicrobials to combat antimicrobial resistance. In the Whelan lab, Jess was using bioinformatic tools like R to determine potential competition between microbes of the cystic fibrosis lung.
+</div>
+
+<div id="content">
 <h3><b>Gabriela Herrero, NSURP Undergraduate (2020)</b></h3>
 
 Gabriela joined the lab as a senior at <a href="https://www.uprm.edu/portada/">the University of Puerto Rico at Mayagüez</a> studying Industrial Microbiology. Before joining the Whelan lab, Gabriela worked in the microbiology laboratory on research which focuses on describing the fungi present on the skin of Boa constrictors in Puerto Rico. Sadly, due to the pandemic, that project is on hold. In the Whelan lab, Gabriela was an <a href="https://nsurp.org/">NSURP mentee</a> conducting a virtual bioinformatic project investigating species co-occurrence patterns in the lung microbiome of individuals with cystic fibrosis.
