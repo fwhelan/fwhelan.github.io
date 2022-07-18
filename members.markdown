@@ -40,7 +40,7 @@ Saba is currently studying a BSc in Biomedical Science at the <a href="https://w
 </div>
 
 <div id="content">
-<img aling="right" src"/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>
+<img align="right" src"/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Odunayo Ogunnowo, BBSRC DTP Magnify Studentship student</b></h3>
 
 Odunayo is an undergraduate Biomedical Science student at Nottingham Trent University. Odunayo has an interest in microbiology and medicine and is currently toying with the idea of doing both! She is very excited to spend her summer at the Whelan lab completing her research project on the interactions between <i>Staphylococcus aureus</i> and other members of the cystic fibrosis sputum microbiome with which she hopes to gain a wide range of skills in and out of the laboratory. Odunayo is always open to learn and try new things and is confident that the Whelan lab is the place to do so!
