@@ -39,6 +39,13 @@ Alexis joined the lab as a rising junior at the <a href="https://www.umd.edu/">U
 Saba is currently studying a BSc in Biomedical Science at the <a href="https://warwick.ac.uk/">University of Warwick</a>. Her interests are in microbiology and disease ecology, hoping to gain an understanding of the causative agents, risk factors and circumstances that contribute to the induction and proliferation of disease in populations. In the Whelan Lab, she is a Wellcome Trust BVS student investigating the interactions between members of the <i>Streptococcus anginosus</i> group and <i>Prevotella sp.</i> in the cystic fibrosis lung microbiome. Outside of the lab, Saba is passionate about public engagement and outreach, and loves to bake and read.
 </div>
 
+<div id="content">
+<img align="right" src="/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Odunayo Ogunnowo, BBSRC DTP Magnify Studentship student</b></h3>
+
+Odunayo is an undergraduate Biomedical Science student at Nottingham Trent University. Odunayo has an interest in microbiology and medicine and is currently toying with the idea of doing both! She is very excited to spend her summer at the Whelan lab completing her research project on the interactions between <i>Staphylococcus aureus</i> and other members of the cystic fibrosis sputum microbiome with which she hopes to gain a wide range of skills in and out of the laboratory. Odunayo is always open to learn and try new things and is confident that the Whelan lab is the place to do so!
+</div>
+
 <div class="separator">Alumni</div>
 
 <div id="content">
