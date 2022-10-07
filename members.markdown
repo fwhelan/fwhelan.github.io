@@ -12,41 +12,48 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Arooj-Picture.jpg" alt="drawing" width="220"/>
+<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Rebecca Wallis Downham, Excel in Science student</b></h3>
+
+Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab! 
+</div>
+
+<div class="separator">Alumni</div>
+
+<div id="content">
+<!--<img align="right" src="/assets/images/members/Arooj-Picture.jpg" alt="drawing" width="220"/>-->
 <h3><b>Arooj Qamar, MSc Student</b></h3>
 
 Arooj obtained her BSc from the <a href="https://www.utoronto.ca/">University of Toronto</a> in molecular biology, immunology and disease. Before deciding to pursue a Masters, Arooj worked as a Data Analyst for investment companies, and as a lab technician at UofT where she looked at disease resistance phenotypes in greenhouse crops. Arooj is now interested in combining the two experiences of wet lab biology and data analytics to pursue scientific questions in her MSc at <a href="https://www.ryerson.ca/">Toronto Metropolitan University</a>. Arooj is co-supervised between Dr. Whelan and <a href="http://www.mcpheelab.ca/lab/">Professor McPhee</a>, investigating the molecular evolution of virulence in Shigella by exploring gene co-occurrence patterns in Shigella subgroups.
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Luc-Picture.jpg" alt="drawing" width="220"/>
+<!--<img align="right" src="/assets/images/members/Luc-Picture.jpg" alt="drawing" width="220"/>-->
 <h3><b>Luc Davies, MSc Student</b></h3>
 
 Luc is currently undertaking an MSc in Bioinformatics at the University of Nottingham hoping to advance his analytical, statistical and computing skills having previously completed a BSc in Biology where he took a great interest studying genetics, particularly those related to infectious bacteria. Luc is currently working on his thesis which involves analysing large volumes of sequencing data taken from cystic fibrosis lung cultures in the hope of discovering and explaining patterns of co-occurrence in anti-microbial resistance genes in addition to compiling his work into a scalable and reusable Python-based pipeline.
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Alexis-Picture.jpg" alt="drawing" width="220"/>
+<!--<img align="right" src="/assets/images/members/Alexis-Picture.jpg" alt="drawing" width="220"/>-->
 <h3><b>Alexis Ayuketah, NSURP Undergraduate</b></h3> <!-- (2021-2022)-->
 
 Alexis joined the lab as a rising junior at the <a href="https://www.umd.edu/">University of Maryland</a>, studying Neuroscience on a pre-medicine track with an aim to achieve her MD/PhD in graduate school. Though her interests currently include molecular neuroscience and medicine, she still has interest in other fields, those of which include microbiology. In the Whelan Lab as an <a href="https://nsurp.org/">NSURP Mentee</a>, she is currently studying species-species interactions in the cystic fibrosis microbiome, working with DNA sequencing data and the R programming language. When she is not in the lab, she loves to bake and play piano, guitar, or sing!
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Saba-Picture.jpg" alt="drawing" width="220"/>
+<!--<img align="right" src="/assets/images/members/Saba-Picture.jpg" alt="drawing" width="220"/>-->
 <h3><b>Saba Alhagagi, Wellcome Trust Biomedical Vacation Scholarship student</b></h3> <!-- (2021-2022)-->
 
 Saba is currently studying a BSc in Biomedical Science at the <a href="https://warwick.ac.uk/">University of Warwick</a>. Her interests are in microbiology and disease ecology, hoping to gain an understanding of the causative agents, risk factors and circumstances that contribute to the induction and proliferation of disease in populations. In the Whelan Lab, she is a Wellcome Trust BVS student investigating the interactions between members of the <i>Streptococcus anginosus</i> group and <i>Prevotella sp.</i> in the cystic fibrosis lung microbiome. Outside of the lab, Saba is passionate about public engagement and outreach, and loves to bake and read.
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>
+<!--<img align="right" src="/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>-->
 <h3><b>Odunayo Ogunnowo, BBSRC DTP Magnify Studentship student</b></h3>
 
 Odunayo is an undergraduate Biomedical Science student at Nottingham Trent University. Odunayo has an interest in microbiology and medicine and is currently toying with the idea of doing both! She is very excited to spend her summer at the Whelan lab completing her research project on the interactions between <i>Staphylococcus aureus</i> and other members of the cystic fibrosis sputum microbiome with which she hopes to gain a wide range of skills in and out of the laboratory. Odunayo is always open to learn and try new things and is confident that the Whelan lab is the place to do so!
 </div>
-
-<div class="separator">Alumni</div>
 
 <div id="content">
 <h3><b>Jess O'Shea, BBSRC DTP Rotation student (2021)</b></h3>
