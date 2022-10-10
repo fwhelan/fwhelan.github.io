@@ -51,7 +51,7 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 
 <p>A few days per week of virtual working (i.e., working from home) is okay as it doesn't effect any scheduled meetings, experiments etc. You should make other members of the group are made aware via slack status updates.</p>
 
-<p>Lab meetings will begin with any pressing lab issues/business then focus on a particular project based on the schedule on the shared lab calendar. There are no stupid questions; always ask. Attendence is considered mandatory unless you are unwell, have a scheduling conflict, or the meeting falls on a religious/cultural holiday that you recognize.</p>
+<p>Lab meetings will begin with any pressing lab issues/business then focus on a particular project based on the schedule on the shared lab calendar. There are no stupid questions; always ask. Attendance is considered mandatory unless you are unwell, have a scheduling conflict, or the meeting falls on a religious/cultural holiday that you recognize.</p>
 
 <p>All meetings will aim to be within core (10am-3pm) hours in order to be accessible to all lab members independent of caring or other responsibilities. Lab members (including me) might communicate (i.e. post on slack, send email) outside of core hours. This does not mean that an immediate response is expected; flexible working does not mean constant working.</p>
 
