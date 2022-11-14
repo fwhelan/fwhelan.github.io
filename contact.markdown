@@ -15,6 +15,8 @@ circlewidth3: 150
 If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
 
 <h3>Open Positions</h3>
+We have a fully funded PhD position currently available via the NERC Envision DTP programme on the effect of environmental metals on antimicrobial resistance genes in the stickleback microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.
+
 The Whelan lab is currently recruiting MRes students. Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.
 
 The lab has a project on the study of the human microbiome via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 30 May 2022. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.
