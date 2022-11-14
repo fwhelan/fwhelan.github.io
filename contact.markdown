@@ -19,7 +19,7 @@ We have a fully funded PhD position currently available via the NERC Envision DT
 
 The Whelan lab is currently recruiting MRes students. Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.
 
-The lab has a project on the study of the human microbiome via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 30 May 2022. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.
+<!--The lab has a project on the study of the human microbiome via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 30 May 2022. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.-->
 
 The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.
 
