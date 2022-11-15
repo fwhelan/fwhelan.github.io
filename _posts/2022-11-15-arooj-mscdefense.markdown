@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A long-overdue congratulations to Arooj on her MSc defense!"
-date:   2022-11-15 08:08:27 +0100
+date:   2022-11-15 01:08:27 +0100
 categories: jekyll update
 ---
 
