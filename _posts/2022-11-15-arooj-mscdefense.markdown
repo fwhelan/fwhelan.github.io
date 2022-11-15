@@ -12,5 +12,5 @@ Due to the remote nature of the defense, the lab wasn't able to congratulate Aro
 Congratulations, Arooj!
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/arooj-mug.png){:width="400px" }
+![image](/assets/images/arooj_mug.png){:width="400px" }
 {: refdef}
