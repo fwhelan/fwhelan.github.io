@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The lab receives funding from the Royal Society to set up a Drosophilia melanogaster model"
-date:   2022-11-16 08:08:27 +0100
+date:   2022-11-16 01:08:27 +0100
 categories: jekyll update
 ---
 
