@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The lab receives BBSRC International Partnership funds to build collaborations with Canada"
-date:   2022-11-17 08:08:27 +0100
+date:   2022-11-17 01:08:27 +0100
 categories: jekyll update
 ---
 
