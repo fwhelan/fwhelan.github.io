@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Congratulations to Alexis who won the microbiology poster award for her poster presentation at ABRCMS 2022!"
-date:   2022-11-18 08:08:27 +0100
+date:   2022-11-18 01:08:27 +0100
 categories: jekyll update
 ---
 
