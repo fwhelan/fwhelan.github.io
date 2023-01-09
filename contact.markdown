@@ -51,16 +51,16 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 
 <h2>Join us!</h2>
-
+<p>Current open positions in our group:</p>
 <div class="row">
   <div class="box1"> <!-- style="background-color:#aaa;">-->
-    <p>NERC Envision DTP PhD studentship</p>
+    <p>PhD STUDENTSHIP</p>
   </div>
   <div class="box2"> <!-- style="background-color:#bbb;">-->
     <p>Apply by 11 Jan for a Oct 2023 start.</p>
   </div>
   <div class="box3"> <!--style="background-color:#ccc;">-->
-    <p>A fully funded PhD position on the effect of environmental metals on antimicrobial resistance genes in the stickleback microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
+    <p>We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study the stickleback microbiome. The position is a fully funded position via NERC's Envision Doctoral Training Programme (DTP). The project will be co-supervised with Prof. Andrew MacColl and other members of the SoLS and is focussed on understanding the effect of environmental metals on antimicrobial resistance genes in the stickleback skin microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
 </div>
 <br>
@@ -68,7 +68,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <div class="row">
   <div class="box1">
-    <p>MRes studentships</p>
+    <p>MRes STUDENTSHIP</p>
   </div>
   <div class="box2">
     <p>Oct 2023 start.</p>
@@ -78,14 +78,14 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
   </div>
 </div>
 
-If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.
+<p>If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.</p>
 
 
 <!--The lab has a project on the study of the human microbiome via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 30 May 2022. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.-->
 
-The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.
+<p>The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.</p>
 
-Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:
+<p>Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:</p>
 
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
