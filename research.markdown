@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <div id="content">
-<img align="center" src="/assets/images/research/McKay.png" alt="drawing" width="800"/>
+<img align="center" src="/assets/images/research/strep-staph-expt.png" alt="drawing" width="800"/>
 <p id="losinfo"><span style="font-size:30px;">The human microbiome</span><span style="font-size:17px;"> – the microbes that live on and in our bodies – has been implicated in a myriad of diseases. The human microbiome generally consists of commensal organisms with beneficial behaviours (e.g. gastrointestinal digestion, immune maturation). However, dysbiosis of the human microbiota has been implicated in many diseases/disorders (IBD, IBS, obesity, cancers) with some evidence for a role in others (autism, depression). Often, dysbiosis is described as a difference in the overall community structure; however, to mitigate these diseases, we must understand the key microbial drivers. However, because this field is still relatively new, we don’t have the algorithms and software to properly understand these communities. The focus of the lab is to develop, test, and use a new computational methodology to better understand the microbiome. We then use these tools in conjunction with high-throughput culture-enrichment to test hypotheses about the role of the human microbiome in disease.</span></p>
 </div>
 
