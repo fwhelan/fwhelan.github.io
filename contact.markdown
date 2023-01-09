@@ -17,18 +17,18 @@ circlewidth3: 150
 /* Create three equal columns that floats next to each other */
 .box1 {
   float: left;
-  width: 15%;
+  width: 25%;
   padding: 10px;
   /*height: 300px; /* Should be removed. Only for demonstration */
 }
 .box2 {
   float: left;
-  width: 15%;
+  width: 25%;
   padding: 10px;
 }
 .box3 {
   float: left;
-  width: 70%;
+  width: 50%;
   padding: 10px;
 
 /* Clear floats after the columns */
@@ -48,28 +48,32 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <br>
+<br>
 
 <h2>Join us!</h2>
 
 <div class="row">
-  <div class="box1" style="background-color:#aaa;">
+  <div class="box1"> <!-- style="background-color:#aaa;">-->
     <p>NERC Envision DTP PhD studentship</p>
   </div>
-  <div class="box2" style="background-color:#bbb;">
+  <div class="box2"> <!-- style="background-color:#bbb;">-->
     <p>Apply by 11 Jan for a Oct 2023 start.</p>
   </div>
-  <div class="box3" style="background-color:#ccc;">
+  <div class="box3"> <!--style="background-color:#ccc;">-->
     <p>A fully funded PhD position on the effect of environmental metals on antimicrobial resistance genes in the stickleback microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
 </div>
+<br>
+<br>
+<br>
 <div class="row">
-  <div class="box1" style="background-color:#aaa;">
+  <div class="box1">
     <p>MRes studentships</p>
   </div>
-  <div class="box2" style="background-color:#bbb;">
+  <div class="box2">
     <p>Oct 2023 start.</p>
   </div>
-  <div class="box3" style="background-color:#ccc;">
+  <div class="box3">
   <p>Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
   </div>
 </div>
