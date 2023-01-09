@@ -15,12 +15,21 @@ circlewidth3: 150
 }
 
 /* Create three equal columns that floats next to each other */
-.column {
+.box1 {
   float: left;
-  width: 33.33%;
+  width: 15%;
   padding: 10px;
   /*height: 300px; /* Should be removed. Only for demonstration */
 }
+.box2 {
+  float: left;
+  width: 15%;
+  padding: 10px;
+}
+.box3 {
+  float: left;
+  width: 70%;
+  padding: 10px;
 
 /* Clear floats after the columns */
 .row:after {
@@ -35,32 +44,32 @@ circlewidth3: 150
 <div id="content">
 <img align="right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="200"/>
 The Whelan lab is located in the Life Sciences building on the <a href="https://www.nottingham.ac.uk/">University of Nottingham's</a> University Park campus in Nottingham, UK. We are part of the <a href="https://www.nottingham.ac.uk/life-sciences/">School of Life Sciences</a> and <a href="https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/index.aspx">Division of Cells, Organisms, and Molecular Genetics (COMGen)</a>. 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
 
 <h2>Join us!</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="box1" style="background-color:#aaa;">
     <p>NERC Envision DTP PhD studentship</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="box2" style="background-color:#bbb;">
     <p>Apply by 11 Jan for a Oct 2023 start.</p>
   </div>
-  <div class="column" style="background-color:#ccc;">
+  <div class="box3" style="background-color:#ccc;">
     <p>A fully funded PhD position on the effect of environmental metals on antimicrobial resistance genes in the stickleback microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
 </div>
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="box1" style="background-color:#aaa;">
     <p>MRes studentships</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="box2" style="background-color:#bbb;">
     <p>Oct 2023 start.</p>
   </div>
-  <div class="column" style="background-color:#ccc;">
+  <div class="box3" style="background-color:#ccc;">
   <p>Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
   </div>
 </div>
