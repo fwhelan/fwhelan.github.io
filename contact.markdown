@@ -7,6 +7,30 @@ circlewidth: 100
 circlewidth2: 80
 circlewidth3: 150
 ---
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+
 
 <div id="content">
 <img align="right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="200"/>
