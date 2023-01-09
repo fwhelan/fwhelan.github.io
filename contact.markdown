@@ -53,13 +53,13 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
 <div class="row">
-  <div class="box1"> <!-- style="background-color:#aaa;">-->
+  <div class="box1" style="background-color:#A6E1CD;">
     <p>PhD STUDENTSHIP</p>
   </div>
-  <div class="box2"> <!-- style="background-color:#bbb;">-->
+  <div class="box2" style="background-color:#A6E1CD;">
     <p>Apply by 11 Jan for a Oct 2023 start</p>
   </div>
-  <div class="box3"> <!--style="background-color:#ccc;">-->
+  <div class="box3" style="background-color:#A6E1CD;">
     <p>We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study the stickleback microbiome. The position is a fully funded position via NERC's Envision Doctoral Training Programme (DTP). The project will be co-supervised with Prof. Andrew MacColl and other members of the SoLS and is focussed on understanding the effect of environmental metals on antimicrobial resistance genes in the stickleback skin microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
 </div>
@@ -67,15 +67,16 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <div class="row">
-  <div class="box1">
+  <div class="box1" style="background-color:#E8E495;">
     <p>MRes STUDENTSHIP</p>
   </div>
-  <div class="box2">
+  <div class="box2" style="background-color:#E8E495;">
     <p>Oct 2023 start</p>
   </div>
-  <div class="box3">
+  <div class="box3" style="background-color:#E8E495;">
   <p>Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
   </div>
+<!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 </div>
 
 <p>If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.</p>
