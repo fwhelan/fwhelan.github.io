@@ -108,21 +108,45 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 7</div>
   <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">FJ Whelan, RJ Hall, JO McInerney. Evidence for selection in a prokaryote pangenome. (2021). Molecular Biology & Evolution, msab139.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 7</div>
   <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text">FJ Whelan\*, M Rusilowicz\*, JO McInerney. Coinfinder: detecting significant associations and dissociations in pangenomes. (2020). Microbial Genomics 6 (3).</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 7</div>
   <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">FJ Whelan, B Waddell, SA Syed, S Shekarriz, HR Rabin, MD Parkins, MG Surette. Culture-enriched metagenomic sequencing enables in-depth profiling of the cystic fibrosis lung microbiota. (2020). Nature Microbiology 5 (2), 379-390.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 7</div>
+  <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
+  <div class="text">FJ Whelan, AA Heirali, L Rossi, HR Rabin, MD Parkins, MG Surette. Longitudinal sampling of the lung microbiota in individuals with cystic fibrosis. PloS one 12 (3), e0172811.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
+  <div class="text">FJ Whelan, MG Surette. Clinical Insights into Pulmonary Exacerbations in Cystic Fibrosis from the Microbiome. What Are We Missing? Annals of the American Thoracic Society 12 (Supplement 2), S207-S211.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
+  <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
+  <div class="text">FJ Whelan, CP Verschoor, JC Stearns, L Rossi, K Luinstra, M Loeb, M Smieja, J Johnstone, MG Surette, DME Bowdish. The Loss of Topography in the Microbial Communities of the Upper Respiratory Tract in the Elderly. Annals of the American Thoracic Society 11 (4), 513-521.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
+  <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
+  <div class="text">FJ Whelan, CJ Meehan, GB Golding, BJ McConkey, DME Bowdish. The evolution of the class A scavenger receptors. BMC evolutionary biology 12 (1), 1-11.</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
