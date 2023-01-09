@@ -9,7 +9,7 @@ circlewidth3: 150
 ---
 
 <div id="content">
-<img align="center" src="/assets/images/whelanlab-logo.png" alt="drawing" width="300"/>
+<img align="right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="300"/>
 <a href="https://www.nottingham.ac.uk/life-sciences/people/fiona.whelan">The Whelan lab</a> is located in the Life Sciences building on the <a href="https://www.nottingham.ac.uk/">University of Nottingham's</a> University Park campus in Nottingham, UK. We are part of the School of Life Sciences and Division of Cells, Organisms, and Molecular Genetics (COMGen).
 
 <h2>Join us!</h2>
