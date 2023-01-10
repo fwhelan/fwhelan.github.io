@@ -105,7 +105,7 @@ img {vertical-align: middle;}
 
 <h4><b>Key publications:</b></h4>
 
-<!--<div class="slideshow-container">
+<div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
@@ -159,7 +159,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
-</div>-->
+</div>
 
 <ul>
   <li><b>FJ Whelan</b>, RJ Hall, JO McInerney. <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab139/6272232"><u>Evidence for selection in a prokaryote pangenome.</u></a> (2021). Molecular Biology & Evolution, msab139.</li>
