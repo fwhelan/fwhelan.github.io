@@ -57,7 +57,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
 <div class="col-container">
-  <div class="box1" style="background-color:#A6E1CD;">
+  <div class="box1" style="font-color:#A6E1CD;">
     <p>PhD STUDENTSHIP</p>
   </div>
   <div class="box2"  style="background-color:#A6E1CD;">
