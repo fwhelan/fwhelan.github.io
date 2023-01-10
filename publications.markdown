@@ -145,7 +145,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="/assets/images/research/strep-staph-expt.png" style="width:100%">
+  <img src="/assets/images/research/papers-cASRs.png" style="width:100%">
   <div class="text">FJ Whelan, CJ Meehan, GB Golding, BJ McConkey, DME Bowdish. The evolution of the class A scavenger receptors. BMC evolutionary biology 12 (1), 1-11.</div>
 </div>
 
