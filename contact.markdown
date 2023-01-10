@@ -58,7 +58,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <p>Current open positions in our group:</p>
 <div class="col-container">
   <div class="box1"><!-- style="background-color:#A6E1CD;">-->
-    <p style="color:#A6E1CD">PhD STUDENTSHIP</p>
+    <p style="color:#A6E1CD"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
     <p style="color:#A6E1CD">Apply by 11 Jan for a Oct 2023 start</p>
@@ -72,13 +72,13 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <div class="col-container">
   <div class="box1"><!-- style="background-color:#E8E495;">-->
-    <p style="color:#E8E495">MRes STUDENTSHIP</p>
+    <p style="color:#E8E495"><b>MRes STUDENTSHIP</b></p>
   </div>
-  <div class="box2"  style="background-color:#E8E495;">
-    <p>Oct 2023 start</p>
+  <div class="box2">
+    <p style="color:#E8E495">Oct 2023 start</p>
   </div>
-  <div class="box3"  style="background-color:#E8E495;">
-  <p>Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
+  <div class="box3">
+  <p style="color:#E8E495">Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
   </div>
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 </div>
