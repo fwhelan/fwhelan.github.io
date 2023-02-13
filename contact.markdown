@@ -86,6 +86,21 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <br>
+<div class="col-container">
+  <div class="box1">
+    <p style="color:#008CEE"><b>Undergraduate STUDENTSHIP</b></p>
+  </div>
+  <div class="box2">
+     <p style="color:#008CEE">Apply by 3 April 2023</p>
+  </div>
+  <div class="box3">
+    <p style="color:#008CEE">Funded Undergraduate Summer Studentship for a research position to run July-Sept for 8-weeks. Learn more about the programme and apply <a href="https://www.nottingham.ac.uk/researcher-academy/wellcome-biomedical-vacation-scholarships/index.aspx">here</a>.</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br> 
 <p>If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.</p>
 
 
