@@ -66,10 +66,10 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
   <div class="box3">
     <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study the stickleback microbiome. The position is a fully funded position via NERC's Envision Doctoral Training Programme (DTP). The project will be co-supervised with Prof. Andrew MacColl and other members of the SoLS and is focussed on understanding the effect of environmental metals on antimicrobial resistance genes in the stickleback skin microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
-</div>-->
+</div>
 <br>
 <br>
-<br>
+<br>-->
 <div class="col-container">
   <div class="box1"><!-- style="background-color:#E8E495;">-->
     <p style="color:#53C8BD"><b>MRes STUDENTSHIP</b></p>
