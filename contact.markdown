@@ -56,7 +56,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
-<div class="col-container">
+<!--<div class="col-container">
   <div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
@@ -66,7 +66,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
   <div class="box3">
     <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study the stickleback microbiome. The position is a fully funded position via NERC's Envision Doctoral Training Programme (DTP). The project will be co-supervised with Prof. Andrew MacColl and other members of the SoLS and is focussed on understanding the effect of environmental metals on antimicrobial resistance genes in the stickleback skin microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
   </div>
-</div>
+</div>-->
 <br>
 <br>
 <br>
@@ -94,7 +94,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
      <p style="color:#008CEE">Apply by 3 April 2023</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE">Funded Undergraduate Summer Studentship for a research position to run July-Sept for 8-weeks. Learn more about the programme and apply <a href="https://www.nottingham.ac.uk/researcher-academy/wellcome-biomedical-vacation-scholarships/index.aspx">here</a>.</p>
+    <p style="color:#008CEE">We are seeking an enthusiastic student interested in microbiology to join our group as a funded Undergraduate Summer Student. The research position will focus on the microbes that inhabit the cystic fibrosis lung microbiome. The position will run July-Sept for 8-weeks. Learn more about the programme and apply <a href="https://www.nottingham.ac.uk/researcher-academy/wellcome-biomedical-vacation-scholarships/index.aspx">here</a>.</p>
   </div>
 </div>
 <br>
