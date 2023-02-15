@@ -18,6 +18,13 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab! 
 </div>
 
+<div id="content">
+<img align="right" src="/assets/images/members/Katie-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Katie Hodson, BBSRC DTP rotation student</b> (she/her)</h3>
+
+Katie is currently in the first year of her PhD at the University of Nottingham and is completing a <a href="https://www.nottingham.ac.uk/bbdtp/">BBSRC DTP</a> rotation in the Whelan lab. Katie is working on the competitive lottery model of microbiome assembly and is using a mixture of bioinformatics and wet lab work to investigate competition between bacteria in the cystic fibrosis lung microbiome. Before beginning her PhD, Katie completed an MRes in Molecular Genetics in which she researched non-canonical DNA replication in the archaeon <i>Haloferax volcanii</i>. Outside of the lab, Katie enjoys climbing and playing guitar!
+</div>
+
 <div class="separator">Alumni</div>
 
 <div id="content">
