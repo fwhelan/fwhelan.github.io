@@ -4,10 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+<head>
+<style>
 .padding
 {
 padding: 50px 50px 50px 50px;
 }
+</style>
+</head>
 
 <div id="content">
 <img align="left" src="/assets/images/research/header-microbiome.png" class="padding" alt="drawing" width="600" />
