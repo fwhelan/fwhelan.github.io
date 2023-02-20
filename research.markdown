@@ -8,7 +8,7 @@ permalink: /research/
 <style>
 .padding
 {
-padding: 50px 50px 50px 50px;
+padding: 20px 20px 20px 20px;
 }
 </style>
 </head>
@@ -23,6 +23,7 @@ padding: 50px 50px 50px 50px;
 <img align="left" src="/assets/images/research/header-microbeinters.png" class="padding" alt="drawing" width="600" />
 <br>
 <p id="losinfo"><span style="font-size:17px;">Microbes co-exist within microbiomes. They can compete with each other via a variety of mechanisms including antimicrobials and bacteriocins. Our lab and others have found that these interactions are strain specific, meaning that some strains of a particular microbe may induce competition in another strain, but others do not. We are particularly interested in how bacterial concentration, growth medium, and the environment affect these relationships.</span></p>
+</div>
 
 <div id="content">
 <img align="center" src="/assets/images/research/strep-staph-expt.png" alt="drawing" width="1000"/>
