@@ -64,7 +64,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
     <p style="color:#0080BA">Oct 2023 or Jan 2024 start</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study dynamics within the cystic fibrosis lung  microbiome. The position is appropriate for self-funded PhD students only. The project will be co-supervised with Prof. Kim Hardie and is focussed on understanding the interactions between microbes within the lung microbiome of individuals with cystic fibrosis. To learn more and to apply <a href=""https://www.findaphd.com/phds/project/competition-and-cooperation-relationships-within-human-microbial-communities/?p158000>click here</a>.</p>
+    <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study dynamics within the cystic fibrosis lung  microbiome. The position is appropriate for self-funded PhD students only. The project will be co-supervised with Prof. Kim Hardie and is focussed on understanding the interactions between microbes within the lung microbiome of individuals with cystic fibrosis. To learn more and to apply <a href="https://www.findaphd.com/phds/project/competition-and-cooperation-relationships-within-human-microbial-communities/?p158000">click here</a>.</p>
   </div>
 </div>
 <br>
@@ -117,8 +117,6 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br> 
 <p>If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.</p>
 
-
-<!--The lab has a project on the study of the human microbiome via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 30 May 2022. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.-->
 
 <p>The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.</p>
 
