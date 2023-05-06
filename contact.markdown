@@ -56,20 +56,34 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
-<!--<div class="col-container">
-  <div class="box1"><!-- style="background-color:#A6E1CD;">
+<div class="col-container">
+  <div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Apply by 11 Jan for a Oct 2023 start</p>
+    <p style="color:#0080BA">Oct 2023 or Jan 2024 start</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study the stickleback microbiome. The position is a fully funded position via NERC's Envision Doctoral Training Programme (DTP). The project will be co-supervised with Prof. Andrew MacColl and other members of the SoLS and is focussed on understanding the effect of environmental metals on antimicrobial resistance genes in the stickleback skin microbiome. To learn more and to apply (deadline: 11 January 2023) <a href="https://www.envision-dtp.org/2022/the-effect-of-environmental-metals-on-the-spread-of-antimicrobial-resistance-genes-in-the-stickleback-skin-microbiome/">click here</a>.</p>
+    <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study dynamics within the cystic fibrosis lung  microbiome. The position is appropriate for self-funded PhD students only. The project will be co-supervised with Prof. Kim Hardie and is focussed on understanding the interactions between microbes within the lung microbiome of individuals with cystic fibrosis. To learn more and to apply <a href=""https://www.findaphd.com/phds/project/competition-and-cooperation-relationships-within-human-microbial-communities/?p158000>click here</a>.</p>
   </div>
 </div>
 <br>
 <br>
-<br>-->
+<br>
+<div class="col-container">
+  <div class="box1">
+    <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
+  </div>
+  <div class="box2">
+    <p style="color:#0080BA">Oct 2023 start</p>
+  </div>
+  <div class="box3">
+    <p style="color:#0080BA"> We have a project on the study of strains of Pseudomonas aeruginosa  via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 23 May 2023. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
 <div class="col-container">
   <div class="box1"><!-- style="background-color:#E8E495;">-->
     <p style="color:#53C8BD"><b>MRes STUDENTSHIP</b></p>
@@ -87,7 +101,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <div class="col-container">
-  <div class="box1">
+  <!--<div class="box1">
     <p style="color:#008CEE"><b>Undergraduate STUDENTSHIP</b></p>
   </div>
   <div class="box2">
@@ -96,7 +110,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
   <div class="box3">
     <p style="color:#008CEE">We are seeking an enthusiastic student interested in microbiology to join our group as a funded Undergraduate Summer Student. The research position will focus on the microbes that inhabit the cystic fibrosis lung microbiome. The position will run July-Sept for 8-weeks. Learn more about the programme and apply <a href="https://www.nottingham.ac.uk/researcher-academy/wellcome-biomedical-vacation-scholarships/index.aspx">here</a>.</p>
   </div>
-</div>
+</div>-->
 <br>
 <br>
 <br>
