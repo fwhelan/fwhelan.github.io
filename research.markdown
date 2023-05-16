@@ -10,6 +10,22 @@ permalink: /research/
 {
 padding: 20px 20px 20px 20px;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
 </style>
 </head>
 
@@ -26,10 +42,6 @@ padding: 20px 20px 20px 20px;
 </div>
 
 <div id="content">
-<img align="center" src="/assets/images/research/strep-staph-expt.png" alt="drawing" width="1000"/>
-</div>
-
-<div id="content">
 <img align="left" src="/assets/images/research/header-geneinters.png" class="padding" alt="drawing" width="600" />
 <br>
 <p id="losinfo"><span style="font-size:17px;">Genes are rarely used in isolation but instead together form multi-protein complexes and are part of functional pathways. However, we still have only annotated a fraction of the diversity of genes present across bacterial life. We think that one way to help better characterize this genetic diversity is by interrogating gene-gene association/co-occurrence patterns across large sets of genomes and/or metagenomes.</span></p>
@@ -39,6 +51,28 @@ padding: 20px 20px 20px 20px;
 <img align="left" src="/assets/images/research/header-pangenomes.png" class="padding" alt="drawing" width="600" />
 <br>
 <p id="losinfo"><span style="font-size:17px;">Pangenomes describe the genetic diversity within a given set of organisms (for e.g., strains of a species). The genes within a pangenome can either be "core" - present in all or most strains - or "accessory" - present in some strains. Accessory genes can include genes which as those involved in anti-microbial resistance (AMR). In the lab, we are interested in understanding gene-gene association patterns that exist across groups of strains.</span></p>
+</div>
+
+<div id="content">
+<img align="center" src="/assets/images/research/strep-staph-expt.png" alt="drawing" width="1000"/>
+</div>
+
+<div id="content">
+<p id="losinfo"><span style="font-size:25px;">Research in the Whelan lab is funded by:</span></p>
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/funders/royal-society.png">
+    <img src="/assets/images/funders/micro-soc.png">
+  </div>
+  <div class="column">
+    <img src="/assets/images/funders/uon.png">
+    <img src="/assets/images/funders/nerc.png">
+  </div>
+  <div class="column">
+    <img src="/assets/images/funders/bbsrc.png">
+    <img src="/assets/images/funders/wellcome.png">
+  </div>
+</div>
 </div>
 
 <!--Research interests in the lab include: 1) to identify associations between genetic elements (i.e. strains, operons, genes) that occur during dysbiosis; 2) to study ecological patterns in microbial communities; 3) to study the human microbiome in the context of microbial pangenomics.
