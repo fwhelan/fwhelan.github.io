@@ -61,14 +61,14 @@ padding: 20px 20px 20px 20px;
 <p id="losinfo"><span style="font-size:25px;">Research in the Whelan lab is funded by:</span></p>
 <div class="row">
   <div class="column">
-	<img src="/assets/images/funders/uon.png" width="100" >
-    	<img src="/assets/images/funders/royal-society.png" width="100" >
-    	<img src="/assets/images/funders/micro-soc.png" width="100" >
-	<img src="/assets/images/funders/nerc.png" width="100" >
+	<img src="/assets/images/funders/uon.png" width="200" >
+    	<img src="/assets/images/funders/royal-society.png" width="200" >
+    	<img src="/assets/images/funders/micro-soc.png" width="200" >
+	<img src="/assets/images/funders/nerc.png" width="200" >
   </div>
   <div class="column">
-    	<img src="/assets/images/funders/bbsrc.png" width="100" >
-    	<img src="/assets/images/funders/wellcome.png" width="100" >
+    	<img src="/assets/images/funders/bbsrc.png" width="200" >
+    	<img src="/assets/images/funders/wellcome.png" width="200" >
   </div>
 </div>
 </div>
