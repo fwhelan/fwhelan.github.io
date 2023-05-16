@@ -64,11 +64,11 @@ padding: 20px 20px 20px 20px;
 	<img src="/assets/images/funders/uon.png">
     	<img src="/assets/images/funders/royal-society.png">
     	<img src="/assets/images/funders/micro-soc.png">
+	<img src="/assets/images/funders/nerc.png">
   </div>
   <div class="column">
-    <img src="/assets/images/funders/nerc.png">
-    <img src="/assets/images/funders/bbsrc.png">
-    <img src="/assets/images/funders/wellcome.png">
+    	<img src="/assets/images/funders/bbsrc.png">
+    	<img src="/assets/images/funders/wellcome.png">
   </div>
 </div>
 </div>
