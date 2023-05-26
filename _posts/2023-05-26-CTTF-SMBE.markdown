@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fiona receives funding from UoN's Researcher Academy to present at SMBE2023 in Ferrara, Italy"
+date:   2023-05-26 01:08:27 +0100
+categories: jekyll update
+---
+
+The University of Nottingham's [Researcher Academy][ra] has awarded Fiona a Conference, travel, and training fund (CTTF) award to support her travel to [SMBE2023][smbe] this July. Fiona will be presenting her research on "Gene-gene associations in microbes from human-associated microbial communities". The Society for Molecular Biology and Evolution (SMBE) is one of the largest consortiums of evolutionary biologists worldwide and SMBE2023 is on it's way to being one of (if not the) largest annual meetings on record. The Whelan lab is very thankful to the Researcher Academy for this opportunity to share our research!
+
+[ra]: https://www.nottingham.ac.uk/researcher-academy/
+[smbe]: https://www.smbe2023.org/
