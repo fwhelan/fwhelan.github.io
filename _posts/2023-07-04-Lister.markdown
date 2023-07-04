@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Fiona selected for the 2023 Lister Institute Research Prize Fellowship"
+date:   2023-07-04 01:08:27 +0100
+categories: jekyll update
+---
+
+I am delighted to announce that I have been awarded a 2023 Lister Institute Research Prize Fellowship! The Lister Research Prizes are awarded to 6 early career biomedical scientists each year based on criteria including originality/quality of the research, past achievements, and the impact that the receipt of this Prize would have on their career. The Fellowship runs for 5-years and each year, all current Fellows have the chance to meet for a short conference to discuss their research with their peers.
+
+Receipt of this Fellowship means a lot to me and to the Whelan lab. It is such a privilege to be acknowledged by such a prestigious organization and an absolute honour to join a group of expert biomedical scientists beginning their independent research careers.
+
+You can read more about The Lister Institute [here][here], their [Research Prizes][rp], or the recent announcement of all [2023 Fellows][fl] on the Lister Institute [website][here].
+
+[here]: https://lister-institute.org.uk/
+[rp]: https://lister-institute.org.uk/how-to-apply/
+[fl]: https://lister-institute.org.uk/announcing-our-2023-lister-fellows/
