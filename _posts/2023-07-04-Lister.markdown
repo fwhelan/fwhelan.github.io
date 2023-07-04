@@ -11,6 +11,10 @@ Receipt of this Fellowship means a lot to me and to the Whelan lab. It is such a
 
 You can read more about The Lister Institute [here][here], their [Research Prizes][rp], or the recent announcement of all [2023 Fellows][fl] on the Lister Institute [website][here].
 
+{:refdef: style="text-align: center;"}
+![image](/assets/images/funders/lister.png){:width="400px" }
+{: refdef}
+
 [here]: https://lister-institute.org.uk/
 [rp]: https://lister-institute.org.uk/how-to-apply/
 [fl]: https://lister-institute.org.uk/announcing-our-2023-lister-fellows/
