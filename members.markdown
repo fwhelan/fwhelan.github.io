@@ -13,7 +13,7 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 
 <div id="content">
 <img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Rebecca Wallis Downham, Excel in Science student</b> (she/her)</h3>
+<h3><b>Rebecca Wallis Downham, Harry Smith Vacation Scholar </b> (she/her)</h3>
 
 Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab! 
 </div>
