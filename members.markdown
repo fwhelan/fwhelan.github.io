@@ -6,7 +6,7 @@ permalink: /members/
 
 <div id="content">
 <img align = "right" src="/assets/images/members/Fiona-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Fiona Whelan, Anne McLaren Fellow</b> (she/her)</h3>
+<h3><b>Fiona Whelan, Anne McLaren and 2023 Lister Prize Fellow</b> (she/her)</h3>
 
 Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previously, Fiona was a <a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">MSCA Postdoctoral Fellow</a> in <a href="http://mcinerneylab.com/">James McInerney's</a> research group investigating gene co-occurrence patterns in microbial pangenomes. Fiona conducted her Ph.D. research on the human microbiome and cystic fibrosis in the laboratory of <a href="http://surettelab.ca/">Dr. Michael G. Surette</a> at <a href="http://mcmaster.ca/">McMaster University</a> as a <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp">CIHR Doctoral</a> and <a href="https://www.cysticfibrosis.ca/our-programs/research/funding-opportunities">Cystic Fibrosis Canada</a> scholar. Fiona also worked as a MSc with <a href="http://bowdish.ca/">Dr. Dawn Bowdish</a>, also at McMaster University, investigating the evolutionary history of a family of immune cell receptors with support from a <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a>. When not in the lab, Fiona enjoys being outdoors - hiking, camping, swimming, running etc.!
 </div>
@@ -16,6 +16,13 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previou
 <h3><b>Rebecca Wallis Downham, Excel in Science student</b> (she/her)</h3>
 
 Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab! 
+</div>
+
+<div id="content">
+<img align="right" src="/assets/images/members/FrancisG-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Francis Gyapong, NERC Envision DTP student</b> (she/her)</h3>
+
+Francis will begin his PhD studies at the University of Nottingham in October 2023. He is an ENVISION DTP scholar who will work in the Whelan lab on <i>The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome.</i>. The project is co-supervised by Dr. Whelan, Prof. Andrew MacColl, and Dr. Hanna Hartikainen, and will include wet lab techniques and bioinformatic approaches. Before beginning his PhD, Francis earned a Master of Philosophy in Molecular Cell Biology of Infectious Pathogens in which he studied the microbes resident on face masks during the COVID-19 era and used the model organism <i>Galleria mellonella</i> to investigation the pathogenecity of isolated microbes. Francis likes music and video games outside of the lab!
 </div>
 
 <div class="separator">Alumni</div>
