@@ -108,43 +108,49 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 8</div>
+  <img src="/assets/images/research/papers-elderly23.png" style="width:100%">
+  <div class="text"><a href="https://openres.ersjournals.com/content/early/2023/07/20/23120541.00212-2023.abstract" style="color:#191919;">DME Bowdish, L Rossi, M Loeb, J Johnstone, LP Schenck, M Fontes, MG Surette, <b>FJ Whelan</b>. <u>The impact of respiratory infections and probiotic use on the nasal microbiota of frail residents in long-term care homes.</u> (2023). ERJ Open Research, DOI: 10.1183/23120541.00212-2023.</a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 8</div>
   <img src="/assets/images/research/papers-pseudomonas.png" style="width:100%">
   <div class="text"><a href="https://academic.oup.com/mbe/article-abstract/38/9/3697/6272232" style="color:#191919;"><b>FJ Whelan</b>, RJ Hall, JO McInerney. <u>Evidence for selection in a prokaryote pangenome.</u> (2021). Molecular Biology & Evolution, msab139.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
+  <div class="numbertext">3 / 8</div>
   <img src="/assets/images/research/papers-coinfinder.png" style="width:100%">
   <div class="text"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200068/" style="color:#191919;"><b>FJ Whelan</b>, M Rusilowicz, JO McInerney. <u>Coinfinder: detecting significant associations and dissociations in pangenomes.</u> (2020). Microbial Genomics 6 (3).</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">4 / 8</div>
   <img src="/assets/images/research/papers-cemg.png" style="width:100%">
   <div class="text"><a href="https://www.nature.com/articles/s41564-019-0643-y" style="color:#191919;"><b>FJ Whelan</b>, B Waddell, SA Syed, S Shekarriz, HR Rabin, MD Parkins, MG Surette. <u>Culture-enriched metagenomic sequencing enables in-depth profiling of the cystic fibrosis lung microbiota.</u> (2020). Nature Microbiology 5 (2), 379-390.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">5 / 8</div>
   <img src="/assets/images/research/papers-longCF.png" style="width:100%">
   <div class="text"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172811" style="color:#191919;"><b>FJ Whelan</b>, AA Heirali, L Rossi, HR Rabin, MD Parkins, MG Surette. <u>Longitudinal sampling of the lung microbiota in individuals with cystic fibrosis.</u> PloS one 12 (3), e0172811.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">6 / 8</div>
   <img src="/assets/images/research/papers-opinionCF.png" style="width:100%">
   <div class="text"><a href="https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.201506-353AW" style="color:#191919;"><b>FJ Whelan</b>, MG Surette. <u>Clinical Insights into Pulmonary Exacerbations in Cystic Fibrosis from the Microbiome. What Are We Missing?</u> Annals of the American Thoracic Society 12 (Supplement 2), S207-S211.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">7 / 8</div>
   <img src="/assets/images/research/papers-elderly.png" style="width:100%">
   <div class="text"><a href="https://www.atsjournals.org/doi/abs/10.1513/annalsats.201310-351oc" style="color:#191919;"><b>FJ Whelan</b>, CP Verschoor, JC Stearns, L Rossi, K Luinstra, M Loeb, M Smieja, J Johnstone, MG Surette, DME Bowdish. <u>The Loss of Topography in the Microbial Communities of the Upper Respiratory Tract in the Elderly.</u> Annals of the American Thoracic Society 11 (4), 513-521.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">8 / 8</div>
   <img src="/assets/images/research/papers-cASRs.png" style="width:100%">
   <div class="text"><a href="https://link.springer.com/article/10.1186/1471-2148-12-227" style="color:#191919;"><b>FJ Whelan</b>, CJ Meehan, GB Golding, BJ McConkey, DME Bowdish. <u>The evolution of the class A scavenger receptors</u>. BMC evolutionary biology 12 (1), 1-11.</a></div>
 </div>
@@ -175,7 +181,7 @@ img {vertical-align: middle;}
   <li><b>FJ Whelan</b>, CJ Meehan, GB Golding, BJ McConkey, DME Bowdish. <a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-12-227"><u>The evolution of the class A scavenger receptors.</u></a> BMC evolutionary biology 12 (1), 1-11.</li>
 </ul>-->
 <p>Please see <a href="https://scholar.google.ca/citations?user=QbIwqeUAAAAJ&hl=en&oi=ao"><u>Google Scholar</u></a> for a full list.</p>
-<p>If you would like a copy of the full text of any of these or other words, please <a href="/contact">contact us</a>.</p>
+<p>If you would like a copy of the full text of any of these or other works, please <a href="/contact">contact us</a>.</p>
 
 <script>
 let slideIndex = 1;
