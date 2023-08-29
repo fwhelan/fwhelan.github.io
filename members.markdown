@@ -19,7 +19,7 @@ Rebecca is an undergraduate studying Biotechnology with a year in Computer Scien
 </div>
 
 <div id = "content">
-<img align="right" src="assets/images/members/LilyM-Picture.jpg" alt="drawing" width="220"/>
+<img align="right" src="/assets/images/members/LilyM-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Lily Moran, SREP undergraduate </b> (she/her)</h3>
 Lily is a 4th year student at the University of Nottingham, and is currently undertaking a integrated Biochemistry Msci. She is with the Whelan lab as part of the <a href="https://www.nottingham.ac.uk/life-sciences/index.aspx">School of Life Sciences</a> Summer Research Experience programme, gaining experience in areas relating to both microbiology and data analysis. Her work focuses on investigating relationships between members of the Cystic Fibrosis lung microbiome, with the aim of identifying potential mutually-dependent species from sequencing data.
 </div>
