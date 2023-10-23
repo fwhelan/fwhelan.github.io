@@ -30,20 +30,20 @@ Francis will begin his PhD studies at the University of Nottingham in October 20
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Rebecca Wallis Downham, Harry Smith Vacation Scholar </b> (2022-23)</h3>
+<h3><b>Rebecca Wallis Downham, Harry Smith Vacation Scholar (2022-23)</b></h3>
 
 Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab!
 </div>
 
 <div id = "content">
 <!--<img align="right" src="/assets/images/members/LilyM-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Lily Moran, SREP undergraduate </b> (2023)</h3>
+<h3><b>Lily Moran, SREP undergraduate (2023)</b></h3>
 Lily is a 4th year student at the University of Nottingham, and is currently undertaking a integrated Biochemistry Msci. She is with the Whelan lab as part of the <a href="https://www.nottingham.ac.uk/life-sciences/index.aspx">School of Life Sciences</a> Summer Research Experience programme, gaining experience in areas relating to both microbiology and data analysis. Her work focuses on investigating relationships between members of the Cystic Fibrosis lung microbiome, with the aim of identifying potential mutually-dependent species from sequencing data.
 </div>
 
 <div id = "content">
 <!--<img align="right" src="/assets/images/members/IremideS-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Iremide Sanyaolu, Wellcome Trust Biomedical Vacation Scholarship student</b> (2023)</h3>
+<h3><b>Iremide Sanyaolu, Wellcome Trust Biomedical Vacation Scholarship student (2023)</b></h3>
 Iremide is a Microbiology undergraduate student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. Iremide is interested in all things Microbiology particularly in the areas of anti-microbial resistance and microbial pathogenesis. In the Whelan lab, Iremide will be investigating the interactions between Staphylococcus species in the cystic fibrosis lung microbiome as well as using bioinformatics tools such as R programming for data analysis. Iremide is enthusiastic about participating in the research project at the Whelan lab, developing essential skills and hands-on experience that will assist in a career in research.
 </div>
 
