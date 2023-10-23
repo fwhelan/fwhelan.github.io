@@ -11,23 +11,12 @@ permalink: /members/
 Fiona is a bioinformatician, microbiologist, and evolutionary biologist. Previously, Fiona was a <a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">MSCA Postdoctoral Fellow</a> in <a href="http://mcinerneylab.com/">James McInerney's</a> research group investigating gene co-occurrence patterns in microbial pangenomes. Fiona conducted her Ph.D. research on the human microbiome and cystic fibrosis in the laboratory of <a href="http://surettelab.ca/">Dr. Michael G. Surette</a> at <a href="http://mcmaster.ca/">McMaster University</a> as a <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp">CIHR Doctoral</a> and <a href="https://www.cysticfibrosis.ca/our-programs/research/funding-opportunities">Cystic Fibrosis Canada</a> scholar. Fiona also worked as a MSc with <a href="http://bowdish.ca/">Dr. Dawn Bowdish</a>, also at McMaster University, investigating the evolutionary history of a family of immune cell receptors with support from a <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a>. When not in the lab, Fiona enjoys being outdoors - hiking, camping, swimming, running etc.!
 </div>
 
-<div id="content">
-<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Rebecca Wallis Downham, Harry Smith Vacation Scholar </b> (she/her)</h3>
-
-Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab! 
-</div>
-
 <div id = "content">
-<img align="right" src="/assets/images/members/LilyM-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Lily Moran, SREP undergraduate </b> (she/her)</h3>
-Lily is a 4th year student at the University of Nottingham, and is currently undertaking a integrated Biochemistry Msci. She is with the Whelan lab as part of the <a href="https://www.nottingham.ac.uk/life-sciences/index.aspx">School of Life Sciences</a> Summer Research Experience programme, gaining experience in areas relating to both microbiology and data analysis. Her work focuses on investigating relationships between members of the Cystic Fibrosis lung microbiome, with the aim of identifying potential mutually-dependent species from sequencing data.
-</div>
+<img align="right" src="/assets/images/members/PeterO-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Peter Anthony Oyom, BBSRC DTP Rotation student</b> (he/him)</h3>
 
-<div id = "content">
-<!--<img align="right" src="/assets/images/members/IremideS-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Iremide Sanyaolu, Wellcome Trust Biomedical Vacation Scholarship student</b> (she/her)</h3>
-Iremide is a Microbiology undergraduate student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. Iremide is interested in all things Microbiology particularly in the areas of anti-microbial resistance and microbial pathogenesis. In the Whelan lab, Iremide will be investigating the interactions between Staphylococcus species in the cystic fibrosis lung microbiome as well as using bioinformatics tools such as R programming for data analysis. Iremide is enthusiastic about participating in the research project at the Whelan lab, developing essential skills and hands-on experience that will assist in a career in research.
+Peter is a first year PhD student on the BBSRC Doctoral Training Partnership who began his rotation in the Whelan lab in October 2023. He will be studying the genomic diversity of the Prairie Epidemic Strain of i<i>Pseudomonas aeruginosa</i> isolated from individuals with cystic fibrosis using a combination of microbiology assays and bioinformatics tools.
+Peter’s passion for microbiology arose from his work in clinical diagnostic laboratories, which motivated him to pursue an MSc in Clinical and Molecular Microbiology at the University of Nottingham. After graduating, Peter worked as an assistant technical officer with the NHS, and later became a registered biomedical scientist. Peter loves learning and has a broad interest in areas related to the microbiome, antimicrobial resistance and One Health. When away from work, he enjoys fiction novels, art and exploring natural environments.
 </div>
 
 <div id="content">
@@ -38,6 +27,25 @@ Francis will begin his PhD studies at the University of Nottingham in October 20
 </div>
 
 <div class="separator">Alumni</div>
+
+<div id="content">
+<!--<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Rebecca Wallis Downham, Harry Smith Vacation Scholar </b> (she/her)</h3>
+
+Rebecca is an undergraduate studying Biotechnology with a year in Computer Science at the University of Nottingham. As part of the <a href="https://twitter.com/excelnottingham?lang=en">Excel in Science</a> programme, she is completing an internship investigating the effectiveness of different medias for growing bacteria isolated from the cystic fibrosis lung microbiome. Rebecca is keen to develop her skills and knowledge for a career in research and is super excited to be doing this in the Whelan lab!
+</div>
+
+<div id = "content">
+<!--<img align="right" src="/assets/images/members/LilyM-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Lily Moran, SREP undergraduate </b> (she/her)</h3>
+Lily is a 4th year student at the University of Nottingham, and is currently undertaking a integrated Biochemistry Msci. She is with the Whelan lab as part of the <a href="https://www.nottingham.ac.uk/life-sciences/index.aspx">School of Life Sciences</a> Summer Research Experience programme, gaining experience in areas relating to both microbiology and data analysis. Her work focuses on investigating relationships between members of the Cystic Fibrosis lung microbiome, with the aim of identifying potential mutually-dependent species from sequencing data.
+</div>
+
+<div id = "content">
+<!--<img align="right" src="/assets/images/members/IremideS-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Iremide Sanyaolu, Wellcome Trust Biomedical Vacation Scholarship student</b> (she/her)</h3>
+Iremide is a Microbiology undergraduate student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. Iremide is interested in all things Microbiology particularly in the areas of anti-microbial resistance and microbial pathogenesis. In the Whelan lab, Iremide will be investigating the interactions between Staphylococcus species in the cystic fibrosis lung microbiome as well as using bioinformatics tools such as R programming for data analysis. Iremide is enthusiastic about participating in the research project at the Whelan lab, developing essential skills and hands-on experience that will assist in a career in research.
+</div>
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/Katie-Picture.jpg" alt="drawing" width="220"/>-->
