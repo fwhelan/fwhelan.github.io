@@ -61,7 +61,21 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
     <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Oct 2023 or Jan 2024 start</p>
+    <p style="color:#0080BA">Oct 2024 start</p>
+  </div>
+  <div class="box3">
+    <p style="color:#0080BA">Come discover how longterm antibiotic use shapes the lung microbiome of people with COPD and how it contributes to antimicrobial resistance transmission between microbes! The position is funded by the MRC AIM DTP programme and is open to applications from UK and International candidates. The project will be led by Dr. Michelle Buckner (U of Birmingham) and co-supervised with Dr. Mike Cox (U of Birmingham), Dr. Alice Turner (U of Birmingham), and myself (U of Nottingham). Applications are due 12 January 2024. To learn more and to apply <a href="https://more.bham.ac.uk/mrc-aim/phd-opportunities/">click here</a> and scroll down to the project entitled "Transmissible Antimicrobial Resistance in the Respiratory Microbiome".</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="col-container">
+  <div class="box1"><!-- style="background-color:#A6E1CD;">-->
+    <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
+  </div>
+  <div class="box2">
+    <p style="color:#0080BA">Oct 2024 start</p>
   </div>
   <div class="box3">
     <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study dynamics within the cystic fibrosis lung  microbiome. The position is appropriate for self-funded PhD students only. The project will be co-supervised with Prof. Kim Hardie and is focussed on understanding the interactions between microbes within the lung microbiome of individuals with cystic fibrosis. To learn more and to apply <a href="https://www.findaphd.com/phds/project/competition-and-cooperation-relationships-within-human-microbial-communities/?p158000">click here</a>.</p>
@@ -75,10 +89,10 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
     <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Oct 2023 start</p>
+    <p style="color:#0080BA">Oct 2024 start</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA"> We have a project on the study of strains of Pseudomonas aeruginosa  via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 23 May 2023. Note: this round of applications are only open to candidates with home fees status. Find out more <a href="https://www.nottingham.ac.uk/bbdtp/index.aspx">here</a>.</p>
+    <p style="color:#0080BA"> We have a project on the study of strains of Pseudomonas aeruginosa  via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 16 Jan 2024. To learn more and to apply <a href="https://www.nottingham.ac.uk/bbdtp/our-research-areas/our-research-areas.aspx">click here</a> and scroll down to the project entitled "Investigations into the pangenomic diversity of the Prairie Epidemic Strain (PES) of Pseudomonas aeruginosa".</p>
   </div>
 </div>
 <br>
@@ -89,7 +103,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
     <p style="color:#53C8BD"><b>MRes STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-    <p style="color:#53C8BD">Oct 2023 start</p>
+    <p style="color:#53C8BD">Oct 2024 start</p>
   </div>
   <div class="box3">
   <p style="color:#53C8BD">Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
