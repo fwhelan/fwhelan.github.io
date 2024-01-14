@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Whelan lab announces move to the University of Manchester"
+date:   2024-01-14 01:08:27 +0100
+categories: jekyll update
+---
+
+The Whelan lab is pleased to announce that we will be moving to the University of Manchester in April 2024. Fiona will join the Microbial Evolution Research Manchester [(MERMan)][merman] group as a Senior Lecturer in Computational Biology and Bioinformatics. We're really excited to join the vibrant and academically stimulating [Division of Evolution, Infection, and Genomics][division] which sits within the [School of Biological Sciences][school] and [Faculty of Biology, Medicine and Health][fbmh]. This will be a return to Manchester for Fiona who conducted a short 1 year PDRA in the [McInerney lab][mcinerney] at U of Manchester before transferring to the University of Nottingham to undertake her Marie Sklodowska-Curie Independent Fellowship.
+
+[merman]: https://sites.manchester.ac.uk/merman/
+[division]: https://research.manchester.ac.uk/en/organisations/division-of-evolution-infection-and-genomics-2
+[school]: https://research.manchester.ac.uk/en/organisations/school-of-biological-sciences
+[fbmh]: https://research.manchester.ac.uk/en/organisations/faculty-of-biology-medicine-and-health
+[mcinerney]: http://mcinerneylab.com/
