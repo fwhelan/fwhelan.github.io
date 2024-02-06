@@ -138,19 +138,20 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
-  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Individual Fellowships</a></li>
-  <li><a href="https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2022/?utm_medium=email&utm_source=govdelivery">BBSRC Discovery Fellowships</a></li>
-  <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowships</a></li>
+  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2021-pf-01-01;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=43108473;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState">Marie Sklodowska-Cure Individual Fellowship</a></li>
+  <li><a href="https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2022/?utm_medium=email&utm_source=govdelivery">BBSRC Discovery Fellowship</a></li>
+  <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowship</a></li>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards">Wellcome Trust Early Career Awards</a></li>
   <li><a href="https://www.axa-research.org/en/page/AXA-Fellowships">AXA Fellowships</a></li>
-  <li><a href="">Commonwealth Postdoctoral Fellowship</a></li>
-  <li><a href="">EMBO Long-term Fellowships</a></li>
+  <li><a href="https://cscuk.fcdo.gov.uk/scholarships/commonwealth-professional-fellowships/">Commonwealth Postdoctoral Fellowship</a></li>
+  <li><a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/">EMBO Long-term Fellowships</a></li>
   <li><a href="https://royalcommission1851.org/fellowships/research-fellowships">1851 Research Fellowships</a></li>
-  <li><a href="">HFSP Postdoctoral Fellowships</a></li>
+  <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships">HFSP Postdoctoral Fellowships</a></li>
   <li><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#three">NIHR Advanced Fellowship</a></li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Trust Early Career Fellowships</a></li>
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/">Dorothy Hodgkin Fellowships</a></li>
   <li><a href="https://www.ukri.org/opportunity/daphne-jackson-fellowship/">Daphne Jackson Fellowships.</a> For those returning after a career break.</li>
+  <li><a href="https://royalsociety.org/grants-schemes-awards/grants/career-development-fellowship/">The Royal Society Career Development Fellowship.</a> A scheme with the aim of supporting researchers from underrepresented backgrounds.</li>
   <li>A list of funding opportunities maintained by <a href="https://ecrcentral.org/fundings">ECR Central</a></li>
   <li>A list of funding opportunities maintained by <a href="https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/">John Hopkins University</a> (may be more US-focussed).</li>
 </ul>
