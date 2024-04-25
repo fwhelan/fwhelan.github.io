@@ -57,7 +57,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
 <!--<div class="col-container">-->
-  <div class="box1"><!-- style="background-color:#A6E1CD;">-->
+  <!--<div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <!--<p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
@@ -71,7 +71,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <div class="col-container">-->
-  <div class="box1"><!-- style="background-color:#A6E1CD;">-->
+  <!--<div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <!--<p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
@@ -114,7 +114,7 @@ The Whelan lab is located in the Life Sciences building on the <a href="https://
 <br>
 <br>
 <br>
-<div class="col-container">
+<!--<div class="col-container">
   <!--<div class="box1">
     <p style="color:#008CEE"><b>Undergraduate STUDENTSHIP</b></p>
   </div>
