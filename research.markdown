@@ -70,6 +70,7 @@ padding: 20px 20px 20px 20px;
     	<img src="/assets/images/funders/bbsrc.png" width="200" >
     	<img src="/assets/images/funders/wellcome.png" width="200" >
 	<img src="/assets/images/funders/lister.png" width="200" >
+	<img src="/assets/images/fundres/springboard.png" width="200"
   </div>
 </div>
 </div>
