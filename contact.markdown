@@ -57,7 +57,7 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
 <div class="col-container">
-  <div class="box1"> style="background-color:#A6E1CD;">
+  <div class="box1"> <!--style="background-color:#A6E1CD;">-->
     <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
