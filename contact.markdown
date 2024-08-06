@@ -56,21 +56,21 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
-<!--<div class="col-container">-->
-  <!--<div class="box1"><!-- style="background-color:#A6E1CD;">-->
-    <!--<p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
+<div class="col-container">
+  <div class="box1"> style="background-color:#A6E1CD;">
+    <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Oct 2024 start</p>
+    <p style="color:#0080BA">~Oct 2024 start, 2-year position</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">Come discover how longterm antibiotic use shapes the lung microbiome of people with COPD and how it contributes to antimicrobial resistance transmission between microbes! The position is funded by the MRC AIM DTP programme and is open to applications from UK and International candidates. The project will be led by Dr. Michelle Buckner (U of Birmingham) and co-supervised with Dr. Mike Cox (U of Birmingham), Dr. Alice Turner (U of Birmingham), and myself (U of Nottingham). Applications are due 12 January 2024. To learn more and to apply <a href="https://more.bham.ac.uk/mrc-aim/phd-opportunities/">click here</a> and scroll down to the project entitled "Transmissible Antimicrobial Resistance in the Respiratory Microbiome".</p>
+    <p style="color:#0080BA">This soon-to-be advertised Postdoctoral Research Associate (PDRA) position is funded by the Academy of Medical Sciences (AMS) <a href="https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard">Springboard award</a> and open to both UK nationals and international candidates. In this project, the PDRA will use a set of interdisciplinary techniques to establish a hydrogel biofilm model, which they will use to study microbe-pathogen interactions within the cystic fibrosis lung microbiome. The opening and closing dates for this position are TBA; check back here for more details in the coming weeks.</p>
   </div>
 </div>
 <br>
 <br>
 <br>
-<div class="col-container">-->
+<!--<div class="col-container">-->
   <!--<div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <!--<p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
   </div>
