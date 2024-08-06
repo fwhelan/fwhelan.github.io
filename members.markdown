@@ -18,6 +18,13 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 Francis is a PhD student at the University of Nottingham having started in October 2023. He is an ENVISION DTP scholar who will work in the Whelan lab on <i>The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome.</i>. The project is co-supervised by Dr. Whelan, Prof. Andrew MacColl, and Dr. Hanna Hartikainen, and will include wet lab techniques and bioinformatic approaches. Before beginning his PhD, Francis earned a Master of Philosophy in Molecular Cell Biology of Infectious Pathogens in which he studied the microbes resident on face masks during the COVID-19 era and used the model organism <i>Galleria mellonella</i> to investigation the pathogenecity of isolated microbes. Francis likes music and video games outside of the lab!
 </div>
 
+<div id="content">
+<img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
+<h3><b>You?</b></h3>
+
+Would you like to join the Whelan lab? Head over to <a href="https://www.whelanlab.co.uk/contact/">our join us page</a> to learn about current and upcoming opportunities.
+</div>
+
 <div class="separator">Alumni</div>
 
 <div id="content">
