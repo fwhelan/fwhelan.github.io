@@ -61,7 +61,7 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
     <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">~Oct 2024 start, 2-year position</p>
+    <p style="color:#0080BA">autumn 2024 start, 2-year position</p>
   </div>
   <div class="box3">
     <p style="color:#0080BA">This soon-to-be advertised Postdoctoral Research Associate (PDRA) position is funded by the Academy of Medical Sciences (AMS) <a href="https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard">Springboard award</a> and open to both UK nationals and international candidates. In this project, the PDRA will use a set of interdisciplinary techniques to establish a hydrogel biofilm model, which they will use to study microbe-pathogen interactions within the cystic fibrosis lung microbiome. The opening and closing dates for this position are TBA; check back here for more details in the coming weeks.</p>
@@ -70,15 +70,15 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 <br>
 <br>
 <br>
-<!--<div class="col-container">-->
-  <!--<div class="box1"><!-- style="background-color:#A6E1CD;">-->
-    <!--<p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
+<div class="col-container">
+  <div class="box1"><!-- style="background-color:#A6E1CD;">-->
+    <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Oct 2024 start</p>
+    <p style="color:#0080BA">early 2025 start, 2.3-year position</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">We are seeking an enthusiastic student interested in microbiology, bioinformatics, and evolutionary biology to study dynamics within the cystic fibrosis lung  microbiome. The position is appropriate for self-funded PhD students only. The project will be co-supervised with Prof. Kim Hardie and is focussed on understanding the interactions between microbes within the lung microbiome of individuals with cystic fibrosis. To learn more and to apply <a href="https://www.findaphd.com/phds/project/competition-and-cooperation-relationships-within-human-microbial-communities/?p158000">click here</a>.</p>
+    <p style="color:#0080BA">This soon-to-be advertised Postdoctoral Research Associate (PDRA) position is funded by a UKRI <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">Future Leaders Fellowship</a> and open to both UK nationals and international candidates. This position is for a bioinformatic/dry-lab candidate who will develop new software and conduct analyses on microbial assocation network data generated from metagenomic sequencing of the cystic fibrosis lung microbiome. The opening and closing dates for this position are TBA; check back here for more details in the coming weeks.</p>
   </div>
 </div>
 <br>
@@ -86,27 +86,27 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 <br>
 <div class="col-container">
   <div class="box1">
-    <p style="color:#0080BA"><b>PhD STUDENTSHIP</b></p>
+    <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">Oct 2024 start</p>
+    <p style="color:#0080BA">early 2025 start, 3-year position</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA"> We have a project on the study of strains of Pseudomonas aeruginosa  via in vitro culturing and bioinformatics available via The Nottingham BBSRC Doctoral Training Programme. The application deadline is 16 Jan 2024. To learn more and to apply <a href="https://www.nottingham.ac.uk/bbdtp/our-research-areas/our-research-areas.aspx">click here</a> and scroll down to the project entitled "Investigations into the pangenomic diversity of the Prairie Epidemic Strain (PES) of Pseudomonas aeruginosa".</p>
+    <p style="color:#0080BA">This soon-to-be advertised Postdoctoral Research Associate (PDRA) position is funded by a UKRI <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">Future Leaders Fellowship</a> and open to both UK nationals and international candidates. This position is for a microbiologist interested in high throughput microbe-pathogen competition assays and use of a <i>Drosophila melanogaster</i> chronic infection model to investigate the cystic fibrosis lung microbiome. The opening and closing dates for this position are TBA; check back here for more details in the coming weeks.</p>
   </div>
 </div>
 <br>
 <br>
 <br>
 <div class="col-container">-->
-  <!--<div class="box1"><!-- style="background-color:#E8E495;">-->
-    <!--<p style="color:#53C8BD"><b>MRes STUDENTSHIP</b></p>
+  <div class="box1"><!-- style="background-color:#E8E495;">-->
+    <p style="color:#53C8BD"><b>RA/technican</b></p>
   </div>
   <div class="box2">
-    <p style="color:#53C8BD">Oct 2024 start</p>
+    <p style="color:#53C8BD">autumn 2024 start, >2-year position</p>
   </div>
   <div class="box3">
-  <p style="color:#53C8BD">Learn more about the programme <a href="https://www.nottingham.ac.uk/life-sciences/study-with-us/postgraduate-research/mres-and-phds.aspx">here</a>.</p>
+  <p style="color:#53C8BD">This soon-to-be advertised Research assistant (RA) position is funded by the <a href="https://lister-institute.org.uk/">Lister Institute</a> and <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">UKRI</a>. The RA will culture samples collected from individuals with cystic fibrosis, maintain a large isolate collection, conduct high-throughput competition assays, and be responsible for maintaing lab facilies and promoting a safe, friendly, and responsible research enviornment. The opening and closing dates for this position are TBA; check back here form ore details in the coming weeks.</p>
   </div>-->
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 <!--</div>-->
@@ -114,17 +114,17 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 <br>
 <br>
 <br>
-<!--<div class="col-container">
-  <!--<div class="box1">
-    <p style="color:#008CEE"><b>Undergraduate STUDENTSHIP</b></p>
+<div class="col-container">
+  <div class="box1">
+    <p style="color:#008CEE"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-     <p style="color:#008CEE">Apply by 3 April 2023</p>
+     <p style="color:#008CEE">autumn 2025 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE">We are seeking an enthusiastic student interested in microbiology to join our group as a funded Undergraduate Summer Student. The research position will focus on the microbes that inhabit the cystic fibrosis lung microbiome. The position will run July-Sept for 8-weeks. Learn more about the programme and apply <a href="https://www.nottingham.ac.uk/researcher-academy/wellcome-biomedical-vacation-scholarships/index.aspx">here</a>.</p>
+    <p style="color:#008CEE">Details to be announced soon.</p>
   </div>
-</div>-->
+</div>
 <br>
 <br>
 <br>
