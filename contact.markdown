@@ -47,7 +47,7 @@ circlewidth3: 150
 
 <div id="content">
 <img align="right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="200"/>
-The Whelan lab is located in the Michael Smithg building on the <a href="https://www.manchester.ac.uk/">University of Manchester</a> campus in Manchester, UK. We are part of the <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/">School of Biological Sciences</a> and <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/evolution/">Division of Evolution, Infection, and Genomics (EIGEN)</a>. 
+The Whelan lab is located in the Michael Smithg building on the <a href="https://www.manchester.ac.uk/">University of Manchester</a> campus in Manchester, UK. We are part of the <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/">School of Biological Sciences</a> and <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/evolution/">Division of Evolution, Infection, and Genomics (EIGEN)</a>. The Whelan lab is an activate member of the <a href="https://sites.manchester.ac.uk/merman/">Microbial Evolution Research at Manchester (MERMan) group</a>, a collective of 14 PIs and >50 research staff who are colocalized in high-end laboratory facilities and form a thriving, collaborative research environment.
 <br>
 <br>
 <br>
@@ -98,7 +98,7 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 <br>
 <br>
 <br>
-<div class="col-container">-->
+<div class="col-container">
   <div class="box1"><!-- style="background-color:#E8E495;">-->
     <p style="color:#53C8BD"><b>RA/technican</b></p>
   </div>
@@ -107,7 +107,7 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
   </div>
   <div class="box3">
   <p style="color:#53C8BD">This soon-to-be advertised Research assistant (RA) position is funded by the <a href="https://lister-institute.org.uk/">Lister Institute</a> and <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">UKRI</a>. The RA will culture samples collected from individuals with cystic fibrosis, maintain a large isolate collection, conduct high-throughput competition assays, and be responsible for maintaing lab facilies and promoting a safe, friendly, and responsible research enviornment. The opening and closing dates for this position are TBA; check back here form ore details in the coming weeks.</p>
-  </div>-->
+  </div>
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 <!--</div>-->
 <br>
