@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Fiona selected as a UKRI Future Leaders Fellow"
+date:   2024-04-25 01:08:27 +0100
+categories: jekyll update
+---
+
+This was a hard one to keep quiet during the embargo period! I am very excited to say that I have been awarded a UKRI Future Leaders Fellowship as part of the 8th cohort of fellows. The news was announced just under a month ago as part of an announcement from [UKRI][ukri]. I am one of two fellows named in this cohort from the [University of Manchester][manc].
+
+Starting later this year, the FLF will allow the Whelan lab to continue to grow in numbers and research direction. This project will allow us to continue our focus on culturing the lung microbiome of individuals with cystic fibrosis, but will take this research in new directions by kick starting work looking at microbial associations - via a Drosophila melanogaster chronic infection model - and their mechanisms using machine learning approaches. I'm really excited to continue the lab's collaborations with [Dr. Michael Parkins][parkins], [Prof. Michael Surette][surette], and [Dr. Alan Smyth][smyth], while starting new collaborations with [Dr. Jon Stokes][stokes], [Dr. Andrew Renault][andy], and [Dr. Fadi Soukarieh][fadi].
+
+The Fellowship will begin with a kickoff event in early October, which will give me a chance to learn more about the opportunities that this Fellowship will provide to me and my group, as well a very important chance to meet the other new fellows in this cohort.
+
+Once up-and-running, this Fellowship will allow us to hire 2 postdocs (in both microbiology and bioinformatics), a research assistant/technician, and a PhD student... so keep an eye on our [join us][join] page for more details to be posted soon!
+
+[ukri]: https://www.ukri.org/news/68-new-future-leaders-fellows-awarded-104-million-in-the-eighth-round/
+[manc]: https://www.staffnet.manchester.ac.uk/news/display/?id=31623
+[parkins]: http://cumming.ucalgary.ca/parkinslab/
+[surette]: https://www.surettelab.ca/
+[smyth]: https://pure.qub.ac.uk/en/persons/alan-smyth
+[stokes]: https://www.thestokeslab.com/
+[andy]: https://www.nottingham.ac.uk/life-sciences/people/andrew.renault
+[fadi]: https://www.nottingham.ac.uk/life-sciences/people/fadi.soukarieh
+[join]: https://www.whelanlab.co.uk/contact/
