@@ -50,6 +50,5 @@ Fieldwork is more than just collecting data; it is about collaboration, learning
 In conclusion, my fieldwork experience on North Uist Island was a journey of discovery, learning, and personal growth. The memories of the island's beauty, the thrill of the research, and the bond with my lab mates will stay with me forever. Fieldwork is one of the most exciting and rewarding aspects of scientific research, and I look forward to more such adventures.
 
 
-Once up-and-running, this Fellowship will allow us to hire 2 postdocs (in both microbiology and bioinformatics), a research assistant/technician, and a PhD student... so keep an eye on our [join us][join] page for more details to be posted soon!
-
+[nerc]: https://www.envision-dtp.org/
 [andrew]: https://www.nottingham.ac.uk/life-sciences/people/andrew.maccoll
