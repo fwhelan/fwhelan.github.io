@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Francis's Fieldwork experience: A Journey from Nottingham to the Island of North Uist"
-date:   2024-04-21 01:08:27 +0100
+date:   2024-08-21 01:08:27 +0100
 categories: jekyll update
 ---
 
