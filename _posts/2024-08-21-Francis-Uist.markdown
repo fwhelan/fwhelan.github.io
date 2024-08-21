@@ -10,7 +10,7 @@ This post comes from Whelan lab [NERC Envision DTP][nerc] student Francis Gyapon
 Fieldwork is integral to scientific research, offering hands-on experience and the opportunity to apply theoretical knowledge in real-world settings. On April 29, 2024, I set off on fieldwork that took me to the remote and stunning North Uist Island in Scotland. My journey began with a train from Nottingham to Glasgow, a comfortable and scenic trip that allowed me to relax and gather my thoughts about the tasks ahead. The excitement of the upcoming fieldwork made the journey fly by, and before I knew it, I was in Glasgow, ready for the next leg of my adventure.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/Uist/uist1.jpg){:width="400px" }
+![image](/assets/images/Uist/uist1.jpg){:width="800px" }
 {: refdef}
 
 The following day, April 30th, I boarded a plane from Glasgow to North Uist. The flight was relatively short, but the landing into North Uist was breathtaking. The island, with its rolling hills, scattered lochs, and rugged coastline, looked like a scene from a postcard. North Uist is known for its unique geography, with isolated freshwater lochs as well as those connected to the Atlantic Ocean. This diverse landscape made it the perfect location for our research.
@@ -36,14 +36,14 @@ What stood out during this fieldwork was the incredible sense of teamwork. My la
 Our Sundays were reserved for relaxation, and we made the most of them by visiting the island’s beautiful beaches. These outings provided a much-needed break and allowed us to appreciate the natural beauty of North Uist. Another memorable aspect of the trip was the communal meals we shared. Each day, someone different would prepare food, introducing us to various dishes. Although I didn’t get a chance to showcase my cooking skills, my supervisor playfully reassured me that I would have my opportunity during our subsequent fieldwork. His words, "Francis, we have a few options left; show your skills in our next fieldwork!" added a light-hearted moment to the experience.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/Uist/leisure1.jpg){:width="400px" }
+![image](/assets/images/Uist/leisure1.jpg){:width="800px" }
 {: refdef}
 
 After two productive and enjoyable weeks on North Uist, it was time to return home. On May 14, 2024, we began our journey back to Nottingham. The first leg of the trip involved taking a ferry from North Uist to the Scottish mainland. This was my first time on a ferry, and the experience was unforgettable. The vastness of the ocean, the rhythmic motion of the ferry, and the fresh sea breeze combined to create a memory that I will cherish forever. It’s a memory that I still love and often reminisce about.
 We embarked on a long drive back from Scotland to the University of Nottingham, which took nearly nine hours. Although the drive was tiring, it gave me time to reflect on my incredible experiences during the past two weeks. Despite the physical exhaustion, I returned to Nottingham feeling more robust and confident in my abilities.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/Uist/uist2.jpg){:width="400px" }
+![image](/assets/images/Uist/uist2.jpg){:width="800px" }
 {: refdef}
 
 Fieldwork is more than just collecting data; it is about collaboration, learning, and growing. The time I spent at North Uist was invaluable for the scientific knowledge I gained and the relationships I built with my colleagues. The support and teamwork within the Whelan and MacColl group, especially from the planning stage and fieldwork activities, were exceptional. I am grateful for the opportunity to have worked alongside such dedicated individuals.
