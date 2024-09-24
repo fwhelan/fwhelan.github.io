@@ -158,10 +158,11 @@ The Whelan lab is located in the Michael Smithg building on the <a href="https:/
 
 <h4>Doctoral/Postgraduate Fellowships:</h4>
 <ul>
+  <li><a href="https://www.chevening.org/">Chevening Scholarships</a></li>
   <li><a href="https://www.bifonds.de/fellowships-grants/phd-fellowships/who-can-apply-phd.html">The Boehringer Ingelheim Fonds Studentships</a></li>
   <li><a href="https://www.nihr.ac.uk/explore-nihr/academy-programmes/fellowship-programme.htm#two">NIHR Doctoral Fellowship</a></li>
   <li><a href="https://www.britishcouncil.org/education/he-science/newton-fund/phd-programme">Newton PhD Programme</a></li>
-  <li><a href="">Commonwealth Scholarships</a></li>
+  <li><a href="https://study-uk.britishcouncil.org/scholarships-funding/commonwealth-scholarships">Commonwealth Scholarships</a></li>
   <li><a href="https://www.marshallscholarship.org/apply">Marshall Scholarship</a></li>
   <li>A list of funding opportunities maintained by <a href="https://research.jhu.edu/rdt/funding-opportunities/graduate/">John Hopkins University</a> (may be more US-focussed).</li>
 </ul>
