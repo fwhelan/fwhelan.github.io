@@ -47,7 +47,7 @@ circlewidth3: 150
 
 <div id="content">
 <img align="right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="200"/>
-The Whelan lab is located in the Michael Smithg building on the <a href="https://www.manchester.ac.uk/">University of Manchester</a> campus in Manchester, UK. We are part of the <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/">School of Biological Sciences</a> and <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/evolution/">Division of Evolution, Infection, and Genomics (EIGEN)</a>. The Whelan lab is an activate member of the <a href="https://sites.manchester.ac.uk/merman/">Microbial Evolution Research at Manchester (MERMan) group</a>, a collective of 14 PIs and >50 research staff who are colocalized in high-end laboratory facilities and form a thriving, collaborative research environment.
+The Whelan lab is located in the Michael Smith building on the <a href="https://www.manchester.ac.uk/">University of Manchester</a> campus in Manchester, UK. We are part of the <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/">School of Biological Sciences</a> and <a href="https://www.staffnet.manchester.ac.uk/bmh/about-fbmh/our-structure/schools-and-divisions/sbs/evolution/">Division of Evolution, Infection, and Genomics (EIGEN)</a>. The Whelan lab is an activate member of the <a href="https://sites.manchester.ac.uk/merman/">Microbial Evolution Research at Manchester (MERMan) group</a>, a collective of 14 PIs and >50 research staff who are colocalized in high-end laboratory facilities and form a thriving, collaborative research environment.
 <br>
 <br>
 <br>
