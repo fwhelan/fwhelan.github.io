@@ -142,7 +142,21 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>
-<br> 
+<div class="col-container">
+  <div class="box1">
+    <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
+  </div>
+  <div class="box2">
+     <p style="color:#008CEE">autumn 2025 start</p>
+  </div>
+  <div class="box3">
+    <p style="color:#008CEE">More details soon... </p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
 <p>If you are interested in positions within the Lab, email Fiona your CV, and a short statement of interest.</p>
 
 
