@@ -56,16 +56,16 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
-<div class="col-container">
+<!--<div class="col-container">
   <div class="box1"><!-- style="background-color:#E8E495;">-->
-    <p style="color:#53C8BD"><b>RA/technican</b></p>
+    <!--<p style="color:#53C8BD"><b>RA/technican</b></p>
   </div>
   <div class="box2">
     <p style="color:#53C8BD">autumn 2024 start, 4-year position</p>
   </div>
   <div class="box3">
   <p style="color:#53C8BD">This Research assistant (RA) position is funded by the <a href="https://lister-institute.org.uk/">Lister Institute</a> and <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">UKRI</a>. The RA will culture samples collected from individuals with cystic fibrosis, maintain a large isolate collection, conduct high-throughput competition assays, and be responsible for maintaing lab facilies and promoting a safe, friendly, and responsible research enviornment. This position is now open with applications closing on 17 October 2024; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=30402">Job reference: BMH-026892</a>.</p>
-  </div>
+  </div>-->
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 <!--</div>-->
 <br>
