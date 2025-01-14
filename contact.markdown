@@ -67,11 +67,11 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   <p style="color:#53C8BD">This Research assistant (RA) position is funded by the <a href="https://lister-institute.org.uk/">Lister Institute</a> and <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">UKRI</a>. The RA will culture samples collected from individuals with cystic fibrosis, maintain a large isolate collection, conduct high-throughput competition assays, and be responsible for maintaing lab facilies and promoting a safe, friendly, and responsible research enviornment. This position is now open with applications closing on 17 October 2024; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=30402">Job reference: BMH-026892</a>.</p>
   </div>-->
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
-<!--</div>-->
+<!--</div>
 <br>
 <br>
 <br>
-<br>
+<br>-->
 <!--<div class="col-container">
   <div class="box1"> <!--style="background-color:#A6E1CD;">-->
     <!--<p style="color:#0080BA"><b>PDRA</b></p>
@@ -82,10 +82,10 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   <div class="box3">
     <p style="color:#0080BA">This Postdoctoral Research Associate (PDRA) position is funded by the Academy of Medical Sciences (AMS) <a href="https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard">Springboard award</a> in collaboration with <a href="https://www.mataresearch.com"> Alvaro Mata</a> and open to both UK nationals and international candidates. In this project, the PDRA will use a set of interdisciplinary techniques to establish a hydrogel biofilm model, which they will use to study microbe-pathogen interactions within the cystic fibrosis lung microbiome. This position is now open with applications closing on 20 November 2024; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=30837">Job reference: BMH-027285</a>.</p>
   </div>
-</div>-->
+</div>
 <br>
 <br>
-<br>
+<br>-->
 <div class="col-container">
   <div class="box1"><!-- style="background-color:#A6E1CD;">-->
     <p style="color:#0080BA"><b>PDRA</b></p>
