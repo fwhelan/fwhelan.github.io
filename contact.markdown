@@ -72,9 +72,9 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>
-<div class="col-container">
+<!--<div class="col-container">
   <div class="box1"> <!--style="background-color:#A6E1CD;">-->
-    <p style="color:#0080BA"><b>PDRA</b></p>
+    <!--<p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
     <p style="color:#0080BA">autumn 2024 start, 2-year position</p>
@@ -82,7 +82,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   <div class="box3">
     <p style="color:#0080BA">This Postdoctoral Research Associate (PDRA) position is funded by the Academy of Medical Sciences (AMS) <a href="https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard">Springboard award</a> in collaboration with <a href="https://www.mataresearch.com"> Alvaro Mata</a> and open to both UK nationals and international candidates. In this project, the PDRA will use a set of interdisciplinary techniques to establish a hydrogel biofilm model, which they will use to study microbe-pathogen interactions within the cystic fibrosis lung microbiome. This position is now open with applications closing on 20 November 2024; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=30837">Job reference: BMH-027285</a>.</p>
   </div>
-</div>
+</div>-->
 <br>
 <br>
 <br>
