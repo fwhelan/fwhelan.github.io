@@ -108,13 +108,13 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
     <p style="color:#0080BA">early 2025 start, 3-year position</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">This soon-to-be advertised Postdoctoral Research Associate (PDRA) position is funded by a UKRI <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">Future Leaders Fellowship</a> and open to both UK nationals and international candidates. This position is for a microbiologist interested in high throughput microbe-pathogen competition assays and use of a <i>Drosophila melanogaster</i> chronic infection model to investigate the cystic fibrosis lung microbiome. The opening and closing dates for this position are TBA; check back here for more details in the coming weeks.</p>
+    <p style="color:#0080BA">This Postdoctoral Research Associate (PDRA) position is funded by a UKRI <a href="https://www.ukri.org/what-we-do/developing-people-and-skills/future-leaders-fellowships/">Future Leaders Fellowship</a> and open to both UK nationals and international candidates. This position is for a microbiologist interested in high throughput microbe-pathogen competition assays and use of a <i>Drosophila melanogaster</i> chronic infection model to investigate the cystic fibrosis lung microbiome. This position is now open with application closing 12 February 2025; for more details and to apply, please visit jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=31433&advert=external">Job reference: BMH-027904</a>.</p>
   </div>
 </div>
 <br>
 <br>
 <br>
-<div class="col-container">
+<!--<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP</b></p>
   </div>
@@ -127,7 +127,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 </div>
 <br>
 <br>
-<br>
+<br>-->
 <div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
