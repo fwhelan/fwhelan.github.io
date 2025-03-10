@@ -65,7 +65,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   </div>
   <div class="box3">
   <p style="color:#53C8BD">This summer studentship position, funded by the Lister Institute, will allow an Undergraduate student (likely finishing their 2nd year) to work alongside a Postdocotoral Research Associate in the lab studying pathogen interactions in the cystic fibrosis lung microbiome. The student will get a chance to learn hands-on laboratory skills, how to plan experiments, and will have the opportunity to present their work as a poster presentation in September. This position is now open with applications closing on 31 March 2025; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=31764">Job reference: BMH-028225</a>.</p>
-  </div>-->
+  </div>
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 <!--</div>
 <br>
@@ -128,7 +128,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>-->
-<div class="col-container">
+<!--<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
   </div>
@@ -138,8 +138,8 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   <div class="box3">
     <p style="color:#008CEE"> We are always interested in hearing from students who are interested in self-funding their PhD studies. The specific research topic and area of interest can be discussed together; however, at the moment we have a bioinformatic-based self-funded PhD studentship project advertised focussed on investigating antimicrobial resistance mechanisms and transmission ability via their genetic associations. In this project, supervised with <a href="https://dannagifford.com">Dr Danna Gifford</a>, the student will use pangenomic and phylogenetic analyses to investigate the genetic associations between known antimicrobial resistance genes and other genetic elements (genes, mutations etc.) within the bacterial genome. For more information and to apply, please visit <a href="https://www.findaphd.com/phds/project/understanding-antimicrobial-resistance-mechanisms-and-transmission-ability-via-their-genetic-associations/?p183237">the findaphd.com advert</a>. There is no fixed application deadline for this studentship. </p>
     <!--<p style="color:#008CEE">As part of the BBSRC North West Doctoral (NWD) Programme in Bioscience <a href="https://www.liverpool.ac.uk/people/jo-fothergill">Prof Jo Fothergill</a>, <a href="https://research.manchester.ac.uk/en/persons/michael.brockhurst">Prof Mike Brockhurst</a>, and I are encouraging applications for a PhD studentship entitled <i>"Understanding how commensal bacteria modulate the virulence of Pseudomonas aeruginosa"</i>. This project is a lab-based project - with some bioinformatic work - that aims to understand how microbes can interact with <i>Pseudomonas aeruginosa</i> to change its pathogenecity. One way that the student will use to explore these questions is via use of a <i>Drosophila melanogaster</i> chronic infection model.  Experience with traditional microbial techniques and/or working with <i>Drosophila melanogaster</i> is an assest. For more information and to apply, please visit <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/bbsrc-nwdp/projects/">the NWD webpage</a> and <a href="https://www.findaphd.com/phds/project/bbsrc-nwd-understanding-how-commensal-bacteria-modulate-the-virulence-of-pseudomonas-aeruginosa/?p180407">findaphd.com</a>. Application deadline: 31 January 2025. </p>-->
-  </div>
-</div>
+  <!--</div>-->
+<!--</div>-->
 <br>
 <br>
 <br>
