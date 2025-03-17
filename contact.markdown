@@ -86,9 +86,9 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>-->
-<!--<div class="col-container">
+<div class="col-container">
   <div class="box1"><!-- style="background-color:#A6E1CD;">-->
-    <!--<p style="color:#0080BA"><b>PDRA</b></p>
+    <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
     <p style="color:#0080BA">early 2025 start, 2.3-year position</p>
@@ -99,7 +99,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 </div>
 <br>
 <br>
-<br>-->
+<br>
 <div class="col-container">
   <div class="box1">
     <p style="color:#0080BA"><b>PDRA</b></p>
