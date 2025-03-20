@@ -19,6 +19,14 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 </div>
 
 <div id="content">
+<img align="right" src="/assets/images/members/Prima-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Prima Lesaso, MSc Bioinformatics and Systems Biology student</b> (she/her)</h3>
+
+Prima is a postgraduate student at the University of Manchester having started in September 2024. She is currently undertaking her first master’s project in the Whelan Lab, exploring the lung microbiome of people with cystic fibrosis via metagenomic analyses. The project is being supervised by Dr. Whelan and is being done entirely <i>in silico</i>. Prior to this, Prima earned a Bachelor’s of Science in Biological Sciences with an honours in Biotechnology at the University of Edinburgh, where the focus of her final year project was to conduct a meta-analysis of the <i>Komagataella phaffii</i> transcriptome in order to decipher its codon usage bias. This project was done under the supervision of Dr Giovanni Stracquadanio as well as current PhD candidate Anima Sutradhar.
+Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles and being around animals.
+</div>
+
+<div id="content">
 <img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
 <h3><b>You?</b></h3>
 
