@@ -12,6 +12,9 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 </div>
 
 <div id="content">
+<h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
+
+<div id="content">
 <img align="right" src="/assets/images/members/FrancisG-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Francis Gyapong, NERC Envision DTP student</b> (he/him)</h3>
 
