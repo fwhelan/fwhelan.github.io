@@ -32,7 +32,7 @@ Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles a
 <div id="content">
 <h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b></h3>
 
-<div id"content">
+<div id="content">
 <h3><b>Kaiwen Xiao, MSc Infection Biology student</b></h3>
 
 <div id="content">
