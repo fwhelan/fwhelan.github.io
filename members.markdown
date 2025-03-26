@@ -34,6 +34,7 @@ Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles a
 
 <div id="content">
 <h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b></h3>
+Jacky previously studied Biomedical Engineering (BEng) at University College London, with a particular focus on data analytics and programming in the medical and healthcare field. His final year project looked at evaluating different Machine Learning models that diagnose the disease Necrotising Enterocolitis from the abdominal X-rays of pre-term infants. Prior to this, Jacky participated in the pilot Research Internship scheme with the Royal Academy of Engineering, where he investigated a novel method to measure the biomechanics of the cornea using a bespoke imaging system. In his free time, Jacky likes cooking and hiking near Manchester.
 
 <div id="content">
 <h3><b>Kaiwen Xiao, MSc Infection Biology student</b></h3>
