@@ -22,7 +22,8 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 </div>
 
 <div id="content">
-<h3><b>Hannah Jones, Research Assistant</b></h3>
+<h3><b>Hannah Jones, Research Assistant</b>(she/her)</h3>
+Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
 
 <div id="content">
 <img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>
