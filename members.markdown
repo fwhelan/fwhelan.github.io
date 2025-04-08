@@ -107,12 +107,12 @@ Luc is currently undertaking an MSc in Bioinformatics at the University of Notti
 Alexis joined the lab as a rising junior at the <a href="https://www.umd.edu/">University of Maryland</a>, studying Neuroscience on a pre-medicine track with an aim to achieve her MD/PhD in graduate school. Though her interests currently include molecular neuroscience and medicine, she still has interest in other fields, those of which include microbiology. In the Whelan Lab as an <a href="https://nsurp.org/">NSURP Mentee</a>, she is currently studying species-species interactions in the cystic fibrosis microbiome, working with DNA sequencing data and the R programming language. When she is not in the lab, she loves to bake and play piano, guitar, or sing!
 </div>
 
-<div id="content">
+<!--<div id="content">
 <!--<img align="right" src="/assets/images/members/Saba-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Saba Alhagagi, Wellcome Trust Biomedical Vacation Scholarship student (2022)</b></h3>
+<!--<h3><b>Saba Alhagagi, Wellcome Trust Biomedical Vacation Scholarship student (2022)</b></h3>
 
 Saba is currently studying a BSc in Biomedical Science at the <a href="https://warwick.ac.uk/">University of Warwick</a>. Her interests are in microbiology and disease ecology, hoping to gain an understanding of the causative agents, risk factors and circumstances that contribute to the induction and proliferation of disease in populations. In the Whelan Lab, she is a Wellcome Trust BVS student investigating the interactions between members of the <i>Streptococcus anginosus</i> group and <i>Prevotella sp.</i> in the cystic fibrosis lung microbiome. Outside of the lab, Saba is passionate about public engagement and outreach, and loves to bake and read.
-</div>
+</div>-->
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/Odunayo-Picture.jpg" alt="drawing" width="220"/>-->
