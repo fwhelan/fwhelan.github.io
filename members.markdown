@@ -15,7 +15,10 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 <h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
 
 <div id="content">
+<img align="right" src="/assets/images/members/MelLawson-Picture.jpg" alt="rdawing" width="220"/>
 <h3><b>Melissa Lawson, Postdoctoral Research Associate</b></h3>
+
+Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was the Director of Translational Biology (in vivo) at Microbiotica Ltd in Cambridge. Prior to this she was a Postdoctoral Research Associate with Profs Richard Grencis and Ian Roberts examining interactions between the host immune system, gut microbiome and intestinal parasites. From 2014-2018 Mel researched the impact of infant milk diets on shaping the early life gut microbiome as a Postdoctoral associate and MSCA postdoctoral fellow (2015-2017) in Prof Lindsay Hall’s lab at the Quadram Institute Bioscience in Norwich. Mel completed her PhD in Immunology in the laboratories of Profs Kathy McCoy and Andrew Macpherson examining the role of IgA on intestinal bacteria, and she has degrees in Pathobiology (MSc) and microbiology (BSc) from the University of Guelph, Canada. In her free time, Mel likes spending time outdoors with her family, yoga and cooking. 
 
 <div id="content">
 <img align="right" src="/assets/images/members/FrancisG-Picture.jpg" alt="drawing" width="220"/>
