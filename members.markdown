@@ -13,6 +13,8 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 
 <div id="content">
 <h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
+
+Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she was at Swansea University, where she studied the effects of Manuka honey on cystic fibrosis (CF) pathogens using <i>in vivo</i> models. Prior to that, Michelle completed her PhD on CF microbiomes at Manchester Metropolitan University, where she also worked part-time as a microbiology teaching technician. In her free time, she enjoys cooking, walking, and spending time with friends and family.
 </div>
 
 
