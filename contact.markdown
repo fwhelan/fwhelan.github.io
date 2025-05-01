@@ -56,8 +56,8 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 
 <h2>Join us!</h2>
 <p>Current open positions in our group:</p>
-<div class="col-container">
-  <div class="box1"><!-- style="background-color:#E8E495;">-->
+<!--<div class="col-container">
+  <div class="box1"><!-- style="background-color:#E8E495;">
     <p style="color:#53C8BD"><b>Summer Studentship</b></p>
   </div>
   <div class="box2">
@@ -65,7 +65,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   </div>
   <div class="box3">
   <p style="color:#53C8BD">This summer studentship position, funded by the Lister Institute, will allow an Undergraduate student (likely finishing their 2nd year) to work alongside a Postdocotoral Research Associate in the lab studying pathogen interactions in the cystic fibrosis lung microbiome. The student will get a chance to learn hands-on laboratory skills, how to plan experiments, and will have the opportunity to present their work as a poster presentation in September. This position is now open with applications closing on 31 March 2025; for more details and to apply, please check out jobs.manchester.ac.uk, <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=31764">Job reference: BMH-028225</a>.</p>
-  </div>
+  </div>-->
 <!-- #008CEE blue; #2CCDDB light blue; #E1D433 yellow -->
 <!--</div>
 <br>
