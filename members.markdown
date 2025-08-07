@@ -64,9 +64,10 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 </div>
 
 <div id="content">
-<!--<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>-->
+<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student</b> </h3>
 
+Terenia is a Master's student in Bioinformatics at the University of Manchester. She is currently completing her second research project in the Whelan Lab, investigating an understudied gene in the Prairie Epidemic Strain (PES) of <i>Pseudomonas aeruginosa</i>, under the supervision of Dr Fiona Whelan. Her previous project explored NHS appointment delays in England, where she ventured into health informatics and applied skills from her BSc in Computer Science (Data Science) to real-world healthcare data. Through her time in the Whelan Lab and her MSc course, Terenia has developed a growing interest for life sciences and how her analytical background can contribute to this field. She hopes to continue working in this area in the future. Outside the lab, she enjoys playing video games and streaming, watching musicals both online and live, rewatching FRIENDS, diving into true crime content, and bingeing movies/series of all kinds.
 </div>
 
 <div id="content">
