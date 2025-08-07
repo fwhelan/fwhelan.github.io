@@ -77,6 +77,7 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 <div id="content">
 <h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student</b></h3>
 
+Yuan is a Master student at the University of Manchester, having joined the Whelan lab in 2025. His research project focuses on the lung microbiome of people with cystic fibrosis by using the methods of culture-enriched metagenomics. He is interested in how microbial community structure and functional potential shift during pulmonary exacerbations. Before joining the lab, Yuan completed his first project, during which he worked on mutational signatures and driver genes in Malaysian breast cancer, and also gained experience in marine biology during his undergraduate studies. Outside the lab, Yuan enjoys playing tennis, cooking and video games.
 </div>
 
 <div id="content">
