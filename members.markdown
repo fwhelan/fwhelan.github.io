@@ -87,8 +87,10 @@ Yuan is a Master student at the University of Manchester, having joined the Whel
 </div>
 
 <div id="content">
+<img align="right" src="/assets/images/members/OliverH-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Oliver Hoare, Lister Summer student</b></h3>
 
+Oliver is a summer intern at the University of Manchester. As an undergraduate he studies Biomedical Science with a year in industry, at the University of Sheffield. In the Whelan lab, Oliver is conducting research as part of the Lister Institute Summer Studentship grant, helping research with co-culture interactions between <i>Pseudomonas aeruginosa</i> and <i>Staphylococcus sp.</i> in biofilms. In his free time, he enjoys skiing, all things outdoors and spending time with family and friends.
 </div>
 
 <div id="content">
