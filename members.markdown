@@ -52,7 +52,7 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 </div>-->
 
 <div id="content">
-<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="220"/>
+<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="340"/>
 <h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (he/him)</h3>
 
 Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada), conducting research in the labs of Prof. Pierre-Étienne Jacques and Prof. Sébastien Rodrigue. His work focuses on bacterial genetic interactions, leveraging bioinformatics and data science to deepen our understanding of microbial systems. Simon develops pipelines for the processing and analysis of High-Throughput Transposon Mutagenesis (HTTM) data in <i>Escherichia coli</i> and <i>Mesoplasma florum</i>, and contributes to broader genomic analyses including RNA-seq. His short visit to the University of Manchester, in collaboration with Dr. Fiona Whelan's lab, focuses on integrating gene co-occurrence and pangenomic frameworks to investigate conserved functional relationships across bacterial genomes. When not coding, he unwinds with cycling, home cooking, and the occasional dive into sci-fi and prog rock.
