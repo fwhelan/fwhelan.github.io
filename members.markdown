@@ -33,25 +33,61 @@ Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was 
 Francis is a PhD student at the University of Nottingham having started in October 2023. He is an ENVISION DTP scholar who will work in the Whelan lab on <i>The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome.</i>. The project is co-supervised by Dr. Whelan, Prof. Andrew MacColl, and Dr. Hanna Hartikainen, and will include wet lab techniques and bioinformatic approaches. Before beginning his PhD, Francis earned a Master of Philosophy in Molecular Cell Biology of Infectious Pathogens in which he studied the microbes resident on face masks during the COVID-19 era and used the model organism <i>Galleria mellonella</i> to investigation the pathogenecity of isolated microbes. Francis likes music and video games outside of the lab!
 </div>
 
+<!--<div id="content">
+<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (pronouns)</h3>
+
+</div>
+
+<div id="content">
+<img align="right" src="/assets/images/members/AmberC-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Amber Cutcliffe, BBSRC NWD DTP student</b> (pronouns)</h3>
+
+</div>
+
+<div id="content">
+<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Rebecca Wallis-Downham, PULSE-CF PhD student</b> (pronouns)</h3>
+
+</div>-->
+
+<div id="content">
+<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="220"/>
+<h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (he/him)</h3>
+
+Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada), conducting research in the labs of Prof. Pierre-Étienne Jacques and Prof. Sébastien Rodrigue. His work focuses on bacterial genetic interactions, leveraging bioinformatics and data science to deepen our understanding of microbial systems. Simon develops pipelines for the processing and analysis of High-Throughput Transposon Mutagenesis (HTTM) data in <i>Escherichia coli</i> and <i>Mesoplasma florum</i>, and contributes to broader genomic analyses including RNA-seq. His short visit to the University of Manchester, in collaboration with Dr. Fiona Whelan's lab, focuses on integrating gene co-occurrence and pangenomic frameworks to investigate conserved functional relationships across bacterial genomes. When not coding, he unwinds with cycling, home cooking, and the occasional dive into sci-fi and prog rock.
+</div>
+
 <div id="content">
 <h3><b>Hannah Jones, Research Assistant</b> (she/her)</h3>
 Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Prima Lesaso, MSc Bioinformatics and Systems Biology student</b> (she/her)</h3>
+<!--<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student</b> </h3>
 
-Prima is a postgraduate student at the University of Manchester having started in September 2024. She is currently undertaking her first master’s project in the Whelan Lab, exploring the lung microbiome of people with cystic fibrosis via metagenomic analyses. The project is being supervised by Dr. Whelan and is being done entirely <i>in silico</i>. Prior to this, Prima earned a Bachelor’s of Science in Biological Sciences with an honours in Biotechnology at the University of Edinburgh, where the focus of her final year project was to conduct a meta-analysis of the <i>Komagataella phaffii</i> transcriptome in order to decipher its codon usage bias. This project was done under the supervision of Dr Giovanni Stracquadanio as well as current PhD candidate Anima Sutradhar.
-Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles and being around animals.
 </div>
 
 <div id="content">
-<h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b></h3>
-Jacky previously studied Biomedical Engineering (BEng) at University College London, with a particular focus on data analytics and programming in the medical and healthcare field. His final year project looked at evaluating different Machine Learning models that diagnose the disease Necrotising Enterocolitis from the abdominal X-rays of pre-term infants. Prior to this, Jacky participated in the pilot Research Internship scheme with the Royal Academy of Engineering, where he investigated a novel method to measure the biomechanics of the cornea using a bespoke imaging system. In his free time, Jacky likes cooking and hiking near Manchester.
+<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student</b></h3>
+
+</div>
+
+<div id="content">
+<h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student</b></h3>
+
+</div>
 
 <div id="content">
 <h3><b>Kaiwen Xiao, MSc Infection Biology student</b></h3>
+
+</div>
+
+<div id="content">
+<h3><b>Oliver Hoare, Lister Summer student</b></h3>
+
+</div>
 
 <div id="content">
 <img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
@@ -61,6 +97,18 @@ Would you like to join the Whelan lab? Head over to <a href="https://www.whelanl
 </div>
 
 <div class="separator">Alumni</div>
+
+<div id="content">
+<!--<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Prima Lesaso, MSc Bioinformatics and Systems Biology student</b> (she/her)</h3>
+
+Prima is a postgraduate student at the University of Manchester having started in September 2024. She is currently undertaking her first master’s project in the Whelan Lab, exploring the lung microbiome of people with cystic fibrosis via metagenomic analyses. The project is being supervised by Dr. Whelan and is being done entirely <i>in silico</i>. Prior to this, Prima earned a Bachelor’s of Science in Biological Sciences with an honours in Biotechnology at the University of Edinburgh, where the focus of her final year project was to conduct a meta-analysis of the <i>Komagataella phaffii</i> transcriptome in order to decipher its codon usage bias. This project was done under the supervision of Dr Giovanni Stracquadanio as well as current PhD candidate Anima Sutradhar.
+Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles and being around animals.
+</div>
+
+<div id="content">
+<h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b></h3>
+Jacky previously studied Biomedical Engineering (BEng) at University College London, with a particular focus on data analytics and programming in the medical and healthcare field. His final year project looked at evaluating different Machine Learning models that diagnose the disease Necrotising Enterocolitis from the abdominal X-rays of pre-term infants. Prior to this, Jacky participated in the pilot Research Internship scheme with the Royal Academy of Engineering, where he investigated a novel method to measure the biomechanics of the cornea using a bespoke imaging system. In his free time, Jacky likes cooking and hiking near Manchester.
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>-->
