@@ -100,14 +100,14 @@ Would you like to join the Whelan lab? Head over to <a href="https://www.whelanl
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>-->
-<h3><b>Prima Lesaso, MSc Bioinformatics and Systems Biology student</b> (she/her)</h3>
+<h3><b>Prima Lesaso, MSc Bioinformatics and Systems Biology student</b> (2024)</h3>
 
 Prima is a postgraduate student at the University of Manchester having started in September 2024. She is currently undertaking her first master’s project in the Whelan Lab, exploring the lung microbiome of people with cystic fibrosis via metagenomic analyses. The project is being supervised by Dr. Whelan and is being done entirely <i>in silico</i>. Prior to this, Prima earned a Bachelor’s of Science in Biological Sciences with an honours in Biotechnology at the University of Edinburgh, where the focus of her final year project was to conduct a meta-analysis of the <i>Komagataella phaffii</i> transcriptome in order to decipher its codon usage bias. This project was done under the supervision of Dr Giovanni Stracquadanio as well as current PhD candidate Anima Sutradhar.
 Outside of the lab, Prima is a massive jazz head and enjoys gardening, puzzles and being around animals.
 </div>
 
 <div id="content">
-<h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b></h3>
+<h3><b>Jacky You, MSc Bioinformatics and Systems Biology student</b> (2024)</h3>
 Jacky previously studied Biomedical Engineering (BEng) at University College London, with a particular focus on data analytics and programming in the medical and healthcare field. His final year project looked at evaluating different Machine Learning models that diagnose the disease Necrotising Enterocolitis from the abdominal X-rays of pre-term infants. Prior to this, Jacky participated in the pilot Research Internship scheme with the Royal Academy of Engineering, where he investigated a novel method to measure the biomechanics of the cornea using a bespoke imaging system. In his free time, Jacky likes cooking and hiking near Manchester.
 
 <div id="content">
