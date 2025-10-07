@@ -64,7 +64,16 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/>
+<img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
+<h3><b>You?</b></h3>
+
+Would you like to join the Whelan lab? Head over to <a href="https://www.whelanlab.co.uk/contact/">our join us page</a> to learn about current and upcoming opportunities.
+</div>
+
+<div class="separator">Alumni</div>
+
+<div id="content">
+<!--<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/-->>
 <h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student</b> </h3>
 
 Terenia is a Master's student in Bioinformatics at the University of Manchester. She is currently completing her second research project in the Whelan Lab, investigating an understudied gene in the Prairie Epidemic Strain (PES) of <i>Pseudomonas aeruginosa</i>, under the supervision of Dr Fiona Whelan. Her previous project explored NHS appointment delays in England, where she ventured into health informatics and applied skills from her BSc in Computer Science (Data Science) to real-world healthcare data. Through her time in the Whelan Lab and her MSc course, Terenia has developed a growing interest for life sciences and how her analytical background can contribute to this field. She hopes to continue working in this area in the future. Outside the lab, she enjoys playing video games and streaming, watching musicals both online and live, rewatching FRIENDS, diving into true crime content, and bingeing movies/series of all kinds.
@@ -88,20 +97,11 @@ Yuan is a Master student at the University of Manchester, having joined the Whel
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/OliverH-Picture.jpg" alt="drawing" width="340"/>
+<!--<img align="right" src="/assets/images/members/OliverH-Picture.jpg" alt="drawing" width="340"/>-->
 <h3><b>Oliver Hoare, Lister Summer student</b> (he/him)</h3>
 
 Oliver is a summer intern at the University of Manchester. As an undergraduate he studies Biomedical Science with a year in industry, at the University of Sheffield. In the Whelan lab, Oliver is conducting research as part of the Lister Institute Summer Studentship grant, helping research with co-culture interactions between <i>Pseudomonas aeruginosa</i> and <i>Staphylococcus sp.</i> in biofilms. In his free time, he enjoys skiing, all things outdoors and spending time with family and friends.
 </div>
-
-<div id="content">
-<img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
-<h3><b>You?</b></h3>
-
-Would you like to join the Whelan lab? Head over to <a href="https://www.whelanlab.co.uk/contact/">our join us page</a> to learn about current and upcoming opportunities.
-</div>
-
-<div class="separator">Alumni</div>
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/PrimaL-Picture.jpg" alt="drawing" width="220"/>-->
