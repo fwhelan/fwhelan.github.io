@@ -43,13 +43,13 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 <img align="right" src="/assets/images/members/AmberC-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Amber Cutcliffe, BBSRC NWD DTP student</b> (pronouns)</h3>
 
-</div>
+</div>-->
 
 <div id="content">
 <img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Rebecca Wallis-Downham, PULSE-CF PhD student</b> (pronouns)</h3>
-
-</div>-->
+<h3><b>Rebecca Wallis-Downham, PULSE-CF PhD student</b> (she/her)</h3>
+Rebecca is a PhD student (2025-2029) funded by PULSE-CF. Within this, she is exploring strain-level dynamics of key pathogens in the cystic fibrosis lung microbiome that occur during pulmonary exacerbation. Previously, she studied Biotechnology and Computer Science at the University of Nottingham, where she completed the Excel in Science internship in the Whelan Lab. During this time, she researched novel media for culturing the CF lung microbiome and presented findings as a poster at the Microbiology Society’s Annual conference. Rebecca then earned her Master’s in Experimental Sciences at Universitat Pompeu Fabra, during which she interned at the Centre for Genomic Regulation and researched the Pyrenean lake microbiome. Outside the lab, she enjoys baking sweet treats, socialising with friends, and getting a good workout in.
+</div>
 
 <div id="content">
 <img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="340"/>
