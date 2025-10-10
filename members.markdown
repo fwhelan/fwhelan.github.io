@@ -37,13 +37,13 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 <img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (pronouns)</h3>
 
-</div>
+</div>-->
 
 <div id="content">
 <img align="right" src="/assets/images/members/AmberC-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Amber Cutcliffe, BBSRC NWD DTP student</b> (pronouns)</h3>
-
-</div>-->
+<h3><b>Amber Cutcliffe, BBSRC NWD DTP student</b> (she/her)</h3>
+Amber is a BBSRC-funded PhD student (2025-2029) co-supervised by Dr. Fiona Whelan, Professor Jo Fothergill, and Professor Mike Brockhurst. Her project investigates how commensal microbes from the sputum of people with cystic fibrosis influence the virulence of Pseudomonas aeruginosa, using a Drosophila infection model. Before her PhD, she worked as a research technician at the Liverpool School of Tropical Medicine, where she reared mosquitoes and tested insecticides in the Liverpool Insect Testing Establishment, and later supported the construction of a microbial library for the discovery of novel antimicrobials in the Roberts Group. She holds a BSc in Biological Sciences from the University of Liverpool. Beyond her research, Amber enjoys reading, music, and video games.
+</div>
 
 <div id="content">
 <img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="300"/>
