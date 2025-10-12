@@ -37,7 +37,7 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 <div id="content">
 <!--<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>-->
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (pronouns)</h3>
+<h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> </h3> <!--(pronouns)</h3>-->
 
 </div>
 
