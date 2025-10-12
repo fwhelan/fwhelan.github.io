@@ -48,15 +48,21 @@ figure {
   border: 1px #cccccc solid;
   padding: 4px;
   margin: auto;
+  display: table;
 }
 
 figcaption {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-style: italic;
   padding: 2px;
   text-align: center;
 }
+
+figure img {
+  display: inline;
+}
+
 </style>
 </head>
 
@@ -183,7 +189,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 
 <figure>
 <img align="right" src="/assets/images/social/2025-Bundobust.jpg" alt="drawing" width="400"/>
-<figcaption>The Whelan lab circa summer 2025.</figcaption>
+<figcaption>align="right" The Whelan lab circa summer 2025.</figcaption>
 </figure>
 
 <h4>Postdoctoral Fellowships:</h4>
