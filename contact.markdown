@@ -187,7 +187,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 
 <p>Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:</p>
 
-<figure>
+<figure style="float: right;">
 <img align="right" src="/assets/images/social/2025-Bundobust.jpg" alt="drawing" width="400"/>
 <figcaption>The Whelan lab circa summer 2025.</figcaption>
 </figure>
