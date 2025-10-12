@@ -179,13 +179,12 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 
 <p>The Whelan lab would be honoured to host applications to The British Academy's <a href="https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk/">Fellowships for Researchers at Risk</a> programme. If you work on anything vaguely related to our Research interests, please get in touch- I would be happy to help guide the submission of an application.</p>
 
-<div id="content">
+<p>Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:</p>
+
 <figure>
 <img align="right" src="/assets/images/social/2025-Bundobust.jpg" alt="drawing" width="400"/>
 <figcaption>The Whelan lab circa summer 2025.</figcaption>
 </figure>
-
-<p>Additionally, we are always interested in individuals who would like to apply for scholarships or fellowships. Some options of funding opportunities follow:</p>
 
 <h4>Postdoctoral Fellowships:</h4>
 <ul>
