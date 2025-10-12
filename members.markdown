@@ -12,6 +12,7 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 </div>
 
 <div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
 
 Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she was at Swansea University, where she studied the effects of Manuka honey on cystic fibrosis (CF) pathogens using <i>in vivo</i> models. Prior to that, Michelle completed her PhD on CF microbiomes at Manchester Metropolitan University, where she also worked part-time as a microbiology teaching technician. In her free time, she enjoys cooking, walking, and spending time with friends and family.
@@ -33,11 +34,12 @@ Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was 
 Francis is a PhD student at the University of Nottingham having started in October 2023. He is an ENVISION DTP scholar who will work in the Whelan lab on <i>The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome.</i>. The project is co-supervised by Dr. Whelan, Prof. Andrew MacColl, and Dr. Hanna Hartikainen, and will include wet lab techniques and bioinformatic approaches. Before beginning his PhD, Francis earned a Master of Philosophy in Molecular Cell Biology of Infectious Pathogens in which he studied the microbes resident on face masks during the COVID-19 era and used the model organism <i>Galleria mellonella</i> to investigation the pathogenecity of isolated microbes. Francis likes music and video games outside of the lab!
 </div>
 
-<!--<div id="content">
-<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>
+<div id="content">
+<!--<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>-->
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (pronouns)</h3>
 
-</div>-->
+</div>
 
 <div id="content">
 <img align="right" src="/assets/images/members/AmberC-Picture.jpg" alt="drawing" width="220"/>
@@ -59,6 +61,7 @@ Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada)
 </div>
 
 <div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Hannah Jones, Research Assistant</b> (she/her)</h3>
 Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
 </div>
