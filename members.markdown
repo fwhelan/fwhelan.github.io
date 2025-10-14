@@ -36,7 +36,6 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 
 <div id="content">
 <img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>
-<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (she/her)</h3>
 Fiona is a PhD student funded by the University of Manchester Bicentenary studentship (2025-2029) where she is researching the genetic markers of epidemic strains of <i>Pseudomonas aeruginosa</i> infecting people with cystic fibrosis. Prior to this Fiona was a computational biologist in the Civil Service where she built bioinformatic pipelines for the analysis of unknown biological material. She earned her MSci in Biochemistry at the University of Birmingham, where, during her thesis she investigated the temporal resistance of <i>Candida albicans</i> to the antifungal fluconazole. Outside of the lab Fiona spends her time reading, hiking and playing gaelic football. 
 </div>
