@@ -21,7 +21,7 @@ Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she
 
 <div id="content">
 <img align="right" src="/assets/images/members/MelLawson-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Melissa Lawson, Postdoctoral Research Associate</b></h3>
+<h3><b>Melissa Lawson, Postdoctoral Research Associate</b> (she/her)</h3>
 
 Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was the Director of Translational Biology (in vivo) at Microbiotica Ltd in Cambridge. Prior to this she was a Postdoctoral Research Associate with Profs Richard Grencis and Ian Roberts examining interactions between the host immune system, gut microbiome and intestinal parasites. From 2014-2018 Mel researched the impact of infant milk diets on shaping the early life gut microbiome as a Postdoctoral associate and MSCA postdoctoral fellow (2015-2017) in Prof Lindsay Hall’s lab at the Quadram Institute Bioscience in Norwich. Mel completed her PhD in Immunology in the laboratories of Profs Kathy McCoy and Andrew Macpherson examining the role of IgA on intestinal bacteria, and she has degrees in Pathobiology (MSc) and microbiology (BSc) from the University of Guelph, Canada. In her free time, Mel likes spending time outdoors with her family, yoga and cooking. 
 </div>
@@ -35,10 +35,10 @@ Francis is a PhD student at the University of Nottingham having started in Octob
 </div>
 
 <div id="content">
-<!--<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>-->
+<img align="right" src="/assets/images/members/FionaP-Picture.jpg" alt="drawing" width="220"/>
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> </h3> <!--(pronouns)</h3>-->
-
+<h3><b>Fiona Poulter, UoM Bicentenary PhD student</b> (she/her)</h3>
+Fiona is a PhD student funded by the University of Manchester Bicentenary studentship (2025-2029) where she is researching the genetic markers of epidemic strains of <i>Pseudomonas aeruginosa</i> infecting people with cystic fibrosis. Prior to this Fiona was a computational biologist in the Civil Service where she built bioinformatic pipelines for the analysis of unknown biological material. She earned her MSci in Biochemistry at the University of Birmingham, where, during her thesis she investigated the temporal resistance of <i>Candida albicans</i> to the antifungal fluconazole. Outside of the lab Fiona spends her time reading, hiking and playing gaelic football. 
 </div>
 
 <div id="content">
