@@ -136,15 +136,15 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>
-<!--<div class="col-container">
+<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP</b></p>
   </div>
   <div class="box2">
-     <p style="color:#008CEE">autumn 2025 start</p>
+     <p style="color:#008CEE">autumn 2026 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE"><a href="https://research.manchester.ac.uk/en/persons/michael.brockhurst">Prof Mike Brockhurst</a> and I are seeking an individual with interest and/or experience in bioinformatics and microbiology to apply for a <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/bicentenary-studentships/">University of Manchester Bicentenary PhD studentship</a> entitled <i>"Understanding the evolution of transmissibility in bacterial pathogens"</i>. In this project, the student will use pangenomics, phylogenetics, and evolutionary analyses to investigate how trasmissible strains of <i>Pseudomonas aeruginosa</i> adapt to the host and whether this adaptation is associated with evolutionary trade-offs. For more information and to apply, please visit <a href="https://www.findaphd.com/phds/project/bicentenary-understanding-the-evolution-of-transmissibility-in-bacterial-pathogens/?p178747">findaphd.com</a>. Application deadline: 10 January 2025.</p>
+    <p style="color:#008CEE">As a member of the MRC CoRE in Exposome Immunology, we are seeking an individual with interest and/or experience in human microbiome research and how the microbiome interacts and influences the host immune system under different environmental stressors. For more information and to apply, please visit <a href="www.findaphd.com/phds/program/mrc-core-in-exposome-immunology/?p6899">findaphd.com</a>. Application deadline: 2 December 2025.</p>
   </div>
 </div>
 <br>
