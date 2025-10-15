@@ -149,7 +149,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 </div>
 <br>
 <br>
-<br>-->
+<br>
 <!--<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
