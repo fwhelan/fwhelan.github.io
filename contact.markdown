@@ -144,21 +144,23 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
      <p style="color:#008CEE">autumn 2026 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE">As a member of the MRC CoRE in Exposome Immunology, we are seeking an individual with interest and/or experience in human microbiome research and how the microbiome interacts and influences the host immune system under different environmental stressors. For more information and to apply, please visit <a href="www.findaphd.com/phds/program/mrc-core-in-exposome-immunology/?p6899">findaphd.com</a>. Application deadline: 2 December 2025.</p>
+    <p style="color:#008CEE">As part of the CODE-M Doctoral Landscape Award, we are encouraging applications for a PhD studentship entitled <i>"The use of synthetic communities to understand how the cystic fibrosis microbiome responds to perturbation"</i>. This project - in collaboration with Dr Rebecca J Hall and Dr Will P Smith - will investigate how microbial interactions contribute to our ability to alter the microbiome with the longterm goal of preventing respiratory events such as those experienced by people with cystic fibrosis. For more information and to apply, please visit <a href="https://www.findaphd.com/phds/project/code-m-the-use-of-synthetic-communities-to-understand-how-the-cystic-fibrosis-microbiome-responds-to-perturbation/?p194347">the findaphd.com advert</a>. Application deadline: 7 March 2026.</p>
   </div>
 </div>
 <br>
 <br>
 <br>
-<!--<div class="col-container">
+<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
   </div>
   <div class="box2">
-     <p style="color:#008CEE">flexible start date</p>
+     <p style="color:#008CEE">autumn 2026 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE"> We are always interested in hearing from students who are interested in self-funding their PhD studies. The specific research topic and area of interest can be discussed together; however, at the moment we have a bioinformatic-based self-funded PhD studentship project advertised focussed on investigating antimicrobial resistance mechanisms and transmission ability via their genetic associations. In this project, supervised with <a href="https://dannagifford.com">Dr Danna Gifford</a>, the student will use pangenomic and phylogenetic analyses to investigate the genetic associations between known antimicrobial resistance genes and other genetic elements (genes, mutations etc.) within the bacterial genome. For more information and to apply, please visit <a href="https://www.findaphd.com/phds/project/understanding-antimicrobial-resistance-mechanisms-and-transmission-ability-via-their-genetic-associations/?p183237">the findaphd.com advert</a>. There is no fixed application deadline for this studentship. </p>
+    <p style="color:#008CEE"> As part of the University of Manchester's President's Doctoral Scholar Award scheme, we are encouraging applications for a PhD studentship entitled <i>"A mechanistic understanding of microbe-immune cross talk in the face of pollutant challenge."</i> This project is a lab-based project which will encorporate microbiology, immunology, and bioinformatic sequencing analysis to understand the impact of various pollutant exposures to the mouse microbiome. The successful PhD applicant will work closely with the Whelan lab, <a href="https://research.manchester.ac.uk/en/persons/joanne.konkel">Prof Jo Konkel</a>, and <a href="https://research.manchester.ac.uk/en/persons/aristeidis-voliotis/">Dr Aristeidis Voliotis</a>. For more information and to apply, please visit <a href="https://www.findaphd.com/phds/project/president-s-doctoral-scholar-award-a-mechanistic-understanding-of-microbe-immune-cross-talk-in-the-face-of-pollutant-challenge/?p194332">the findaphd.com advert</a>. Application deadline: 16 March 2026. </p>
+  </div>
+</div>
     <!--<p style="color:#008CEE">As part of the BBSRC North West Doctoral (NWD) Programme in Bioscience <a href="https://www.liverpool.ac.uk/people/jo-fothergill">Prof Jo Fothergill</a>, <a href="https://research.manchester.ac.uk/en/persons/michael.brockhurst">Prof Mike Brockhurst</a>, and I are encouraging applications for a PhD studentship entitled <i>"Understanding how commensal bacteria modulate the virulence of Pseudomonas aeruginosa"</i>. This project is a lab-based project - with some bioinformatic work - that aims to understand how microbes can interact with <i>Pseudomonas aeruginosa</i> to change its pathogenecity. One way that the student will use to explore these questions is via use of a <i>Drosophila melanogaster</i> chronic infection model.  Experience with traditional microbial techniques and/or working with <i>Drosophila melanogaster</i> is an assest. For more information and to apply, please visit <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/bbsrc-nwdp/projects/">the NWD webpage</a> and <a href="https://www.findaphd.com/phds/project/bbsrc-nwd-understanding-how-commensal-bacteria-modulate-the-virulence-of-pseudomonas-aeruginosa/?p180407">findaphd.com</a>. Application deadline: 31 January 2025. </p>-->
   <!--</div>-->
 <!--</div>-->
