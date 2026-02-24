@@ -82,7 +82,7 @@ Terenia is a Master's student in Bioinformatics at the University of Manchester.
 </div>
 
 <div id="content">
-<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student</b></h3>
+<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student</b></h3> <!--Yin Chong-->
 
 Lewis is a Master’s student in Bioinformatics at the University of Manchester. Under the supervision of Fiona Whelan, he is investigating strain-level variation in Pseudomonas aeruginosa’s Prairie Epidemic Strain (PES) by analysing metagenomic sequencing reads from cystic fibrosis patients during pulmonary exacerbations stages. His previous project, under Stephen Richardson, involved characterising the differentiation of resident cells in the intervertebral disc, using single cell transcriptomic analysis techniques, throughout development. Once finished with the course, he aims to further develop his computational skills as a way to explore biological questions and hopefully continue to work in this field. In his free time Lewis enjoys playing badminton, video games and recently started reading fantasy books such as Babel and The Will of the Many.
 </div>
