@@ -127,10 +127,10 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
     <p style="color:#0080BA"><b>PDRA</b></p>
   </div>
   <div class="box2">
-    <p style="color:#0080BA">late 2025/early 2026 start, 1-year position</p>
+    <p style="color:#0080BA">mid-2026 start, 1-year position</p>
   </div>
   <div class="box3">
-    <p style="color:#0080BA">This Postdoctoral Research Associate (PDRA) position is funded by a <a href="https://cysticfibrosis.ca/for-researchers">Cystic Fibrosis Canada Early Career Investigator award</a> to <a href="https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/microbiologie-et-biotechnologie/fabrice-jean-pierre">Dr Fabrice Jean-Pierre</a>. The PDRA will be a bioinformatician interested in comparative genomics of clinical <i>Pseudomonas aeruginosa</i> isolates.</p>
+    <p style="color:#0080BA">This Postdoctoral Research Associate (PDRA) position is funded by a <a href="https://cysticfibrosis.ca/for-researchers">Cystic Fibrosis Canada Early Career Investigator award</a> to <a href="https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/microbiologie-et-biotechnologie/fabrice-jean-pierre">Dr Fabrice Jean-Pierre</a>. The PDRA will be a bioinformatician interested in comparative genomics of clinical <i>Pseudomonas aeruginosa</i> isolates. To find out more and to apply, please visit <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=34374&advert=external">the UoM job advert</a>. Application deadline: 3 April 2026.</p>
   </div>
 </div>
 <br>
