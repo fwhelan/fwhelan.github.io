@@ -167,15 +167,15 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
 <br>
 <br>
 <br>
-<!--<div class="col-container">
+<div class="col-container">
   <div class="box1">
-    <p style="color:#008CEE"><b>PhD STUDENTSHIP </b></p>
+    <p style="color:#008CEE"><b>Research Assistant </b></p>
   </div>
   <div class="box2">
-     <p style="color:#008CEE">autumn 2025 start</p>
+     <p style="color:#008CEE">summer 2026 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE">Funded as part of the Cystic Fibrosis Trust Innovation Hub <a href="https://cf-pulse.com">(CF-PULSE)</a> recently awarded to Prof. Alex Horsley and team, <a href="https://research.manchester.ac.uk/en/persons/michael.brockhurst">Prof Mike Brockhurst</a>, and I are seeking applications for a PhD studentship entitled <i>"Ecological and evolutionary strain-level dynamics of key pathogens in the cystic fibrosis lung microbiome."</i>. This is a lab-based project - with some bioinformatic work - that aims to understand the ecological and evolutionary changes in the lung microbiome that occur during pulmonary exacerbation. In this project, the student will culture sputum samples in collaboration with our clinical colleagues, and isolate a large number of strains in order to produce a CF strain biobank. Then, the student will use our robots/other equipment to conduct high-throughput phenomic assays (e.g., for antimicrobial resistance, secondary metabolite production, swimming, swarming etc.) to quantify evolutionary changes over the course of exacerbation. Finally, we will use genomics to identify the accessory gene content of each organism's pangenome. For more information and information on how to apply, please visit <a href="https://www.findaphd.com/phds/project/ecological-and-evolutionary-strain-level-dynamics-of-key-pathogens-in-the-cystic-fibrosis-lung-microbiome/?p181485">findaphd.com</a>. Please note that this opportunity if only open to UK/home-funded students. Application deadline: 28 February 2025. </p>
+    <p style="color:#008CEE"> The Whelan lab will soon be hiring an RA whose role will include the technical support of a range of project specific research activities including DNA extraction, PCR, and bacterial colony isolation and sequencing. A link to the job description and application information will be provided here once the job advert opens.</p>
   </div>
 </div>
 <br>
