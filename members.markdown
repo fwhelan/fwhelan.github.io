@@ -13,6 +13,12 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 
 <div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
+<h3><b>Matthew Shepherd, Bicentenary Fellow</b></h3>
+
+</div>
+
+<div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
 
 Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she was at Swansea University, where she studied the effects of Manuka honey on cystic fibrosis (CF) pathogens using <i>in vivo</i> models. Prior to that, Michelle completed her PhD on CF microbiomes at Manchester Metropolitan University, where she also worked part-time as a microbiology teaching technician. In her free time, she enjoys cooking, walking, and spending time with friends and family.
@@ -65,6 +71,12 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 </div>
 
 <div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
+<h3><b>Ruth Legesse, Lister summer student</b> </h3>
+
+</div>
+
+<div id="content">
 <img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
 <h3><b>You?</b></h3>
 
@@ -82,25 +94,25 @@ Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada)
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/-->
-<h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student (2025)</b> </h3>
+<h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student </b>(2025)</h3>
 
 Terenia is a Master's student in Bioinformatics at the University of Manchester. She is currently completing her second research project in the Whelan Lab, investigating an understudied gene in the Prairie Epidemic Strain (PES) of <i>Pseudomonas aeruginosa</i>, under the supervision of Dr Fiona Whelan. Her previous project explored NHS appointment delays in England, where she ventured into health informatics and applied skills from her BSc in Computer Science (Data Science) to real-world healthcare data. Through her time in the Whelan Lab and her MSc course, Terenia has developed a growing interest for life sciences and how her analytical background can contribute to this field. She hopes to continue working in this area in the future. Outside the lab, she enjoys playing video games and streaming, watching musicals both online and live, rewatching FRIENDS, diving into true crime content, and bingeing movies/series of all kinds.
 </div>
 
 <div id="content">
-<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student (2025)</b></h3> <!--Yin Chong-->
+<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student </b>(2025)</h3> <!--Yin Chong-->
 
 Lewis is a Master’s student in Bioinformatics at the University of Manchester. Under the supervision of Fiona Whelan, he is investigating strain-level variation in Pseudomonas aeruginosa’s Prairie Epidemic Strain (PES) by analysing metagenomic sequencing reads from cystic fibrosis patients during pulmonary exacerbations stages. His previous project, under Stephen Richardson, involved characterising the differentiation of resident cells in the intervertebral disc, using single cell transcriptomic analysis techniques, throughout development. Once finished with the course, he aims to further develop his computational skills as a way to explore biological questions and hopefully continue to work in this field. In his free time Lewis enjoys playing badminton, video games and recently started reading fantasy books such as Babel and The Will of the Many.
 </div>
 
 <div id="content">
-<h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student (2025)</b></h3>
+<h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student </b>(2025)</h3>
 
 Yuan is a Master student at the University of Manchester, having joined the Whelan lab in 2025. His research project focuses on the lung microbiome of people with cystic fibrosis by using the methods of culture-enriched metagenomics. He is interested in how microbial community structure and functional potential shift during pulmonary exacerbations. Before joining the lab, Yuan completed his first project, during which he worked on mutational signatures and driver genes in Malaysian breast cancer, and also gained experience in marine biology during his undergraduate studies. Outside the lab, Yuan enjoys playing tennis, cooking and video games.
 </div>
 
 <div id="content">
-<h3><b>Kaiwen Xiao, MSc Infection Biology student (2025)</b></h3>
+<h3><b>Kaiwen Xiao, MSc Infection Biology student </b>(2025)</h3>
 
 </div>
 
