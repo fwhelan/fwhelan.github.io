@@ -53,13 +53,6 @@ Rebecca is a PhD student (2025-2029) funded by PULSE-CF. Within this, she is exp
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="340"/>
-<h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (he/him)</h3>
-
-Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada), conducting research in the labs of Prof. Pierre-Étienne Jacques and Prof. Sébastien Rodrigue. His work focuses on bacterial genetic interactions, leveraging bioinformatics and data science to deepen our understanding of microbial systems. Simon develops pipelines for the processing and analysis of High-Throughput Transposon Mutagenesis (HTTM) data in <i>Escherichia coli</i> and <i>Mesoplasma florum</i>, and contributes to broader genomic analyses including RNA-seq. His short visit to the University of Manchester, in collaboration with Dr. Fiona Whelan's lab, focuses on integrating gene co-occurrence and pangenomic frameworks to investigate conserved functional relationships across bacterial genomes. When not coding, he unwinds with cycling, home cooking, and the occasional dive into sci-fi and prog rock.
-</div>
-
-<div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Hannah Jones, Research Assistant</b> (she/her)</h3>
 Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
@@ -73,6 +66,13 @@ Would you like to join the Whelan lab? Head over to <a href="https://www.whelanl
 </div>
 
 <div class="separator">Alumni</div>
+
+<div id="content">
+<!--<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="340"/>-->
+<h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (he/him)</h3>
+
+Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada), conducting research in the labs of Prof. Pierre-Étienne Jacques and Prof. Sébastien Rodrigue. His work focuses on bacterial genetic interactions, leveraging bioinformatics and data science to deepen our understanding of microbial systems. Simon develops pipelines for the processing and analysis of High-Throughput Transposon Mutagenesis (HTTM) data in <i>Escherichia coli</i> and <i>Mesoplasma florum</i>, and contributes to broader genomic analyses including RNA-seq. His short visit to the University of Manchester, in collaboration with Dr. Fiona Whelan's lab, focuses on integrating gene co-occurrence and pangenomic frameworks to investigate conserved functional relationships across bacterial genomes. When not coding, he unwinds with cycling, home cooking, and the occasional dive into sci-fi and prog rock.
+</div>
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/-->
