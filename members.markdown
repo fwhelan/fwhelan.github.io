@@ -59,6 +59,12 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 </div>
 
 <div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
+<h3><b>Juri Alqahtani, MSc Bioinformatics and Systems Biology student</b> </h3>
+
+</div>
+
+<div id="content">
 <img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
 <h3><b>You?</b></h3>
 
@@ -69,38 +75,38 @@ Would you like to join the Whelan lab? Head over to <a href="https://www.whelanl
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/SimonJ-Picture.png" alt="drawing" width="340"/>-->
-<h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (he/him)</h3>
+<h3><b>Simon Jeanneau, Mitacs-funded visiting PhD student</b> (2025)</h3>
 
 Simon Jeanneau is a visiting PhD student from Université de Sherbrooke (Canada), conducting research in the labs of Prof. Pierre-Étienne Jacques and Prof. Sébastien Rodrigue. His work focuses on bacterial genetic interactions, leveraging bioinformatics and data science to deepen our understanding of microbial systems. Simon develops pipelines for the processing and analysis of High-Throughput Transposon Mutagenesis (HTTM) data in <i>Escherichia coli</i> and <i>Mesoplasma florum</i>, and contributes to broader genomic analyses including RNA-seq. His short visit to the University of Manchester, in collaboration with Dr. Fiona Whelan's lab, focuses on integrating gene co-occurrence and pangenomic frameworks to investigate conserved functional relationships across bacterial genomes. When not coding, he unwinds with cycling, home cooking, and the occasional dive into sci-fi and prog rock.
 </div>
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/Terenia-Picture.jpg" alt="drawing" width="220"/-->
-<h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student</b> </h3>
+<h3><b>Terenia Leh Yi Lee, MSc Bioinformatics and Systems Biology student (2025)</b> </h3>
 
 Terenia is a Master's student in Bioinformatics at the University of Manchester. She is currently completing her second research project in the Whelan Lab, investigating an understudied gene in the Prairie Epidemic Strain (PES) of <i>Pseudomonas aeruginosa</i>, under the supervision of Dr Fiona Whelan. Her previous project explored NHS appointment delays in England, where she ventured into health informatics and applied skills from her BSc in Computer Science (Data Science) to real-world healthcare data. Through her time in the Whelan Lab and her MSc course, Terenia has developed a growing interest for life sciences and how her analytical background can contribute to this field. She hopes to continue working in this area in the future. Outside the lab, she enjoys playing video games and streaming, watching musicals both online and live, rewatching FRIENDS, diving into true crime content, and bingeing movies/series of all kinds.
 </div>
 
 <div id="content">
-<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student</b></h3> <!--Yin Chong-->
+<h3><b>Lewis Chong, MSc Bioinformatics and Systems Biology student (2025)</b></h3> <!--Yin Chong-->
 
 Lewis is a Master’s student in Bioinformatics at the University of Manchester. Under the supervision of Fiona Whelan, he is investigating strain-level variation in Pseudomonas aeruginosa’s Prairie Epidemic Strain (PES) by analysing metagenomic sequencing reads from cystic fibrosis patients during pulmonary exacerbations stages. His previous project, under Stephen Richardson, involved characterising the differentiation of resident cells in the intervertebral disc, using single cell transcriptomic analysis techniques, throughout development. Once finished with the course, he aims to further develop his computational skills as a way to explore biological questions and hopefully continue to work in this field. In his free time Lewis enjoys playing badminton, video games and recently started reading fantasy books such as Babel and The Will of the Many.
 </div>
 
 <div id="content">
-<h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student</b></h3>
+<h3><b>Yuan Xiong, MSc Bioinformatics and Systems Biology student (2025)</b></h3>
 
 Yuan is a Master student at the University of Manchester, having joined the Whelan lab in 2025. His research project focuses on the lung microbiome of people with cystic fibrosis by using the methods of culture-enriched metagenomics. He is interested in how microbial community structure and functional potential shift during pulmonary exacerbations. Before joining the lab, Yuan completed his first project, during which he worked on mutational signatures and driver genes in Malaysian breast cancer, and also gained experience in marine biology during his undergraduate studies. Outside the lab, Yuan enjoys playing tennis, cooking and video games.
 </div>
 
 <div id="content">
-<h3><b>Kaiwen Xiao, MSc Infection Biology student</b></h3>
+<h3><b>Kaiwen Xiao, MSc Infection Biology student (2025)</b></h3>
 
 </div>
 
 <div id="content">
 <!--<img align="right" src="/assets/images/members/OliverH-Picture.jpg" alt="drawing" width="340"/>-->
-<h3><b>Oliver Hoare, Lister Summer student</b> (he/him)</h3>
+<h3><b>Oliver Hoare, Lister Summer student</b> (2025)</h3>
 
 Oliver is a summer intern at the University of Manchester. As an undergraduate he studies Biomedical Science with a year in industry, at the University of Sheffield. In the Whelan lab, Oliver is conducting research as part of the Lister Institute Summer Studentship grant, helping research with co-culture interactions between <i>Pseudomonas aeruginosa</i> and <i>Staphylococcus sp.</i> in biofilms. In his free time, he enjoys skiing, all things outdoors and spending time with family and friends.
 </div>
