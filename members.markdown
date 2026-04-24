@@ -12,9 +12,10 @@ Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the U
 </div>
 
 <div id="content">
-<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Matthew Shepherd, Bicentenary Fellow</b></h3>
+<img align = "right" src="/assets/images/members/MattShep-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Matthew Shepherd, Bicentenary Fellow</b> (he/him)</h3>
 
+Matthew is a Bicentenary early career research fellow in association with the Whelan Lab – who’s research seeks to understand the evolution of opportunistic bacterial infections in transitioning from non-pathogenic environmental niches to pathogenic ones, with a focus on regulatory system evolution and antimicrobial resistance. Previously, he was college for life sciences fellow at the Wissenschaftskolleg zu Berlin, Germany, and a postdoc with Prof. Michael Brockhurst at the University of Manchester focussed on within-patient evolution of antimicrobial resistance. He completed his PhD on the evolution of bacterial transcription factors in the lab of Prof. Tiffany Taylor, at the University of Bath in 2022. He has also spent time working in the lab of Dr. Mark Sutton at UKHSA Porton Down, on biocide resistance, prior to his PhD. Outside of work, Matthew enjoys the outdoors – hiking, running and birdwatching – especially in the beautiful Peak Distict. He is keen on board and miniatures games, and is also fond of classic science fiction and fantasy, particularly the works of J.R.R. Tolkein, Frank Herbert, and Ursula K. Le Guin.
 </div>
 
 <div id="content">
