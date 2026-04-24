@@ -6,21 +6,21 @@ permalink: /members/
 
 <div id="content">
 <img align = "right" src="/assets/images/members/Fiona-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Fiona Whelan, 🇨🇦 Senior Lecturer, 2023 Lister Prize, 2024 UKRI Future Leaders Fellow</b> (she/her)</h3>
+<h3><b>Fiona Whelan 🇨🇦, Senior Lecturer, 2023 Lister Prize, 2024 UKRI Future Leaders Fellow</b> (she/her)</h3>
 
 Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the University of Manchester. Previously, Fiona was an <a href="https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham-research.aspx">Anne McLaren Fellow</a> at the University of Nottingham and a <a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">MSCA Postdoctoral Fellow (2018-20)</a> in <a href="http://mcinerneylab.com/">James McInerney's</a> research group investigating gene co-occurrence patterns in microbial pangenomes. Fiona conducted her Ph.D. research on the human microbiome and cystic fibrosis in the laboratory of <a href="http://surettelab.ca/">Dr. Michael G. Surette</a> at <a href="http://mcmaster.ca/">McMaster University</a> as a <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp">CIHR Doctoral</a> and <a href="https://www.cysticfibrosis.ca/our-programs/research/funding-opportunities">Cystic Fibrosis Canada</a> scholar. Fiona also worked as a MSc with <a href="http://bowdish.ca/">Dr. Dawn Bowdish</a>, also at McMaster University, investigating the evolutionary history of a family of immune cell receptors with support from a <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a>. When not in the lab, Fiona enjoys being outdoors - hiking, camping, swimming, running etc.!
 </div>
 
 <div id="content">
 <img align = "right" src="/assets/images/members/MattShep-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Matthew Shepherd, Bicentenary Fellow</b> (he/him)</h3>
+<h3><b>Matthew Shepherd 🇬🇧, Bicentenary Fellow</b> (he/him)</h3>
 
 Matthew is a Bicentenary early career research fellow in association with the Whelan Lab – who’s research seeks to understand the evolution of opportunistic bacterial infections in transitioning from non-pathogenic environmental niches to pathogenic ones, with a focus on regulatory system evolution and antimicrobial resistance. Previously, he was college for life sciences fellow at the Wissenschaftskolleg zu Berlin, Germany, and a postdoc with Prof. Michael Brockhurst at the University of Manchester focussed on within-patient evolution of antimicrobial resistance. He completed his PhD on the evolution of bacterial transcription factors in the lab of Prof. Tiffany Taylor, at the University of Bath in 2022. He has also spent time working in the lab of Dr. Mark Sutton at UKHSA Porton Down, on biocide resistance, prior to his PhD. Outside of work, Matthew enjoys the outdoors – hiking, running and birdwatching – especially in the beautiful Peak Distict. He is keen on board and miniatures games, and is also fond of classic science fiction and fantasy, particularly the works of J.R.R. Tolkein, Frank Herbert, and Ursula K. Le Guin.
 </div>
 
 <div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Michelle Hardman, Postdoctoral Research Associate</b></h3>
+<h3><b>Michelle Hardman 🇬🇧, Postdoctoral Research Associate</b></h3>
 
 Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she was at Swansea University, where she studied the effects of Manuka honey on cystic fibrosis (CF) pathogens using <i>in vivo</i> models. Prior to that, Michelle completed her PhD on CF microbiomes at Manchester Metropolitan University, where she also worked part-time as a microbiology teaching technician. In her free time, she enjoys cooking, walking, and spending time with friends and family.
 </div>
@@ -28,7 +28,7 @@ Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she
 
 <div id="content">
 <img align="right" src="/assets/images/members/MelLawson-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Melissa Lawson, Postdoctoral Research Associate</b> (she/her)</h3>
+<h3><b>Melissa Lawson 🇨🇦, Postdoctoral Research Associate</b> (she/her)</h3>
 
 Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was the Director of Translational Biology (in vivo) at Microbiotica Ltd in Cambridge. Prior to this she was a Postdoctoral Research Associate with Profs Richard Grencis and Ian Roberts examining interactions between the host immune system, gut microbiome and intestinal parasites. From 2014-2018 Mel researched the impact of infant milk diets on shaping the early life gut microbiome as a Postdoctoral associate and MSCA postdoctoral fellow (2015-2017) in Prof Lindsay Hall’s lab at the Quadram Institute Bioscience in Norwich. Mel completed her PhD in Immunology in the laboratories of Profs Kathy McCoy and Andrew Macpherson examining the role of IgA on intestinal bacteria, and she has degrees in Pathobiology (MSc) and microbiology (BSc) from the University of Guelph, Canada. In her free time, Mel likes spending time outdoors with her family, yoga and cooking. 
 </div>
@@ -36,7 +36,7 @@ Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was 
 
 <div id="content">
 <img align="right" src="/assets/images/members/FrancisG-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Francis Gyapong, NERC Envision DTP student</b> (he/him)</h3>
+<h3><b>Francis Gyapong 🇬🇭, NERC Envision DTP student</b> (he/him)</h3>
 
 Francis is a PhD student at the University of Nottingham having started in October 2023. He is an ENVISION DTP scholar who will work in the Whelan lab on <i>The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome.</i>. The project is co-supervised by Dr. Whelan, Prof. Andrew MacColl, and Dr. Hanna Hartikainen, and will include wet lab techniques and bioinformatic approaches. Before beginning his PhD, Francis earned a Master of Philosophy in Molecular Cell Biology of Infectious Pathogens in which he studied the microbes resident on face masks during the COVID-19 era and used the model organism <i>Galleria mellonella</i> to investigation the pathogenecity of isolated microbes. Francis likes music and video games outside of the lab!
 </div>
@@ -49,25 +49,25 @@ Fiona is a PhD student funded by the University of Manchester Bicentenary studen
 
 <div id="content">
 <img align="right" src="/assets/images/members/AmberC-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Amber Cutcliffe, BBSRC NWD DTP student</b> (she/her)</h3>
+<h3><b>Amber Cutcliffe 🇬🇧, BBSRC NWD DTP student</b> (she/her)</h3>
 Amber is a BBSRC-funded PhD student (2025-2029) co-supervised by Dr. Fiona Whelan, Professor Jo Fothergill, and Professor Mike Brockhurst. Her project investigates how commensal microbes from the sputum of people with cystic fibrosis influence the virulence of <i>Pseudomonas aeruginosa</i>, using a <i>Drosophila</i> infection model. Before her PhD, she worked as a research technician at the Liverpool School of Tropical Medicine, where she reared mosquitoes and tested insecticides in the Liverpool Insect Testing Establishment, and later supported the construction of a microbial library for the discovery of novel antimicrobials in the Roberts Group. She holds a BSc in Biological Sciences from the University of Liverpool. Beyond her research, Amber enjoys reading, music, and video games.
 </div>
 
 <div id="content">
 <img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="300"/>
-<h3><b>Rebecca Wallis-Downham, PULSE-CF PhD student</b> (she/her)</h3>
+<h3><b>Rebecca Wallis-Downham 🇬🇧, PULSE-CF PhD student</b> (she/her)</h3>
 Rebecca is a PhD student (2025-2029) funded by PULSE-CF. Within this, she is exploring strain-level dynamics of key pathogens in the cystic fibrosis lung microbiome that occur during pulmonary exacerbation. Previously, she studied Biotechnology and Computer Science at the University of Nottingham, where she completed the Excel in Science internship in the Whelan Lab. During this time, she researched novel media for culturing the CF lung microbiome and presented findings as a poster at the Microbiology Society’s Annual conference. Rebecca then earned her Master’s in Experimental Sciences at Universitat Pompeu Fabra, during which she interned at the Centre for Genomic Regulation and researched the Pyrenean lake microbiome. Outside the lab, she enjoys baking sweet treats, socialising with friends, and getting a good workout in.
 </div>
 
 <div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Hannah Jones, Research Assistant</b> (she/her)</h3>
+<h3><b>Hannah Jones 🇬🇧, Research Assistant</b> (she/her)</h3>
 Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
 </div>
 
 <div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Juri Alqahtani, MSc Bioinformatics and Systems Biology student</b> </h3>
+<h3><b>Juri Alqahtani 🇸🇦, MSc Bioinformatics and Systems Biology student</b> </h3>
 
 </div>
 
