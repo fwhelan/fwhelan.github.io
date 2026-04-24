@@ -6,7 +6,7 @@ permalink: /members/
 
 <div id="content">
 <img align = "right" src="/assets/images/members/Fiona-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Fiona Whelan 🇨🇦, Senior Lecturer, 2023 Lister Prize, 2024 UKRI Future Leaders Fellow</b> (she/her)</h3>
+<h3><b>Fiona Whelan 🇨🇦🇮🇪🇬🇧, Senior Lecturer, 2023 Lister Prize, 2024 UKRI Future Leaders Fellow</b> (she/her)</h3>
 
 Fiona is a bioinformatician, microbiologist, and evolutionary biologist at the University of Manchester. Previously, Fiona was an <a href="https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham-research.aspx">Anne McLaren Fellow</a> at the University of Nottingham and a <a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">MSCA Postdoctoral Fellow (2018-20)</a> in <a href="http://mcinerneylab.com/">James McInerney's</a> research group investigating gene co-occurrence patterns in microbial pangenomes. Fiona conducted her Ph.D. research on the human microbiome and cystic fibrosis in the laboratory of <a href="http://surettelab.ca/">Dr. Michael G. Surette</a> at <a href="http://mcmaster.ca/">McMaster University</a> as a <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp">CIHR Doctoral</a> and <a href="https://www.cysticfibrosis.ca/our-programs/research/funding-opportunities">Cystic Fibrosis Canada</a> scholar. Fiona also worked as a MSc with <a href="http://bowdish.ca/">Dr. Dawn Bowdish</a>, also at McMaster University, investigating the evolutionary history of a family of immune cell receptors with support from a <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a>. When not in the lab, Fiona enjoys being outdoors - hiking, camping, swimming, running etc.!
 </div>
@@ -55,7 +55,7 @@ Amber is a BBSRC-funded PhD student (2025-2029) co-supervised by Dr. Fiona Whela
 
 <div id="content">
 <img align="right" src="/assets/images/members/BeckyWD-Picture.jpg" alt="drawing" width="300"/>
-<h3><b>Rebecca Wallis-Downham 🇬🇧, PULSE-CF PhD student</b> (she/her)</h3>
+<h3><b>Rebecca Wallis-Downham 🇬🇧🇦🇩, PULSE-CF PhD student</b> (she/her)</h3>
 Rebecca is a PhD student (2025-2029) funded by PULSE-CF. Within this, she is exploring strain-level dynamics of key pathogens in the cystic fibrosis lung microbiome that occur during pulmonary exacerbation. Previously, she studied Biotechnology and Computer Science at the University of Nottingham, where she completed the Excel in Science internship in the Whelan Lab. During this time, she researched novel media for culturing the CF lung microbiome and presented findings as a poster at the Microbiology Society’s Annual conference. Rebecca then earned her Master’s in Experimental Sciences at Universitat Pompeu Fabra, during which she interned at the Centre for Genomic Regulation and researched the Pyrenean lake microbiome. Outside the lab, she enjoys baking sweet treats, socialising with friends, and getting a good workout in.
 </div>
 
