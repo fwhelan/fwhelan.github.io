@@ -68,7 +68,9 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 <div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Juri Alqahtani 🇸🇦, MSc Bioinformatics and Systems Biology student</b> </h3>
-
+Juri Alqahtani is an MSc student in Bioinformatics and Systems Biology at the University of Manchester, with a First-Class Honours degree in Biochemistry from King Abdulaziz University. Her undergraduate research project investigated the role of nicotinic acid in enhancing memory and cognitive function.
+Her current work involves analysing large-scale genomic datasets, with a focus on patterns of gene and StORF presence and association. She uses Python and R within Linux-based HPC environments, to process and interpret complex biological data.
+At the research centre of King Faisal Specialist Hospital & Research Centre, she worked on triple-negative breast cancer models, studying gene expression changes following siRNA knockdown and contributing to clinical research data collection and analysis.
 </div>
 
 <div id="content">
