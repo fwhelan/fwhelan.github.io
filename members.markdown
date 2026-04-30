@@ -74,8 +74,8 @@ At the research centre of King Faisal Specialist Hospital & Research Centre, she
 </div>
 
 <div id="content">
-<img align = "right" src="/assets/images/Ruth-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Ruth Legesse, Lister summer student</b> she/her</h3>
+<img align = "right" src="/assets/images/members/Ruth-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Ruth Legesse 🇪🇹🇮🇹🇬🇧, Lister summer student</b> she/her</h3>
 Ruth is an incoming final-year Biochemistry student at the University of Manchester. Previously, she has completed short research projects at the Geoffrey Jefferson Institute of Brain Research focussed on neuroinflammation in stroke and dementia. Her most recent experience entailed developing a human primary cell culture model for Th17 polarization suitable for compound screening at a contract research organisation. Despite her more immunology-centred background, Ruth has developed a strong interest in bioinformatics and hopes to learn more about computational models of development through her postgraduate studies. When she is not in the lab, Ruth is also the co-chair of the North West Biotech Initiative and enjoys playing tennis and guitar as well as writing.
 </div>
 
