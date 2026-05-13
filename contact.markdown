@@ -175,7 +175,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
      <p style="color:#008CEE">summer 2026 start</p>
   </div>
   <div class="box3">
-    <p style="color:#008CEE"> The Whelan lab will soon be hiring an RA whose role will include the technical support of a range of project specific research activities including DNA extraction, PCR, and bacterial colony isolation and sequencing. Applications for this job are now open; please apply via the University's jobs page <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=35017">here</a>. Note: as of 12 May, there were issues with the person specifications being incomplete and some of the pre-screening questions not working properly. Please check back here for updates as to when these issues are fixed!</p>
+    <p style="color:#008CEE"> The Whelan lab will soon be hiring an RA whose role will include the technical support of a range of project specific research activities including DNA extraction, PCR, and bacterial colony isolation and sequencing. Applications for this job are now open; please apply via the University's jobs page <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=35017">here</a>. Applications due 28 May 2026.</p>
   </div>
 </div>
 <br>
