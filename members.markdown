@@ -66,6 +66,12 @@ Hannah is a research assistant at the University of Manchester. Previously, Hann
 </div>
 
 <div id="content">
+<img align = "right" src="/assets/images/Lucy-Picture.png" alt="drawing" width="220"/>
+<h3><b>Lucy Malvern 🇬🇧, Research Technician</b> (she/her)</h3>
+Lucy is a Research Technician in the whelan lab, where she works to support culturing and DNA sequencing work in cystic fibrosis. Previous to this role, she earned a BSc in Biomedical Science at Keele University and shortly after, received an AMI-funded summer research grant, studying the microbiome assembly in the Aedes agypti mosquitoes’ gut microbiome. Lucy also worked for a year in the NHS as a medical laboratory assistant in a microbiology lab, building her key laboratory skills. Outside of work, she enjoys hiking, running and going to the gym, as well as reading and travelling.
+</div>
+
+<div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Juri Alqahtani 🇸🇦, MSc Bioinformatics and Systems Biology student</b> </h3>
 Juri Alqahtani is an MSc student in Bioinformatics and Systems Biology at the University of Manchester, with a First-Class Honours degree in Biochemistry from King Abdulaziz University. Her undergraduate research project investigated the role of nicotinic acid in enhancing memory and cognitive function.
