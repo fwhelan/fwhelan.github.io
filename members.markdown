@@ -34,7 +34,7 @@ Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was 
 </div>
 
 <div id="content">
-<img align="right" src="/assets/images/membersMattJago-Picture.jpg" alt="drawing" width="220"/>
+<img align="right" src="/assets/images/members/MattJago-Picture.jpg" alt="drawing" width="220"/>
 <h3><b>Matthew Jago 🇬🇧🇺🇸, Postdoctoral Research Associate</b> (he/him)</h3>
 
 Matt’s research aims to characterise the role of mutations during evolution, from the initial mechanisms of mutagenesis to their ultimate phenotypic consequences. His current project focuses on understanding how Pseudomonas evolves in response to frontline treatments for cystic fibrosis. He recently completed his PhD at the University of Manchester, where he studied antibiotic resistance evolution, mutational bias, and DNA repair. Outside of the lab, Matt enjoys tabletop games, football, and getting out into nature.
