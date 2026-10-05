@@ -33,6 +33,13 @@ Michelle is a Postdoctoral Research Associate in the Whelan Lab. Previously, she
 Mel is a Postdoctoral Research Associate in the Whelan lab. Previously, she was the Director of Translational Biology (in vivo) at Microbiotica Ltd in Cambridge. Prior to this she was a Postdoctoral Research Associate with Profs Richard Grencis and Ian Roberts examining interactions between the host immune system, gut microbiome and intestinal parasites. From 2014-2018 Mel researched the impact of infant milk diets on shaping the early life gut microbiome as a Postdoctoral associate and MSCA postdoctoral fellow (2015-2017) in Prof Lindsay Hall’s lab at the Quadram Institute Bioscience in Norwich. Mel completed her PhD in Immunology in the laboratories of Profs Kathy McCoy and Andrew Macpherson examining the role of IgA on intestinal bacteria, and she has degrees in Pathobiology (MSc) and microbiology (BSc) from the University of Guelph, Canada. In her free time, Mel likes spending time outdoors with her family, yoga and cooking. 
 </div>
 
+<div id="content">
+<img align="right" src="/assets/images/membersMattJago-Picture.jpg" alt="drawing" width="220"/>
+<h3><b>Matthew Jago 🇬🇧🇺🇸, Postdoctoral Research Associate</b> (he/him)</h3>
+
+Matt’s research aims to characterise the role of mutations during evolution, from the initial mechanisms of mutagenesis to their ultimate phenotypic consequences. His current project focuses on understanding how Pseudomonas evolves in response to frontline treatments for cystic fibrosis. He recently completed his PhD at the University of Manchester, where he studied antibiotic resistance evolution, mutational bias, and DNA repair. Outside of the lab, Matt enjoys tabletop games, football, and getting out into nature.
+</div>
+
 
 <div id="content">
 <img align="right" src="/assets/images/members/FrancisG-Picture.jpg" alt="drawing" width="220"/>
