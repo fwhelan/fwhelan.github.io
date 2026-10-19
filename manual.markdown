@@ -4,7 +4,7 @@ title: Lab Manual
 permalink: /manual/
 ---
 
-<H4 align="right"> Last updated: 10 Oct 2022</H4>
+<H4 align="right"> Last updated: 19 Oct 2026</H4>
 
 <h4><b>Mission Statement</b></h4>
 
@@ -47,9 +47,11 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 
 <h4><b>Communication</b></h4>
 
+<p>The Whelan lab communicates in English. All official meetings, communications, during work activitiees is conducted in English. Outside of professional activities, the lab strives for inclusive language that allows everyone present to understand and participate.</p>
+
 <p>For all internal communications, we use slack. We use general channels in order to keep everyone in the lab informed, private channels for specific projects/publications, and private DMs for one-on-one communications. Communications involving collaborators might move to email chains. One-on-one meetings will ideally take place in person, but also by video/voice call at a pre-arranged time/software platform. Phone calls outside of pre-arranged times will be considered emergencies.</p>
 
-<p>A few days per week of virtual working (i.e., working from home) is okay as it doesn't effect any scheduled meetings, experiments etc. You should make other members of the group are made aware via slack status updates.</p>
+<p>1-2 days per week of virtual working (i.e., working from home) is okay as long as it doesn't effect any scheduled meetings, experiments etc. You should make other members of the group are made aware via slack status/shared calendar updates.</p>
 
 <p>Lab meetings will begin with any pressing lab issues/business then focus on a particular project based on the schedule on the shared lab calendar. There are no stupid questions; always ask. Attendance is considered mandatory unless you are unwell, have a scheduling conflict, or the meeting falls on a religious/cultural holiday that you recognize.</p>
 
@@ -66,6 +68,18 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 <p>All publications are to be posted to bioRxiv before or upon submission, with the permission of all authors. Publications will include (or link to) all raw data, and all code/protocols necessary to reproduce the results.</p>
 
 <p>Within the lab, code, protocols, and resources will be shared via the lab's private github repository.</p>
+
+<h4><b>Sustainable Science</b></h4>
+
+<img align = "right" src="/assets/images/gold-leaf.jpeg" alt="drawing" width="220"/>
+
+<p>The Whelan lab is part of the Microbial Evolution Research at Manchester (MERMan) lab group which has collectively been awarded the Laboratory Efficiency Assessment Framework (LEAF) Gold award (July 2026)! As part of this award, the Whelan lab has committed to reducing the use of single-use plastics (e.g. we plate with reusable glass beads instead of plastic hockey sticks/L-spreaders), saving energy by shutting down equipment not in use, setting our ULT freezers to -70C, and sharing equipment across the MERMan group to decrease our equipment/consumables footprint.If you'd like to learn more about LEAF Gold, please visit <a href="https://www.ucl.ac.uk/about/sustainability/culture-and-engagement/leaf-laboratory-efficiency-assessment-framework">here</a>.
+
+<!--<h4><b>SAFE Labs</b></h4>
+
+<img align = "right" src="/assets/images/safe-labs-logo.png" alt="drawing" width="220"/>
+
+<p>The Whelan lab has been recognized as and is committed to the tenants of SAFE Labs. SAFE Labs stands for Staring Aware Fair and Equitable Labs and is a grassroots initiative founded in 2024 by group leaders who want to run labs that are fair, equitable, and enjoyable to be part of. You can learn more about SAFE Labs (and sign your own lab up!) <a href="https://safelabs.info/">here</a>.</p>-->
 
 
 <h4><b>Other Resources</b></h4>
