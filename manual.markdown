@@ -84,11 +84,9 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 
 <h4><b>Other Resources</b></h4>
 <ul>
-  <li>UoN's <a href="https://www.nottingham.ac.uk/qualitymanual/quality-manual.aspx">Quality Manual</a> outlines the teaching and research regulations at the University.</li>
   <li>Free, <a href="https://researchseminars.org/">online</a> research seminars.</li>
   <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to write an abstract</a> (from Nature).</li>
   <li>Simple rules for concise <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165">science writing</a>; <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers</a>.</li>
-  <li>The University Park campus is gorgeous. It includes ample places to walk, meet, and sit and reflect. The University provides a short list of some of the highlights <a href="https://www.nottingham.ac.uk/sustainability/grounds/friendsofuniversitypark.aspx">here</a>.</li>
   <li>The <a href="http://life.mcmaster.ca/evoldir.html">EvolDir</a> posts jobs/positions, events, and publications in the field of evolutionary biology.</li>
   <li>Nominate yourself or your colleagues to promote diversity in microbiology! <a href="https://diversifymicrobiology.github.io/">DiversifyMicrobiology</a>.</li>
   <li><a href="https://blackinmicrobiology.org/">#BlackinMicro</a>, a.k.a. the Black Microbiologists Association.</li>
