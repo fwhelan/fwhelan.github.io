@@ -75,11 +75,11 @@ The Whelan lab is an inclusive environment that values equality and diversity. N
 
 <p>The Whelan lab is part of the Microbial Evolution Research at Manchester (MERMan) lab group which has collectively been awarded the Laboratory Efficiency Assessment Framework (LEAF) Gold award (July 2026)! As part of this award, the Whelan lab has committed to reducing the use of single-use plastics (e.g. we plate with reusable glass beads instead of plastic hockey sticks/L-spreaders), saving energy by shutting down equipment not in use, setting our ULT freezers to -70C, and sharing equipment across the MERMan group to decrease our equipment/consumables footprint.If you'd like to learn more about LEAF Gold, please visit <a href="https://www.ucl.ac.uk/about/sustainability/culture-and-engagement/leaf-laboratory-efficiency-assessment-framework">here</a>.
 
-<!--<h4><b>SAFE Labs</b></h4>
+<h4><b>SAFE Labs</b></h4>
 
 <img align = "right" src="/assets/images/safe-labs-logo.png" alt="drawing" width="220"/>
 
-<p>The Whelan lab has been recognized as and is committed to the tenants of SAFE Labs. SAFE Labs stands for Staring Aware Fair and Equitable Labs and is a grassroots initiative founded in 2024 by group leaders who want to run labs that are fair, equitable, and enjoyable to be part of. You can learn more about SAFE Labs (and sign your own lab up!) <a href="https://safelabs.info/">here</a>.</p>-->
+<p>The Whelan lab has been recognized as and is committed to the tenants of SAFE Labs. SAFE Labs stands for Staring Aware Fair and Equitable Labs and is a grassroots initiative founded in 2024 by group leaders who want to run labs that are fair, equitable, and enjoyable to be part of. You can learn more about SAFE Labs (and sign your own lab up!) <a href="https://safelabs.info/">here</a>.</p>
 
 
 <h4><b>Other Resources</b></h4>
