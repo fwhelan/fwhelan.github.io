@@ -67,6 +67,12 @@ Rebecca is a PhD student (2025-2029) funded by PULSE-CF. Within this, she is exp
 </div>
 
 <div id="content">
+<img align="right" src="/assets/images/members/MaisonH-Picture.jpg" alt="drawing" width="300"/>
+<h3><b>Maison Hsu, UoM Presidential Doctoral PhD student</b> (she/her)</h3>
+Maison is a PhD student funded by the University of Manchester’s Presidential Doctoral Scholarship (2026–2030). Her research investigates how environmental pollutants affect the lung microbiome and its interactions with the pulmonary immune system. Maison previously completed an MSc in Bioinformatics at the University of Bristol, where she investigated heat tolerance in bee species through phylogenetic analysis. Before her PhD, she worked at the University of Southern California’s Keck School of Medicine, conducting liver disease research and managing a research core. She also has experience in quality control microbiology. Outside the lab, Maison enjoys reading with her cat, being outdoors and spending time with friends.
+</div>
+
+<div id="content">
 <img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
 <h3><b>Hannah Jones 🇬🇧, Research Assistant</b> (she/her)</h3>
 Hannah is a research assistant at the University of Manchester. Previously, Hannah worked as a scientist at a microbiology-based contract research organisation, testing <i>in vitro</i> devices designed to remove biofilms within the wound care industry. She also worked at QIAGEN developing <i>in vitro</i> cancer diagnostic assays using digital PCR. Hannah conducted a BSc in Biological and Medical sciences and an MSc in International Public Health, where she investigated the microvascular system of sepsis patients in a hospital in Malawi. In the Whelan lab, Hannah will be investigating the strain diversity and microbe interaction in the cystic fibrosis lung microbiome. Out of work Hannah enjoys reading, hiking and weightlifting.
