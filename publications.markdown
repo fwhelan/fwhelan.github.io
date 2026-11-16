@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -109,50 +109,48 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
+  <img src="/assets/images/research/papers-ode16S.png" style="width:100%">
+  <div class="text"><a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001823" style="color:#191919;"><b>FJ Whelan</b> & LJ Hall. <u>An ode to the 16S rRNA gene: its history, importance, caveats and future in microbiome research.</u> (2026). Microbial Genomics, 12(8)</a></div>
+</div>
+
+  <div class="numbertext">2 / 8</div>
+  <img src="/assets/images/research/papers-social.png" style="width:100%">
+  <div class="text"><a href="https://portlandpress.com/essaysbiochem/article/70/3/473/237850/How-the-social-lives-of-bacteria-affect-their" style="color:#191919;"><b>FJ Whelan</b>. <u>How the social lives of bacteria affect their pangenome.</u> (2026). Essays Biochem, 70(3):473-482.</a></div>
+</div>
+
+  <div class="numbertext">3 / 8</div>
   <img src="/assets/images/research/papers-elderly23.png" style="width:100%">
   <div class="text"><a href="https://openres.ersjournals.com/content/early/2023/07/20/23120541.00212-2023.abstract" style="color:#191919;">DME Bowdish, L Rossi, M Loeb, J Johnstone, LP Schenck, M Fontes, MG Surette, <b>FJ Whelan</b>. <u>The impact of respiratory infections and probiotic use on the nasal microbiota of frail residents in long-term care homes.</u> (2023). ERJ Open Research, DOI: 10.1183/23120541.00212-2023.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 8</div>
+  <div class="numbertext">4 / 8</div>
   <img src="/assets/images/research/papers-pseudomonas.png" style="width:100%">
   <div class="text"><a href="https://academic.oup.com/mbe/article-abstract/38/9/3697/6272232" style="color:#191919;"><b>FJ Whelan</b>, RJ Hall, JO McInerney. <u>Evidence for selection in a prokaryote pangenome.</u> (2021). Molecular Biology & Evolution, msab139.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 8</div>
+  <div class="numbertext">5 / 8</div>
   <img src="/assets/images/research/papers-coinfinder.png" style="width:100%">
   <div class="text"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200068/" style="color:#191919;"><b>FJ Whelan</b>, M Rusilowicz, JO McInerney. <u>Coinfinder: detecting significant associations and dissociations in pangenomes.</u> (2020). Microbial Genomics 6 (3).</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 8</div>
+  <div class="numbertext">6 / 8</div>
   <img src="/assets/images/research/papers-cemg.png" style="width:100%">
   <div class="text"><a href="https://www.nature.com/articles/s41564-019-0643-y" style="color:#191919;"><b>FJ Whelan</b>, B Waddell, SA Syed, S Shekarriz, HR Rabin, MD Parkins, MG Surette. <u>Culture-enriched metagenomic sequencing enables in-depth profiling of the cystic fibrosis lung microbiota.</u> (2020). Nature Microbiology 5 (2), 379-390.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 8</div>
-  <img src="/assets/images/research/papers-longCF.png" style="width:100%">
-  <div class="text"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172811" style="color:#191919;"><b>FJ Whelan</b>, AA Heirali, L Rossi, HR Rabin, MD Parkins, MG Surette. <u>Longitudinal sampling of the lung microbiota in individuals with cystic fibrosis.</u> PloS one 12 (3), e0172811.</a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 8</div>
+  <div class="numbertext">7 / 8</div>
   <img src="/assets/images/research/papers-opinionCF.png" style="width:100%">
   <div class="text"><a href="https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.201506-353AW" style="color:#191919;"><b>FJ Whelan</b>, MG Surette. <u>Clinical Insights into Pulmonary Exacerbations in Cystic Fibrosis from the Microbiome. What Are We Missing?</u> Annals of the American Thoracic Society 12 (Supplement 2), S207-S211.</a></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 8</div>
+  <div class="numbertext">8 / 8</div>
   <img src="/assets/images/research/papers-elderly.png" style="width:100%">
   <div class="text"><a href="https://www.atsjournals.org/doi/abs/10.1513/annalsats.201310-351oc" style="color:#191919;"><b>FJ Whelan</b>, CP Verschoor, JC Stearns, L Rossi, K Luinstra, M Loeb, M Smieja, J Johnstone, MG Surette, DME Bowdish. <u>The Loss of Topography in the Microbial Communities of the Upper Respiratory Tract in the Elderly.</u> Annals of the American Thoracic Society 11 (4), 513-521.</a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">8 / 8</div>
-  <img src="/assets/images/research/papers-cASRs.png" style="width:100%">
-  <div class="text"><a href="https://link.springer.com/article/10.1186/1471-2148-12-227" style="color:#191919;"><b>FJ Whelan</b>, CJ Meehan, GB Golding, BJ McConkey, DME Bowdish. <u>The evolution of the class A scavenger receptors</u>. BMC evolutionary biology 12 (1), 1-11.</a></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>

@@ -85,22 +85,6 @@ Lucy is a Research Technician in the whelan lab, where she works to support cult
 </div>
 
 <div id="content">
-<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Haneeyah Ahmad, MSc Medical Microbiology student</b> </h3>
-</div>
-
-<div id="content">
-<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
-<h3><b>Amin Miah, MSc Bioinformatics and Systems biology student</b> </h3>
-</div>
-
-<div id="content">
-<img align = "right" src="/assets/images/members/Ruth-Picture.jpg" alt="drawing" width="220"/>
-<h3><b>Ruth Legesse 🇪🇹🇮🇹🇬🇧, Lister summer student</b> (she/her)</h3>
-Ruth is an incoming final-year Biochemistry student at the University of Manchester. Previously, she has completed short research projects at the Geoffrey Jefferson Institute of Brain Research focussed on neuroinflammation in stroke and dementia. Her most recent experience entailed developing a human primary cell culture model for Th17 polarization suitable for compound screening at a contract research organisation. Despite her more immunology-centred background, Ruth has developed a strong interest in bioinformatics and hopes to learn more about computational models of development through her postgraduate studies. When she is not in the lab, Ruth is also the co-chair of the North West Biotech Initiative and enjoys playing tennis and guitar as well as writing.
-</div>
-
-<div id="content">
 <img align="right" src="/assets/images/members/question-mark.jpg" alt="drawing" width="220"/>
 <h3><b>You?</b></h3>
 
@@ -108,6 +92,22 @@ Would you like to join the Whelan lab? Head over to <a href="https://www.whelanl
 </div>
 
 <div class="separator">Alumni</div>
+
+<div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
+<h3><b>Haneeyah Ahmad, MSc Medical Microbiology student</b> (2026)</h3>
+</div>
+
+<div id="content">
+<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>
+<h3><b>Amin Miah, MSc Bioinformatics and Systems biology student</b> (2026)</h3>
+</div>
+
+<div id="content">
+<!--<img align = "right" src="/assets/images/members/Ruth-Picture.jpg" alt="drawing" width="220"/>-->
+<h3><b>Ruth Legesse 🇪🇹🇮🇹🇬🇧, Lister summer student</b> (2026)</h3>
+Ruth is an incoming final-year Biochemistry student at the University of Manchester. Previously, she has completed short research projects at the Geoffrey Jefferson Institute of Brain Research focussed on neuroinflammation in stroke and dementia. Her most recent experience entailed developing a human primary cell culture model for Th17 polarization suitable for compound screening at a contract research organisation. Despite her more immunology-centred background, Ruth has developed a strong interest in bioinformatics and hopes to learn more about computational models of development through her postgraduate studies. When she is not in the lab, Ruth is also the co-chair of the North West Biotech Initiative and enjoys playing tennis and guitar as well as writing.
+</div>
 
 <div id="content">
 <!--<img align = "right" src="/assets/images/whelanlab-logo.png" alt="drawing" width="220"/>-->

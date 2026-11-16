@@ -164,10 +164,10 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
     <!--<p style="color:#008CEE">As part of the BBSRC North West Doctoral (NWD) Programme in Bioscience <a href="https://www.liverpool.ac.uk/people/jo-fothergill">Prof Jo Fothergill</a>, <a href="https://research.manchester.ac.uk/en/persons/michael.brockhurst">Prof Mike Brockhurst</a>, and I are encouraging applications for a PhD studentship entitled <i>"Understanding how commensal bacteria modulate the virulence of Pseudomonas aeruginosa"</i>. This project is a lab-based project - with some bioinformatic work - that aims to understand how microbes can interact with <i>Pseudomonas aeruginosa</i> to change its pathogenecity. One way that the student will use to explore these questions is via use of a <i>Drosophila melanogaster</i> chronic infection model.  Experience with traditional microbial techniques and/or working with <i>Drosophila melanogaster</i> is an assest. For more information and to apply, please visit <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/bbsrc-nwdp/projects/">the NWD webpage</a> and <a href="https://www.findaphd.com/phds/project/bbsrc-nwd-understanding-how-commensal-bacteria-modulate-the-virulence-of-pseudomonas-aeruginosa/?p180407">findaphd.com</a>. Application deadline: 31 January 2025. </p>-->
   <!--</div>-->
 <!--</div>-->
+<!--<br>
 <br>
-<br>
-<br>
-<div class="col-container">
+<br>-->
+<!--<div class="col-container">
   <div class="box1">
     <p style="color:#008CEE"><b>Research Assistant </b></p>
   </div>
@@ -177,7 +177,7 @@ The Whelan lab is located in the Michael Smith building on the <a href="https://
   <div class="box3">
     <p style="color:#008CEE"> The Whelan lab will soon be hiring an RA whose role will include the technical support of a range of project specific research activities including DNA extraction, PCR, and bacterial colony isolation and sequencing. Applications for this job are now open; please apply via the University's jobs page <a href="https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=35017">here</a>. Applications due 28 May 2026.</p>
   </div>
-</div>
+</div>-->
 <br>
 <br>
 <br>
