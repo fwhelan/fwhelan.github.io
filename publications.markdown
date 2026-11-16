@@ -113,16 +113,19 @@ img {vertical-align: middle;}
   <div class="text"><a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001823" style="color:#191919;"><b>FJ Whelan</b> & LJ Hall. <u>An ode to the 16S rRNA gene: its history, importance, caveats and future in microbiome research.</u> (2026). Microbial Genomics, 12(8)</a></div>
 </div>
 
+<div class="mySlides fade">
   <div class="numbertext">2 / 8</div>
   <img src="/assets/images/research/papers-social.png" style="width:100%">
   <div class="text"><a href="https://portlandpress.com/essaysbiochem/article/70/3/473/237850/How-the-social-lives-of-bacteria-affect-their" style="color:#191919;"><b>FJ Whelan</b>. <u>How the social lives of bacteria affect their pangenome.</u> (2026). Essays Biochem, 70(3):473-482.</a></div>
 </div>
 
+<div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
   <img src="/assets/images/research/papers-elderly23.png" style="width:100%">
   <div class="text"><a href="https://openres.ersjournals.com/content/early/2023/07/20/23120541.00212-2023.abstract" style="color:#191919;">DME Bowdish, L Rossi, M Loeb, J Johnstone, LP Schenck, M Fontes, MG Surette, <b>FJ Whelan</b>. <u>The impact of respiratory infections and probiotic use on the nasal microbiota of frail residents in long-term care homes.</u> (2023). ERJ Open Research, DOI: 10.1183/23120541.00212-2023.</a></div>
 </div>
 
+<div class="mySlides fade">
   <div class="numbertext">4 / 8</div>
   <img src="/assets/images/research/papers-pseudomonas.png" style="width:100%">
   <div class="text"><a href="https://academic.oup.com/mbe/article-abstract/38/9/3697/6272232" style="color:#191919;"><b>FJ Whelan</b>, RJ Hall, JO McInerney. <u>Evidence for selection in a prokaryote pangenome.</u> (2021). Molecular Biology & Evolution, msab139.</a></div>
