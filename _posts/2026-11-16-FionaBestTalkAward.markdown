@@ -13,6 +13,6 @@ Congratulations, Fiona!
 [genomescience]:https://genomescience.org.uk/
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/fiona-genomescience-talk.jpg){:width="400px" }
+![image](/assets/images/fiona-genomescience-talk.jpg){:width="700px" }
 {: refdef}
 
